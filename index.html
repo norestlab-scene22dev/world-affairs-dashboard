@@ -208,10 +208,82 @@
     margin-bottom: 18px;
   }
   code { background: var(--panel-alt); padding: 1px 5px; border-radius: 4px; }
+
+  .summary-panel {
+    background: linear-gradient(135deg, rgba(79,158,255,.12), rgba(79,158,255,.02));
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 20px;
+    margin-bottom: 22px;
+  }
+  .summary-panel .headline { font-size: 13.5px; line-height: 1.7; }
+  .summary-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+  .summary-tag {
+    font-size: 11px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    background: var(--panel-alt);
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+  }
+
+  #gate {
+    position: fixed;
+    inset: 0;
+    background: var(--bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+  }
+  .hidden { display: none !important; }
+  .gate-box {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 32px 30px;
+    width: 300px;
+    text-align: center;
+  }
+  .gate-box h2 { font-size: 15px; margin: 0 0 6px 0; }
+  .gate-box p { font-size: 12px; color: var(--text-dim); margin: 0 0 18px 0; }
+  .gate-box input {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--panel-alt);
+    color: var(--text);
+    font-size: 14px;
+    margin-bottom: 12px;
+  }
+  .gate-box button {
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 8px;
+    border: none;
+    background: var(--accent);
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .gate-error { color: var(--down); font-size: 11.5px; margin-top: 10px; min-height: 14px; }
 </style>
 </head>
 <body>
 
+<div id="gate">
+  <div class="gate-box">
+    <h2>世界情勢ダッシュボード</h2>
+    <p>合言葉を入力してください</p>
+    <input type="password" id="gate-input" placeholder="パスワード" autocomplete="off">
+    <button id="gate-submit">開く</button>
+    <div class="gate-error" id="gate-error"></div>
+  </div>
+</div>
+
+<div id="app" class="hidden">
 <header>
   <div>
     <h1>世界情勢 × 成長産業ダッシュボード</h1>
@@ -237,18 +309,68 @@
     <div class="empty-state">左のリストから分野を選択してください</div>
   </main>
 </div>
+</div><!-- /#app -->
 
 <script>
+// ===== アクセス制限（簡易共通パスワード） =====
+// パスワードを変更したい場合は、ターミナルで以下を実行してハッシュ値を作り、
+// PASSWORD_HASH を書き換えてください（家族内共有用の簡易ゲートです。厳密なセキュリティ用途ではありません）。
+//   echo -n "新しいパスワード" | shasum -a 256
+const PASSWORD_HASH = "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"; // デフォルト: "password"
+
+async function sha256Hex(text) {
+  const enc = new TextEncoder().encode(text);
+  const buf = await crypto.subtle.digest('SHA-256', enc);
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+async function tryUnlock(pw) {
+  const hash = await sha256Hex(pw);
+  return hash === PASSWORD_HASH;
+}
+
+function showApp() {
+  document.getElementById('gate').classList.add('hidden');
+  document.getElementById('app').classList.remove('hidden');
+  init();
+}
+
+(function initGate() {
+  if (localStorage.getItem('gate_unlocked') === 'true') {
+    showApp();
+    return;
+  }
+  const input = document.getElementById('gate-input');
+  const submit = document.getElementById('gate-submit');
+  const errorEl = document.getElementById('gate-error');
+
+  async function attempt() {
+    const ok = await tryUnlock(input.value);
+    if (ok) {
+      localStorage.setItem('gate_unlocked', 'true');
+      showApp();
+    } else {
+      errorEl.textContent = 'パスワードが違います';
+      input.value = '';
+      input.focus();
+    }
+  }
+  submit.addEventListener('click', attempt);
+  input.addEventListener('keydown', (e) => { if (e.key === 'Enter') attempt(); });
+})();
+
 const DATA_FILES = {
   sectors: 'data/sectors.json',
   news: 'data/news.json',
   stocks: 'data/stocks.json',
+  summary: 'data/summary.json',
 };
 const STORAGE_KEY = 'growth_eval_v1';
 
 let sectorsDef = [];
 let newsData = { items: [] };
 let stocksData = { sectors: [] };
+let summaryData = null;
 let currentSort = 'impact';
 let activeSectorId = null;
 
@@ -430,6 +552,21 @@ function renderNewsList(sectorId) {
     </div>`).join('');
 }
 
+function renderSummaryPanel() {
+  if (!summaryData || !summaryData.headline) return '';
+  const sectorMap = Object.fromEntries(sectorsDef.map(s => [s.id, s.name_ja]));
+  const tags = [
+    ...(summaryData.top_count_sectors || []).map(id => `報道量: ${sectorMap[id] || id}`),
+    ...(summaryData.top_impact_sectors || []).map(id => `株価: ${sectorMap[id] || id}`),
+  ];
+  return `
+    <div class="summary-panel">
+      <div class="section-title" style="margin-bottom:6px;">本日のサマリ <span class="pill">キーワード集計・自動生成 / ${fmtTime(summaryData.generated_at)}時点</span></div>
+      <div class="headline">${summaryData.headline}</div>
+      ${tags.length ? `<div class="summary-tags">${tags.map(t => `<span class="summary-tag">${t}</span>`).join('')}</div>` : ''}
+    </div>`;
+}
+
 function renderOverview() {
   const sorted = [...(stocksData.sectors || [])].filter(s => s.avg_change_pct !== null)
     .sort((a, b) => Math.abs(b.avg_change_pct) - Math.abs(a.avg_change_pct)).slice(0, 5);
@@ -453,10 +590,11 @@ function renderOverview() {
 
   return `
     <div class="refresh-hint">
-      表示中は保存済みのローカルデータです。最新情報にするには VSCode のターミナルで
-      <code>python scripts/fetch_news.py</code> と <code>python scripts/fetch_stocks.py</code> を実行し、
-      ブラウザをリロードしてください。
+      表示中は保存済みのデータです。GitHub Actionsで自動更新している場合は数時間おきに最新化されます。
+      手元で今すぐ更新したい場合はターミナルで <code>python scripts/fetch_news.py</code>、
+      <code>python scripts/fetch_stocks.py</code>、<code>python scripts/generate_summary.py</code> を実行してください。
     </div>
+    ${renderSummaryPanel()}
     <div class="section-title">株価インパクト上位分野 <span class="pill">|平均騰落率| が大きい順</span></div>
     <div class="stock-grid">${topMoversHtml}</div>
     <div class="section-title">最新ニュース（全分野横断）</div>
@@ -493,14 +631,16 @@ document.querySelectorAll('.sort-controls button').forEach(btn => {
 });
 
 async function init() {
-  const [sectorsRes, news, stocks] = await Promise.all([
+  const [sectorsRes, news, stocks, summary] = await Promise.all([
     fetchJSON(DATA_FILES.sectors),
     fetchJSON(DATA_FILES.news),
     fetchJSON(DATA_FILES.stocks),
+    fetchJSON(DATA_FILES.summary),
   ]);
   sectorsDef = sectorsRes ? sectorsRes.sectors : [];
   newsData = news || { items: [] };
   stocksData = stocks || { sectors: [] };
+  summaryData = summary || null;
 
   document.getElementById('news-updated').textContent = news ? fmtTime(news.generated_at) : '未取得';
   document.getElementById('stocks-updated').textContent = stocks ? fmtTime(stocks.generated_at) : '未取得';
@@ -508,8 +648,7 @@ async function init() {
   renderSectorList();
   renderMain();
 }
-
-init();
+// init() は #gate 通過後（showApp内）で呼び出されます
 </script>
 </body>
 </html>
