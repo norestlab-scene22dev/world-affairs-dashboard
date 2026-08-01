@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T06:27:37.351537+00:00",
+  "generated_at": "2026-08-01T06:49:59.755867+00:00",
   "lookback_hours": 30,
-  "total_articles": 188,
-  "headline": "直近30時間で188件のニュースを検出。 報道量が多い分野はAI・半導体(31件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 189,
+  "headline": "直近30時間で189件のニュースを検出。 報道量が多い分野はAI・半導体(31件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "content",
@@ -68,7 +68,7 @@
     {
       "sector_id": "quantum",
       "name_ja": "量子",
-      "article_count": 9,
+      "article_count": 10,
       "avg_change_pct": -0.72,
       "top_keywords": [
         "quantum computing",
@@ -77,8 +77,8 @@
       ],
       "top_titles": [
         "NIST Finalizes Three Post-Quantum Encryption Standards For Secure Data - Quantum Zeitgeist",
-        "Quantum Computing EOs Create Immediate Compliance Deadlines, New Federal Partnership Opportunities - JD Supra",
-        "Ticker Take co-founders Jon Erlichmann and Caroline Lesley talk quantum computing - qz.com"
+        "「答えが正しい」と証明できる量子優位性をIBMが初めて示した - xenospectrum.com",
+        "Quantum Computing EOs Create Immediate Compliance Deadlines, New Federal Partnership Opportunities - JD Supra"
       ]
     },
     {
@@ -143,7 +143,7 @@
       "top_titles": [
         "Beihai Shipbuilding Reaches 100-Vessel Orderbook Milestone with New COSCO Shipping Bulk Contract - imarinenews.com",
         "Former Maran Gas LNG carrier emerges under Russian flag - TradeWinds News",
-        "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - Yahoo Finance"
+        "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - finance.yahoo.com"
       ]
     },
     {
@@ -236,9 +236,9 @@
         "disaster prevention"
       ],
       "top_titles": [
+        "イッツコム、『レジリエンス認証』(国土強靭化貢献団体認証) 更新 - 電波タイムズ",
         "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞（WEBザテレビジョン） - Yahoo!ニュース",
-        "Kerala prepares disaster-prevention measures as heavy rains lash States - The Hindu",
-        "『レジリエンス認証』(国土強靭化貢献団体認証) 更新 - PR TIMES"
+        "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞ - ｄメニューニュース"
       ]
     },
     {
@@ -285,7 +285,7 @@
       "top_titles": [
         "ACTION 14｜「プレシーズンゲーム 群馬クレインサンダーズ戦」開催 - 東京サンロッカーズ",
         "This RPG Brings Cosmic Horror to an Anime Pixel Art Style - 80 Level",
-        "Mika Nakashima Drops Mushoku Tensei: Jobless Reincarnation Season 3 Anime Ending Song Music Video - Crunchyroll"
+        "アニメ『僕のヒーローアカデミア』 - アニメ『僕のヒーローアカデミア』"
       ]
     }
   ]
