@@ -316,7 +316,7 @@
 // パスワードを変更したい場合は、ターミナルで以下を実行してハッシュ値を作り、
 // PASSWORD_HASH を書き換えてください（家族内共有用の簡易ゲートです。厳密なセキュリティ用途ではありません）。
 //   echo -n "新しいパスワード" | shasum -a 256
-const PASSWORD_HASH = "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"; // デフォルト: "password"
+const PASSWORD_HASH = "2760b00916077504a0b3409ad0e151ec67fe0af3e0ea6ff2893aa04114f975cf"; // デフォルト: "password"
 
 async function sha256Hex(text) {
   const enc = new TextEncoder().encode(text);
