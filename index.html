@@ -18,6 +18,18 @@
     --flat: #8b94a8;
     --radius: 10px;
   }
+  body.theme-teal {
+    --bg: #0b1615; --panel: #11201e; --panel-alt: #16302c; --border: #234039;
+    --text: #e6f3f0; --text-dim: #8fada6; --accent: #2dd4bf; --up: #4ade80; --down: #fb7185; --flat: #8fada6;
+  }
+  body.theme-charcoal {
+    --bg: #1a1613; --panel: #231e19; --panel-alt: #2c2520; --border: #3d332b;
+    --text: #f3ece3; --text-dim: #a89a89; --accent: #f0a94e; --up: #7dd88a; --down: #f2685c; --flat: #a89a89;
+  }
+  body.theme-contrast {
+    --bg: #000000; --panel: #101010; --panel-alt: #1a1a1a; --border: #333333;
+    --text: #ffffff; --text-dim: #a0a0a0; --accent: #00e5ff; --up: #00ff9c; --down: #ff5252; --flat: #a0a0a0;
+  }
   * { box-sizing: border-box; }
   body {
     margin: 0;
@@ -43,7 +55,18 @@
     font-size: 12px;
     color: var(--text-dim);
   }
-  .meta-row { display: flex; gap: 18px; font-size: 12px; color: var(--text-dim); }
+  .header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+  .meta-row { display: flex; gap: 18px; font-size: 12px; color: var(--text-dim); flex-wrap: wrap; justify-content: flex-end; }
+  .theme-switch { display: flex; align-items: center; gap: 6px; }
+  .theme-switch label { font-size: 11px; color: var(--text-dim); }
+  .theme-switch select {
+    background: var(--panel-alt);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 6px;
+    padding: 4px 8px;
+    font-size: 11px;
+  }
   .layout {
     display: grid;
     grid-template-columns: 340px 1fr;
@@ -55,6 +78,12 @@
     padding: 16px;
     overflow-y: auto;
     max-height: calc(100vh - 78px);
+  }
+  .sidebar-hint {
+    font-size: 10.5px;
+    color: var(--text-dim);
+    margin-bottom: 12px;
+    line-height: 1.6;
   }
   .sort-controls {
     display: flex;
@@ -98,22 +127,38 @@
     font-weight: 700;
     padding: 2px 8px;
     border-radius: 20px;
+    cursor: help;
   }
   .badge.up { color: var(--up); background: rgba(62,207,142,.12); }
   .badge.down { color: var(--down); background: rgba(255,107,107,.12); }
   .badge.flat { color: var(--flat); background: rgba(139,148,168,.12); }
   .sector-sub { font-size: 11px; color: var(--text-dim); margin-top: 4px; }
-  .score-mini { font-size: 10.5px; color: var(--text-dim); margin-top: 6px; }
+  .score-mini { font-size: 10.5px; color: var(--text-dim); margin-top: 6px; cursor: help; }
 
   main { padding: 22px 30px; overflow-y: auto; max-height: calc(100vh - 78px); }
-  .section-title { font-size: 15px; font-weight: 700; margin: 0 0 12px 0; display: flex; align-items: center; gap: 8px; }
+  .section-title { font-size: 15px; font-weight: 700; margin: 0 0 12px 0; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
   .pill { font-size: 11px; color: var(--text-dim); font-weight: 400; }
+
+  .back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--panel-alt);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 7px 14px;
+    border-radius: 20px;
+    font-size: 12.5px;
+    cursor: pointer;
+    margin-bottom: 16px;
+  }
+  .back-btn:hover { border-color: var(--accent); color: var(--accent); }
 
   .stock-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 10px;
-    margin-bottom: 22px;
+    margin-bottom: 8px;
   }
   .stock-tile {
     background: var(--panel);
@@ -121,9 +166,23 @@
     border-radius: var(--radius);
     padding: 10px 12px;
   }
-  .stock-tile .ticker { font-size: 12px; color: var(--text-dim); }
+  .stock-tile .company { font-size: 12.5px; font-weight: 600; line-height: 1.3; }
+  .stock-tile .ticker { font-size: 11px; color: var(--text-dim); margin-top: 2px; }
   .stock-tile .price { font-size: 16px; font-weight: 700; margin: 4px 0; }
-  .stock-tile .chg { font-size: 12px; font-weight: 700; }
+  .stock-tile .chg { font-size: 12px; font-weight: 700; cursor: help; }
+  .stock-hint { font-size: 10.5px; color: var(--text-dim); margin-bottom: 20px; }
+
+  .news-tabs { display: flex; gap: 6px; margin-bottom: 12px; }
+  .tab-btn {
+    background: var(--panel-alt);
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    padding: 5px 14px;
+    font-size: 12px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  .tab-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
 
   .news-item {
     background: var(--panel);
@@ -134,9 +193,17 @@
   }
   .news-item a { color: var(--text); text-decoration: none; font-size: 14px; font-weight: 600; }
   .news-item a:hover { color: var(--accent); }
-  .news-meta { font-size: 11px; color: var(--text-dim); margin-top: 6px; display: flex; gap: 10px; }
+  .news-meta { font-size: 11px; color: var(--text-dim); margin-top: 6px; display: flex; gap: 10px; flex-wrap: wrap; }
   .news-original { font-size: 11px; font-weight: 400; color: var(--text-dim); margin-top: 3px; }
   .news-summary { font-size: 12.5px; color: var(--text-dim); margin-top: 8px; }
+  .lang-tag {
+    display: inline-block;
+    font-size: 10px;
+    padding: 1px 7px;
+    border-radius: 20px;
+    background: var(--panel-alt);
+    border: 1px solid var(--border);
+  }
   .sector-tag {
     display: inline-block;
     font-size: 10px;
@@ -211,7 +278,7 @@
   code { background: var(--panel-alt); padding: 1px 5px; border-radius: 4px; }
 
   .summary-panel {
-    background: linear-gradient(135deg, rgba(79,158,255,.12), rgba(79,158,255,.02));
+    background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 14%, transparent), color-mix(in srgb, var(--accent) 2%, transparent));
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 16px 20px;
@@ -270,9 +337,30 @@
     cursor: pointer;
   }
   .gate-error { color: var(--down); font-size: 11.5px; margin-top: 10px; min-height: 14px; }
+
+  /* ===== スマホ対応 ===== */
+  @media (max-width: 768px) {
+    header { padding: 14px 16px; }
+    header h1 { font-size: 16px; }
+    .header-right { align-items: flex-start; width: 100%; }
+    .meta-row { justify-content: flex-start; font-size: 11px; gap: 12px; }
+    .layout { grid-template-columns: 1fr; min-height: auto; }
+    aside {
+      border-right: none;
+      border-bottom: 1px solid var(--border);
+      max-height: none;
+      padding: 12px;
+    }
+    #sector-list { display: flex; overflow-x: auto; gap: 8px; padding-bottom: 6px; -webkit-overflow-scrolling: touch; }
+    .sector-card { min-width: 190px; flex: 0 0 auto; margin-bottom: 0; }
+    main { padding: 16px; max-height: none; overflow-y: visible; }
+    .eval-grid { grid-template-columns: 1fr; }
+    .stock-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+    .section-title { font-size: 14px; }
+  }
 </style>
 </head>
-<body>
+<body class="theme-midnight">
 
 <div id="gate">
   <div class="gate-box">
@@ -290,14 +378,26 @@
     <h1>世界情勢 × 成長産業ダッシュボード</h1>
     <div class="sub">日本成長戦略「戦略17分野」を軸に、国内外ニュースと株価インパクトを一望</div>
   </div>
-  <div class="meta-row">
-    <span>ニュース更新: <span id="news-updated">-</span></span>
-    <span>株価更新: <span id="stocks-updated">-</span></span>
+  <div class="header-right">
+    <div class="meta-row">
+      <span>ニュース更新: <span id="news-updated">-</span></span>
+      <span>株価更新: <span id="stocks-updated">-</span></span>
+    </div>
+    <div class="theme-switch">
+      <label for="theme-select">カラー</label>
+      <select id="theme-select">
+        <option value="midnight">ミッドナイトブルー</option>
+        <option value="teal">スレートティール</option>
+        <option value="charcoal">ウォームチャコール</option>
+        <option value="contrast">ハイコントラスト</option>
+      </select>
+    </div>
   </div>
 </header>
 
 <div class="layout">
   <aside>
+    <div class="sidebar-hint">% は各分野の代表銘柄の平均前日比騰落率、自己評価スコアは成長株4条件（①市場成長性②市場シェア③参入障壁④マネタイズ力）の1〜5点の平均です</div>
     <div class="sort-controls">
       <button data-sort="impact" class="active">株価インパクト順</button>
       <button data-sort="name">分野名順</button>
@@ -313,25 +413,11 @@
 </div><!-- /#app -->
 
 <script>
-  const DATA_FILES = {
-  sectors: 'data/sectors.json',
-  news: 'data/news.json',
-  stocks: 'data/stocks.json',
-  summary: 'data/summary.json',
-};
-const STORAGE_KEY = 'growth_eval_v1';
-
-let sectorsDef = [];
-let newsData = { items: [] };
-let stocksData = { sectors: [] };
-let summaryData = null;
-let currentSort = 'impact';
-let activeSectorId = null;
 // ===== アクセス制限（簡易共通パスワード） =====
 // パスワードを変更したい場合は、ターミナルで以下を実行してハッシュ値を作り、
 // PASSWORD_HASH を書き換えてください（家族内共有用の簡易ゲートです。厳密なセキュリティ用途ではありません）。
 //   echo -n "新しいパスワード" | shasum -a 256
-const PASSWORD_HASH = "2760b00916077504a0b3409ad0e151ec67fe0af3e0ea6ff2893aa04114f975cf"; // デフォルト: "password"
+const PASSWORD_HASH = "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"; // デフォルト: "password"
 
 async function sha256Hex(text) {
   const enc = new TextEncoder().encode(text);
@@ -374,7 +460,38 @@ function showApp() {
   input.addEventListener('keydown', (e) => { if (e.key === 'Enter') attempt(); });
 })();
 
+// ===== カラーテーマ =====
+const THEME_KEY = 'dashboard_theme_v1';
+function applyTheme(name) {
+  document.body.className = 'theme-' + name;
+  localStorage.setItem(THEME_KEY, name);
+}
+(function initTheme() {
+  const saved = localStorage.getItem(THEME_KEY) || 'midnight';
+  applyTheme(saved);
+  const sel = document.getElementById('theme-select');
+  if (sel) sel.value = saved;
+})();
+document.addEventListener('DOMContentLoaded', () => {
+  const sel = document.getElementById('theme-select');
+  if (sel) sel.addEventListener('change', (e) => applyTheme(e.target.value));
+});
 
+const DATA_FILES = {
+  sectors: 'data/sectors.json',
+  news: 'data/news.json',
+  stocks: 'data/stocks.json',
+  summary: 'data/summary.json',
+};
+const STORAGE_KEY = 'growth_eval_v1';
+
+let sectorsDef = [];
+let newsData = { items: [] };
+let stocksData = { sectors: [] };
+let summaryData = null;
+let currentSort = 'impact';
+let activeSectorId = null;
+let newsLangFilter = 'all'; // all / ja / en
 
 function loadEvalStore() {
   try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
@@ -459,10 +576,10 @@ function renderSectorList() {
       <div class="sector-card ${sector.id === activeSectorId ? 'active' : ''}" data-id="${sector.id}">
         <div class="sector-card-top">
           <div class="sector-name">${sector.name_ja}</div>
-          <div class="badge ${cls}">${pctLabel}</div>
+          <div class="badge ${cls}" title="代表銘柄の平均前日比騰落率">${pctLabel}</div>
         </div>
         <div class="sector-sub">${sector.name_en} ・ ニュース${newsCount}件</div>
-        ${score !== null ? `<div class="score-mini">自己評価スコア: ${score.toFixed(1)} / 5</div>` : ''}
+        ${score !== null ? `<div class="score-mini" title="成長株4条件(市場成長性/市場シェア/参入障壁/マネタイズ力)の自己評価スコア、1〜5の平均">自己評価スコア: ${score.toFixed(1)} / 5</div>` : ''}
       </div>`;
   }).join('');
 
@@ -493,7 +610,7 @@ function renderEvalPanel(sector) {
 
   return `
     <div class="eval-panel">
-      <div class="section-title">成長株4条件 自己評価 <span class="pill">①市場成長性 ②市場シェア ③参入障壁 ④マネタイズ力（保存は自動・ブラウザのlocalStorageに保持）</span></div>
+      <div class="section-title">成長株4条件 自己評価 <span class="pill">①市場成長性 ②市場シェア ③参入障壁 ④マネタイズ力 / 各項目1(弱い)〜5(強い)で自己評価・保存は自動でブラウザのlocalStorageに保持</span></div>
       <div class="eval-grid">
         ${evalFieldRow('① 市場成長性', 'market_growth', sector.id, e.market_growth)}
         ${evalFieldRow('② 市場シェア(占有率)', 'market_share', sector.id, e.market_share)}
@@ -501,7 +618,7 @@ function renderEvalPanel(sector) {
         ${evalFieldRow('④ マネタイズ力', 'monetization', sector.id, e.monetization)}
       </div>
       <textarea class="eval-notes" id="eval-notes" placeholder="メモ・関連ニュースの所感など">${e.notes || ''}</textarea>
-      <div class="eval-total">総合スコア: <b>${total !== null ? total.toFixed(1) : '-'} / 5</b></div>
+      <div class="eval-total">総合スコア（4項目の平均）: <b>${total !== null ? total.toFixed(1) : '-'} / 5</b></div>
     </div>`;
 }
 
@@ -532,26 +649,57 @@ function bindEvalPanel(sector) {
 function renderStockGrid(sector) {
   const stock = getSectorStock(sector.id);
   if (!stock || !stock.stocks.length) return '<div class="empty-state">株価データがありません。fetch_stocks.py を実行してください。</div>';
-  return `<div class="stock-grid">` + stock.stocks.map(s => `
+  return `
+    <div class="stock-grid">` + stock.stocks.map(s => `
     <div class="stock-tile">
+      <div class="company">${s.name || s.ticker}</div>
       <div class="ticker">${s.ticker}</div>
       <div class="price">${s.price} ${s.currency || ''}</div>
-      <div class="chg ${changeClass(s.change_pct)}">${s.change_pct > 0 ? '+' : ''}${s.change_pct}%</div>
-    </div>`).join('') + `</div>`;
+      <div class="chg ${changeClass(s.change_pct)}" title="前日比騰落率">${s.change_pct > 0 ? '+' : ''}${s.change_pct}%</div>
+    </div>`).join('') + `</div>
+    <div class="stock-hint">この分野の代表銘柄（会社名・ティッカー）と前日比の株価騰落率です</div>`;
 }
+
 function newsTitleHtml(n) {
   if (n.title_ja && n.title_ja !== n.title) {
-  return `${n.title_ja}<div class="news-original">${n.title}</div>`;
+    return `${n.title_ja}<div class="news-original">${n.title}</div>`;
   }
   return n.title;
 }
+
+function filterByLang(items) {
+  if (newsLangFilter === 'all') return items;
+  return items.filter(n => n.lang === newsLangFilter);
+}
+
+function newsTabsHtml() {
+  const tabs = [
+    { key: 'all', label: 'すべて' },
+    { key: 'ja', label: '日本' },
+    { key: 'en', label: '海外' },
+  ];
+  return `<div class="news-tabs">${tabs.map(t =>
+    `<button class="tab-btn ${newsLangFilter === t.key ? 'active' : ''}" data-lang="${t.key}">${t.label}</button>`
+  ).join('')}</div>`;
+}
+
+function bindNewsTabs() {
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      newsLangFilter = btn.dataset.lang;
+      renderMain();
+    });
+  });
+}
+
 function renderNewsList(sectorId) {
-  const items = newsData.items.filter(n => n.sector_id === sectorId);
-  if (!items.length) return '<div class="empty-state">この分野のニュースはまだありません。fetch_news.py を実行してください。</div>';
+  const items = filterByLang(newsData.items.filter(n => n.sector_id === sectorId));
+  if (!items.length) return '<div class="empty-state">該当するニュースがありません。</div>';
   return items.map(n => `
     <div class="news-item">
       <a href="${n.link}" target="_blank" rel="noopener">${newsTitleHtml(n)}</a>
       <div class="news-meta">
+        <span class="lang-tag">${n.lang === 'en' ? '海外' : '日本'}</span>
         <span>${n.source}</span>
         <span>${relTime(n.published)} (${fmtTime(n.published)})</span>
       </div>
@@ -574,37 +722,51 @@ function renderSummaryPanel() {
     </div>`;
 }
 
+function renderSectorSummaryPanel(sectorId) {
+  if (!summaryData || !summaryData.sectors) return '';
+  const s = summaryData.sectors.find(x => x.sector_id === sectorId);
+  if (!s || !s.headline) return '';
+  return `
+    <div class="summary-panel">
+      <div class="section-title" style="margin-bottom:6px;">この分野のサマリ <span class="pill">キーワード集計・自動生成</span></div>
+      <div class="headline">${s.headline}</div>
+    </div>`;
+}
+
 function renderOverview() {
   const sorted = [...(stocksData.sectors || [])].filter(s => s.avg_change_pct !== null)
     .sort((a, b) => Math.abs(b.avg_change_pct) - Math.abs(a.avg_change_pct)).slice(0, 5);
 
   const topMoversHtml = sorted.length ? sorted.map(s => `
     <div class="stock-tile">
-      <div class="ticker">${s.name_ja}</div>
-      <div class="chg ${changeClass(s.avg_change_pct)}" style="font-size:16px;margin-top:6px;">
+      <div class="company">${s.name_ja}</div>
+      <div class="chg ${changeClass(s.avg_change_pct)}" title="分野内・代表銘柄の平均前日比騰落率" style="font-size:16px;margin-top:6px;">
         ${s.avg_change_pct > 0 ? '+' : ''}${s.avg_change_pct}%
       </div>
     </div>`).join('') : '<div class="empty-state">株価データがありません</div>';
 
-  const latestNews = [...newsData.items].slice(0, 12);
+  const latestNews = filterByLang([...newsData.items]).slice(0, 12);
   const sectorMap = Object.fromEntries(sectorsDef.map(s => [s.id, s.name_ja]));
   const newsHtml = latestNews.length ? latestNews.map(n => `
     <div class="news-item">
       <span class="sector-tag">${sectorMap[n.sector_id] || n.sector_id}</span>
+      <span class="lang-tag" style="margin-left:6px;">${n.lang === 'en' ? '海外' : '日本'}</span>
       <div style="margin-top:8px;"><a href="${n.link}" target="_blank" rel="noopener">${newsTitleHtml(n)}</a></div>
       <div class="news-meta"><span>${n.source}</span><span>${relTime(n.published)}</span></div>
-    </div>`).join('') : '<div class="empty-state">ニュースデータがありません。scripts/fetch_news.py を実行してください。</div>';
+      ${n.summary ? `<div class="news-summary">${n.summary}</div>` : ''}
+    </div>`).join('') : '<div class="empty-state">該当するニュースがありません。</div>';
 
   return `
     <div class="refresh-hint">
-      表示中は保存済みのデータです。GitHub Actionsで自動更新している場合は数時間おきに最新化されます。
+      表示中は保存済みのデータです。GitHub Actionsで自動更新している場合は毎朝8時(JST)に最新化されます。
       手元で今すぐ更新したい場合はターミナルで <code>python scripts/fetch_news.py</code>、
       <code>python scripts/fetch_stocks.py</code>、<code>python scripts/generate_summary.py</code> を実行してください。
     </div>
     ${renderSummaryPanel()}
-    <div class="section-title">株価インパクト上位分野 <span class="pill">|平均騰落率| が大きい順</span></div>
+    <div class="section-title">株価インパクト上位分野 <span class="pill" title="各分野の代表銘柄の平均前日比騰落率(|値|が大きい順)">|平均騰落率| が大きい順</span></div>
     <div class="stock-grid">${topMoversHtml}</div>
     <div class="section-title">最新ニュース（全分野横断）</div>
+    ${newsTabsHtml()}
     ${newsHtml}`;
 }
 
@@ -612,20 +774,34 @@ function renderMain() {
   const main = document.getElementById('main-content');
   if (!activeSectorId) {
     main.innerHTML = renderOverview();
+    bindNewsTabs();
     return;
   }
   const sector = sectorsDef.find(s => s.id === activeSectorId);
   if (!sector) { main.innerHTML = '<div class="empty-state">分野が見つかりません</div>'; return; }
 
   main.innerHTML = `
+    <button class="back-btn" id="back-to-top">← 全体表示に戻る</button>
     <div class="section-title">${sector.name_ja} <span class="pill">${sector.name_en}</span></div>
     <div class="sector-sub" style="margin-bottom:16px;">対象: ${sector.subfields.join(' / ')}</div>
+    ${renderSectorSummaryPanel(sector.id)}
     ${renderStockGrid(sector)}
     ${renderEvalPanel(sector)}
     <div class="section-title">関連ニュース</div>
+    ${newsTabsHtml()}
     ${renderNewsList(sector.id)}
   `;
   bindEvalPanel(sector);
+  bindNewsTabs();
+  const backBtn = document.getElementById('back-to-top');
+  if (backBtn) {
+    backBtn.addEventListener('click', () => {
+      activeSectorId = null;
+      renderSectorList();
+      renderMain();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
 }
 
 document.querySelectorAll('.sort-controls button').forEach(btn => {

@@ -39,12 +39,18 @@ def fetch_ticker_data(ticker):
         last_close = float(hist["Close"].iloc[-1])
         prev_close = float(hist["Close"].iloc[-2]) if len(hist) >= 2 else last_close
         change_pct = ((last_close - prev_close) / prev_close * 100) if prev_close else 0.0
-        info_name = ticker
         try:
             fast_info = t.fast_info
             currency = getattr(fast_info, "currency", None) or fast_info.get("currency", "")
         except Exception:
             currency = ""
+        # 会社名（表示用）。取得に失敗した場合はティッカーをそのまま使う
+        info_name = ticker
+        try:
+            info = t.info
+            info_name = info.get("shortName") or info.get("longName") or ticker
+        except Exception:
+            pass
         return {
             "ticker": ticker,
             "name": info_name,

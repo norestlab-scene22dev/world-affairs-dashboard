@@ -73,13 +73,26 @@ def main():
         sid = sector["id"]
         sector_items = items_by_sector.get(sid, [])
         stock_info = stock_map.get(sid, {})
+        article_count = len(sector_items)
+        avg_change_pct = stock_info.get("avg_change_pct")
+        top_keywords = top_keywords_for_sector(sector_items, sector)
+
+        # 分野ごとの短い見出し文（AI不使用・テンプレートベース）
+        parts = [f"直近{LOOKBACK_HOURS}時間で{article_count}件のニュースを検出。"]
+        if top_keywords:
+            parts.append(f"話題のキーワード: {'、'.join(top_keywords)}。")
+        if avg_change_pct is not None:
+            parts.append(f"代表銘柄の平均株価は前日比{avg_change_pct:+.1f}%。")
+        sector_headline = " ".join(parts)
+
         sector_summaries.append({
             "sector_id": sid,
             "name_ja": sector["name_ja"],
-            "article_count": len(sector_items),
-            "avg_change_pct": stock_info.get("avg_change_pct"),
-            "top_keywords": top_keywords_for_sector(sector_items, sector),
+            "article_count": article_count,
+            "avg_change_pct": avg_change_pct,
+            "top_keywords": top_keywords,
             "top_titles": [it["title"] for it in sector_items[:3]],
+            "headline": sector_headline,
         })
 
     by_count = sorted(sector_summaries, key=lambda s: s["article_count"], reverse=True)
