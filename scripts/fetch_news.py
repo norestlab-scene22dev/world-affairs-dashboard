@@ -35,6 +35,7 @@ SECTORS_PATH = ROOT / "data" / "sectors.json"
 OUTPUT_PATH = ROOT / "data" / "news.json"
 
 TRANSLATE_SLEEP_SEC = 0.3  # 翻訳API(無料エンドポイント)への負荷軽減用ウェイト
+RETENTION_DAYS = 4  # これより古い記事(published基準)は削除する
 
 # 分野横断で拾う一般ニュースRSS（キーワードで分野に自動分類される）
 GENERAL_FEEDS = [
@@ -168,7 +169,32 @@ def collect_general_news(sectors, seen_links):
             items.append(normalize_entry(entry, feed_info["name"], sector_id, lang=feed_info.get("lang", "ja")))
     return items
 
+def load_existing_items():
+    """前回実行時の news.json を読み込む。無い/壊れている場合は空リストを返す。"""
+    if not OUTPUT_PATH.exists():
+        return []
+    try:
+        with open(OUTPUT_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("items", [])
+    except Exception as e:
+        print(f"! 既存news.jsonの読み込みに失敗しました: {e}", file=sys.stderr)
+        return []
 
+
+def prune_old_items(items, days=RETENTION_DAYS):
+    """published が days日より前の記事を取り除く。日付が壊れている記事は念のため残す。"""
+    cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=days)
+    pruned = []
+    for it in items:
+        try:
+            published = dt.datetime.fromisoformat(it["published"])
+        except Exception:
+            pruned.append(it)
+            continue
+        if published >= cutoff:
+            pruned.append(it)
+    return pruned
 def translate_items(items):
     """lang == 'en' の記事タイトルを日本語に翻訳し、title_ja に格納する。
     deep-translator が未インストール、またはネットワークエラー時は静かにスキップする。"""
@@ -204,12 +230,21 @@ def main():
 
     sector_items, seen_links = collect_sector_news(sectors, args.per_sector)
     general_items = collect_general_news(sectors, seen_links)
+    fetched_items = sector_items + general_items
 
-    all_items = sector_items + general_items
-    all_items.sort(key=lambda x: x["published"], reverse=True)
+    existing_items = load_existing_items()
+    existing_links = {it.get("link") for it in existing_items}
+
+    # 既存に無い、本当に新しい記事だけを翻訳・追加対象にする（既存記事は再翻訳しない）
+    new_items = [it for it in fetched_items if it.get("link") not in existing_links]
+    print(f"新規記事: {len(new_items)}件（既存 {len(existing_items)}件とマージします）")
 
     if not args.no_translate:
-        all_items = translate_items(all_items)
+        new_items = translate_items(new_items)
+
+    all_items = existing_items + new_items
+    all_items = prune_old_items(all_items)
+    all_items.sort(key=lambda x: x["published"], reverse=True)
 
     output = {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),

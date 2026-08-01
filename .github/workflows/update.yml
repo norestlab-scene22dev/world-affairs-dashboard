@@ -2,7 +2,8 @@ name: Update news, stocks and summary
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    # 毎日 8:00 JST (= 前日 23:00 UTC) に実行。頻度を変えたい場合はこのcron式を編集してください。
+    - cron: "0 23 * * *"
   workflow_dispatch: {}
 
 permissions:
