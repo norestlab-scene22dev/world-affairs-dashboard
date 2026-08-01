@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "source": "日本成長戦略会議(第5回) 戦略17分野における「主要な製品・技術等」 (内閣官房, 2026年6月24日) / 経済産業省 政策一覧",
+    "source_urls": [
+      "https://www.cas.go.jp/jp/seisaku/nipponseichosenryaku/kaigi/dai5/gijishidai.html",
+      "https://www.meti.go.jp/policy/"
+    ],
+    "generated_note": "このファイルは手動で編集可能です。keywords_ja / keywords_en はニュース分類に、tickers は株価取得に使われます。"
+  },
+  "sectors": [
+    {
+      "id": "ai_semicon",
+      "name_ja": "AI・半導体",
+      "name_en": "AI & Semiconductors",
+      "subfields": ["フィジカルAI", "先端・レガシー半導体", "バーティカルAI"],
+      "keywords_ja": ["AI", "人工知能", "半導体", "生成AI", "ロボット", "エヌビディア", "GPU", "AIロボット"],
+      "keywords_en": ["semiconductor", "artificial intelligence", "generative AI", "chip", "GPU", "AI robotics", "Nvidia"],
+      "tickers": ["8035.T", "6857.T", "6758.T", "NVDA", "TSM", "AMD"],
+      "growth_notes_template": {
+        "market_growth": "",
+        "market_share": "",
+        "entry_barrier": "",
+        "monetization": ""
+      }
+    },
+    {
+      "id": "digital_cyber",
+      "name_ja": "デジタル・サイバーセキュリティ",
+      "name_en": "Digital & Cybersecurity",
+      "subfields": ["データプラットフォーム", "政府AX/DX基盤", "サイバーセキュリティ製品", "クラウド・データセンター・蓄電池", "医療DX基盤", "自動運転技術"],
+      "keywords_ja": ["サイバーセキュリティ", "データセンター", "クラウド", "自動運転", "蓄電池", "生成AI基盤"],
+      "keywords_en": ["cybersecurity", "data center", "cloud computing", "autonomous driving", "battery storage"],
+      "tickers": ["9613.T", "4307.T", "CRWD", "PANW", "FTNT"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "telecom",
+      "name_ja": "情報通信",
+      "name_en": "Information & Communications",
+      "subfields": ["オール光ネットワーク", "海底ケーブル", "次世代ワイヤレス(5G/6G)"],
+      "keywords_ja": ["海底ケーブル", "光通信", "6G", "5G", "非地上系ネットワーク", "衛星通信"],
+      "keywords_en": ["submarine cable", "optical network", "6G", "5G", "non-terrestrial network", "satellite communication"],
+      "tickers": ["9432.T", "9433.T", "9434.T", "6701.T", "CSCO"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "quantum",
+      "name_ja": "量子",
+      "name_en": "Quantum Technology",
+      "subfields": ["量子コンピューティング", "量子通信・ネットワーク", "量子センシング"],
+      "keywords_ja": ["量子コンピュータ", "量子通信", "量子暗号", "量子センシング"],
+      "keywords_en": ["quantum computing", "quantum communication", "quantum encryption", "quantum sensing"],
+      "tickers": ["6702.T", "IBM", "IONQ", "RGTI"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "defense",
+      "name_ja": "防衛産業",
+      "name_en": "Defense Industry",
+      "subfields": ["小型無人航空機", "艦艇", "デュアルユース技術"],
+      "keywords_ja": ["防衛産業", "防衛装備", "無人機", "艦艇", "デュアルユース"],
+      "keywords_en": ["defense industry", "unmanned aircraft", "warship", "dual-use technology", "defense spending"],
+      "tickers": ["7011.T", "7012.T", "LMT", "RTX", "NOC"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "aerospace",
+      "name_ja": "航空・宇宙",
+      "name_en": "Aerospace & Space",
+      "subfields": ["民間航空機", "無人航空機", "空飛ぶクルマ", "ロケット・射場", "人工衛星・サービス", "月面探査・低軌道技術"],
+      "keywords_ja": ["宇宙産業", "ロケット", "人工衛星", "空飛ぶクルマ", "月面探査", "民間航空機"],
+      "keywords_en": ["space industry", "rocket launch", "satellite", "flying car", "lunar exploration", "commercial aircraft"],
+      "tickers": ["7013.T", "7011.T", "BA", "RKLB", "9348.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "ocean",
+      "name_ja": "海洋",
+      "name_en": "Ocean & Maritime Tech",
+      "subfields": ["海洋無人機(海洋ドローン)", "海洋状況把握(MDA)", "革新的海底開発技術"],
+      "keywords_ja": ["海洋ドローン", "海底資源", "レアアース泥", "海洋状況把握"],
+      "keywords_en": ["ocean drone", "seabed mining", "rare earth mud", "maritime domain awareness"],
+      "tickers": ["7003.T", "6503.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "shipbuilding",
+      "name_ja": "造船",
+      "name_en": "Shipbuilding",
+      "subfields": ["次世代船舶", "船舶修繕", "LNG運搬船"],
+      "keywords_ja": ["造船", "ゼロエミッション船", "LNG運搬船", "船舶修繕"],
+      "keywords_en": ["shipbuilding", "zero emission vessel", "LNG carrier", "ship repair"],
+      "tickers": ["7003.T", "7012.T", "7014.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "materials",
+      "name_ja": "マテリアル(重要鉱物・部素材)",
+      "name_en": "Critical Materials",
+      "subfields": ["永久磁石", "グリーン鉄", "革新的金属部素材", "低炭素金属部素材", "重要鉱物製錬", "AI活用複合新素材"],
+      "keywords_ja": ["レアアース", "永久磁石", "グリーン鉄", "重要鉱物", "水素還元製鉄"],
+      "keywords_en": ["rare earth", "permanent magnet", "green steel", "critical minerals", "hydrogen reduction steel"],
+      "tickers": ["5401.T", "5713.T", "MP", "5406.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "pharma",
+      "name_ja": "創薬・先端医療",
+      "name_en": "Drug Discovery & Advanced Medicine",
+      "subfields": ["ファースト/ベストインクラス医薬品", "感染症対応製品", "バイオ医薬品・再生医療等製品", "先端医療デバイス", "ヘルスケアサービス"],
+      "keywords_ja": ["創薬", "再生医療", "バイオ医薬品", "医療機器", "ヘルスケア", "iPS細胞"],
+      "keywords_en": ["drug discovery", "regenerative medicine", "biopharmaceutical", "medical device", "healthcare", "iPS cells"],
+      "tickers": ["4502.T", "4519.T", "PFE", "MRNA"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "biotech",
+      "name_ja": "合成生物学・バイオ",
+      "name_en": "Synthetic Biology",
+      "subfields": ["バイオものづくり", "バイオ医薬品・再生医療等製品"],
+      "keywords_ja": ["合成生物学", "バイオものづくり", "発酵産業"],
+      "keywords_en": ["synthetic biology", "biomanufacturing", "fermentation industry"],
+      "tickers": ["4519.T", "GINKGO"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "energy_gx",
+      "name_ja": "資源・エネルギー安全保障・GX",
+      "name_en": "Energy Security & GX",
+      "subfields": ["次世代型太陽電池", "水素等", "グリーン鉄", "次世代型地熱", "洋上風力", "次世代革新炉", "GXケミカル"],
+      "keywords_ja": ["ペロブスカイト太陽電池", "水素", "洋上風力", "次世代革新炉", "地熱発電", "GX"],
+      "keywords_en": ["perovskite solar", "hydrogen energy", "offshore wind", "next-generation nuclear reactor", "geothermal power"],
+      "tickers": ["5020.T", "9502.T", "FSLR", "NEE"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "fusion",
+      "name_ja": "フュージョンエネルギー",
+      "name_en": "Fusion Energy",
+      "subfields": ["核融合発電"],
+      "keywords_ja": ["核融合", "フュージョンエネルギー", "ITER"],
+      "keywords_en": ["nuclear fusion", "fusion energy", "ITER"],
+      "tickers": ["7011.T", "CCJ"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "disaster_resilience",
+      "name_ja": "防災・国土強靱化",
+      "name_en": "Disaster Prevention & Resilience",
+      "subfields": ["防災技術"],
+      "keywords_ja": ["防災", "国土強靱化", "インフラ老朽化", "自動施工"],
+      "keywords_en": ["disaster prevention", "national resilience", "infrastructure aging", "automated construction"],
+      "tickers": ["1801.T", "1802.T", "1812.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "port_logistics",
+      "name_ja": "港湾ロジスティクス",
+      "name_en": "Port Logistics",
+      "subfields": ["港湾荷役機械", "サイバーポート", "次世代型倉庫"],
+      "keywords_ja": ["港湾", "物流DX", "サイバーポート", "自動化倉庫"],
+      "keywords_en": ["port logistics", "cyberport", "automated warehouse", "cargo handling"],
+      "tickers": ["9101.T", "9104.T", "9143.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "foodtech",
+      "name_ja": "フードテック",
+      "name_en": "FoodTech",
+      "subfields": ["植物工場", "陸上養殖", "食品機械", "新規食品"],
+      "keywords_ja": ["植物工場", "陸上養殖", "代替タンパク質", "フードテック"],
+      "keywords_en": ["vertical farming", "land-based aquaculture", "alternative protein", "foodtech"],
+      "tickers": ["2802.T", "BYND", "2914.T"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    },
+    {
+      "id": "content",
+      "name_ja": "コンテンツ",
+      "name_en": "Content Industry",
+      "subfields": ["ゲーム", "アニメ", "マンガ", "音楽", "実写"],
+      "keywords_ja": ["アニメ", "ゲーム", "マンガ", "コンテンツ産業", "配信プラットフォーム"],
+      "keywords_en": ["anime", "video game", "manga", "content industry", "streaming platform"],
+      "tickers": ["9697.T", "9766.T", "7832.T", "DIS", "NFLX"],
+      "growth_notes_template": {"market_growth": "", "market_share": "", "entry_barrier": "", "monetization": ""}
+    }
+  ]
+}
