@@ -10,10 +10,13 @@ fetch_news.py
      マッチしない場合は general バケツに入る）
 
 APIキーは不要。Google News RSS は誰でも無料で利用可能。
+英語記事のタイトルは deep-translator（Google翻訳の無料エンドポイント。APIキー不要）で
+自動的に日本語へ翻訳し、title_ja フィールドに保存する。翻訳に失敗しても処理は継続する。
 
 使い方:
   python scripts/fetch_news.py
   python scripts/fetch_news.py --per-sector 5   # 分野・言語ごとの取得件数を変更
+  python scripts/fetch_news.py --no-translate   # 翻訳をスキップして高速化
 """
 
 import argparse
@@ -30,6 +33,8 @@ import feedparser
 ROOT = Path(__file__).resolve().parent.parent
 SECTORS_PATH = ROOT / "data" / "sectors.json"
 OUTPUT_PATH = ROOT / "data" / "news.json"
+
+TRANSLATE_SLEEP_SEC = 0.3  # 翻訳API(無料エンドポイント)への負荷軽減用ウェイト
 
 # 分野横断で拾う一般ニュースRSS（キーワードで分野に自動分類される）
 GENERAL_FEEDS = [
@@ -71,7 +76,7 @@ def fetch_feed(url, retries=2):
     return feedparser.parse(url)
 
 
-def normalize_entry(entry, source_name, sector_id):
+def normalize_entry(entry, source_name, sector_id, lang="ja"):
     title = getattr(entry, "title", "").strip()
     link = getattr(entry, "link", "")
     summary = re.sub("<[^<]+?>", "", getattr(entry, "summary", "")).strip()[:300]
@@ -92,6 +97,7 @@ def normalize_entry(entry, source_name, sector_id):
         "source": source_name,
         "published": published_iso,
         "summary": summary,
+        "lang": lang,
     }
 
 
@@ -137,7 +143,7 @@ def collect_sector_news(sectors, per_sector):
                 source_name = getattr(getattr(entry, "source", None), "title", None) or (
                     "Google News (JP)" if lang == "ja" else "Google News (EN)"
                 )
-                items.append(normalize_entry(entry, source_name, sector_id))
+                items.append(normalize_entry(entry, source_name, sector_id, lang=lang))
                 count += 1
             time.sleep(REQUEST_SLEEP_SEC)
 
@@ -159,13 +165,39 @@ def collect_general_news(sectors, seen_links):
             if sector_id is None:
                 continue  # どの戦略分野にも該当しない一般ニュースは除外
             seen_links.add(link)
-            items.append(normalize_entry(entry, feed_info["name"], sector_id))
+            items.append(normalize_entry(entry, feed_info["name"], sector_id, lang=feed_info.get("lang", "ja")))
+    return items
+
+
+def translate_items(items):
+    """lang == 'en' の記事タイトルを日本語に翻訳し、title_ja に格納する。
+    deep-translator が未インストール、またはネットワークエラー時は静かにスキップする。"""
+    try:
+        from deep_translator import GoogleTranslator
+    except ImportError:
+        print("! deep-translator が見つからないため翻訳をスキップします（pip install deep-translator）", file=sys.stderr)
+        return items
+
+    translator = GoogleTranslator(source="en", target="ja")
+    en_items = [it for it in items if it.get("lang") == "en" and it.get("title")]
+    print(f"英語記事 {len(en_items)}件を日本語に翻訳中...")
+
+    for i, item in enumerate(en_items):
+        try:
+            item["title_ja"] = translator.translate(item["title"])
+        except Exception as e:
+            print(f"  ! 翻訳失敗 ({item['title'][:50]}...): {e}", file=sys.stderr)
+        time.sleep(TRANSLATE_SLEEP_SEC)
+        if (i + 1) % 20 == 0:
+            print(f"  {i + 1}/{len(en_items)}件 翻訳完了")
+
     return items
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--per-sector", type=int, default=6, help="分野・言語ごとの取得件数")
+    parser.add_argument("--no-translate", action="store_true", help="英語記事タイトルの日本語翻訳をスキップする")
     args = parser.parse_args()
 
     sectors = load_sectors()
@@ -175,6 +207,9 @@ def main():
 
     all_items = sector_items + general_items
     all_items.sort(key=lambda x: x["published"], reverse=True)
+
+    if not args.no_translate:
+        all_items = translate_items(all_items)
 
     output = {
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
