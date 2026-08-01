@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T10:23:07.672471+00:00",
+  "generated_at": "2026-08-01T10:38:17.909774+00:00",
   "lookback_hours": 30,
   "total_articles": 192,
-  "headline": "直近30時間で192件のニュースを検出。 報道量が多い分野はAI・半導体(36件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "headline": "直近30時間で192件のニュースを検出。 報道量が多い分野はAI・半導体(37件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "content",
@@ -17,7 +17,7 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 36,
+      "article_count": 37,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
@@ -45,9 +45,9 @@
         "クラウド"
       ],
       "top_titles": [
-        "Build the data center. Just don't put it there. | CHARLES STEELE JR. - Montgomery Advertiser",
+        "Build the data center. Just don't put it there. | CHARLES STEELE JR. - The Tuscaloosa News",
         "鎌倉発！ いのちと星と龍の絵本出版プロジェクト。 絵本を通じて、「巡るいのち」の物語を世界に届けたい！ - motion-gallery.net",
-        "Sand weighs in on data center regulations during town hall at MCC Thursday - Times Republican -"
+        "Sand weighs in on data center regulations during town hall at MCC Thursday - timesrepublican.com"
       ]
     },
     {
@@ -76,7 +76,7 @@
         "量子コンピュータ"
       ],
       "top_titles": [
-        "Egypt wins chairmanship of AI governance, quantum computing working groups at Arab AI Committee - egyptindependent.com",
+        "Egypt wins chairmanship of AI governance, quantum computing working groups at Arab AI Committee - Egypt Independent",
         "Finland Quantum Computing Companies, The Complete Vendor Guide - Quantum Zeitgeist",
         "「答えが正しい」と証明できる量子優位性をIBMが初めて示した - xenospectrum.com"
       ]
@@ -104,16 +104,16 @@
       "article_count": 12,
       "avg_change_pct": 0.16,
       "top_keywords": [
-        "ロケット",
         "satellite",
+        "ロケット",
+        "空飛ぶクルマ",
         "人工衛星",
-        "宇宙産業",
-        "空飛ぶクルマ"
+        "宇宙産業"
       ],
       "top_titles": [
         "廃棄された人工衛星やロケットの残骸… 宇宙にあふれる“ごみ”が深刻化 ｢宇宙の掃除｣に取り組む日本の最先端企業に潜入 - hicbc.com",
-        "2026年 ロケットクラシック 2日目 松山英樹 ハイライト - GDOゴルフニュース",
-        "北大ロケット研究30年 札幌で燃焼実験、宇宙産業の人材輩出の拠点 - 北海道新聞デジタル"
+        "空飛ぶクルマ、「利用したくない」が過半数超え - 自動運転ラボ",
+        "北大ロケット研究30年 札幌で燃焼実験、宇宙産業の人材輩出の拠点 - hokkaido-np.co.jp"
       ]
     },
     {
@@ -124,14 +124,14 @@
       "top_keywords": [],
       "top_titles": [
         "Countries cooperate for strengthening of maritime security in the Indian Ocean region - Greek City Times",
-        "Clean Opening Ceremony Video CE21 - ssc.spaceforce.mil",
-        "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - Inside Climate News"
+        "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - insideclimatenews.org",
+        "New Zealand launches long-range UAV acquisition programme - Janes"
       ]
     },
     {
       "sector_id": "shipbuilding",
       "name_ja": "造船",
-      "article_count": 12,
+      "article_count": 11,
       "avg_change_pct": 2.63,
       "top_keywords": [
         "造船",
@@ -157,7 +157,7 @@
       "top_titles": [
         "Argentina, South Korea announce critical minerals partnership - Buenos Aires Times",
         "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ - ダイヤモンド・オンライン",
-        "中重レアアース5割超 - 毎日新聞"
+        "Trump Claims US Can Take ‘Whatever We Want’ from Ukraine Mines - Kyiv Post"
       ]
     },
     {
@@ -167,29 +167,29 @@
       "avg_change_pct": -2.63,
       "top_keywords": [
         "再生医療",
-        "medical device",
         "創薬",
+        "medical device",
         "drug discovery",
         "iPS細胞"
       ],
       "top_titles": [
-        "iPS再生医療、患者の前へ 期待と不安の20年…「治る病気」へと踏み出した新たな一歩 iPS細胞20年 夢から医療へ① - 産経ニュース",
-        "思捷優達-KY、AI創薬による主力候補薬YA-101の多系統萎縮症（MSA）に対する国際第2相臨床試験において患者登録を完了 - 北海道新聞デジタル",
-        "ピクテ･バイオ医薬品ファンド(毎月決算型)為替ヘッジなしコース【4231104A】：基準価格・投資信託情報 - Yahoo!ファイナンス"
+        "iPS再生医療、患者の前へ 期待と不安の20年…「治る病気」へと踏み出した新たな一歩 iPS細胞20年 夢から医療へ① - sankei.com",
+        "思捷優達-KY、AI創薬による主力候補薬YA-101の多系統萎縮症（MSA）に対する国際第2相臨床試験において患者登録を完了 - hokkaido-np.co.jp",
+        "KKR nearing deal to buy medical device firm Integer, WSJ reports By Reuters - investing.com"
       ]
     },
     {
       "sector_id": "biotech",
       "name_ja": "合成生物学・バイオ",
-      "article_count": 4,
+      "article_count": 3,
       "avg_change_pct": -1.97,
       "top_keywords": [
         "synthetic biology"
       ],
       "top_titles": [
         "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
-        "A new genetic tool helps researchers uncover the logic of gene regulation - EurekAlert!",
-        "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews"
+        "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews",
+        "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology"
       ]
     },
     {
@@ -204,14 +204,14 @@
       ],
       "top_titles": [
         "Rising costs for VB offshore wind project - WAVY.com",
-        "政府・戦略産業クラスター計画第１弾 「洋上風力」に秋田など３県 - 秋田魁新報電子版",
-        "Largest US offshore wind array reaches 450MW as completion pushed into 2027 - rechargenews.com"
+        "Tien Li Offshore Wind Technology Co., Ltd. Revenue Breakdown – TPEX:6793 - TradingView",
+        "政府・戦略産業クラスター計画第１弾 「洋上風力」に秋田など３県 - 秋田魁新報電子版"
       ]
     },
     {
       "sector_id": "fusion",
       "name_ja": "フュージョンエネルギー",
-      "article_count": 7,
+      "article_count": 8,
       "avg_change_pct": -0.68,
       "top_keywords": [
         "ITER",
@@ -222,7 +222,7 @@
       "top_titles": [
         "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
         "In pictures: ITER tokamak core assembly progressing - World Nuclear News",
-        "Fusion Energy: The Technology That Could Redefine India’s Energy Future - The Berkshire Eagle"
+        "【岡山大学】超伝導が拓く未来社会：地域中核・特色ある研究大学強化促進事業（J-PEAKS）シナジーセッション開催 ～核融合から量子医療、ダークマター観測まで～ - 山陽新聞"
       ]
     },
     {
@@ -235,8 +235,8 @@
         "disaster prevention"
       ],
       "top_titles": [
+        "『レジリエンス認証』(国土強靭化貢献団体認証) 更新（PR TIMES） - 毎日新聞",
         "【災害から学ぶ】風化防ぎ 防災力維持へ 2009年８月、台風９号被害の美作市作東地域 - 山陽新聞",
-        "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - キャンプファイヤー",
         "青森県防災士会八戸支部様へ ヴァンラーレ八戸オリジナルデザインキャップを寄贈いたしました。 - vanraure.net"
       ]
     },
@@ -251,7 +251,7 @@
       "top_titles": [
         "ロシア軍がミコラエフをドローン攻撃、倉庫や港湾施設を損壊 - Межа. Новини України.",
         "報道資料｜《八代港》港湾の広域ネットワークを活用した被災地への給水車への船舶からの水の供給を開始～令和８年熊本地震における対応【清龍丸】 - mlit.go.jp",
-        "Schutt Industries begins construction on new building as Clintonville expansion starts - WLUK"
+        "Schutt Industries begins construction on new building as Clintonville expansion starts - fox11online.com"
       ]
     },
     {
@@ -281,9 +281,9 @@
         "video game"
       ],
       "top_titles": [
-        "All Anime Expeditions Codes and How to Redeem - IGN",
+        "All Anime Expeditions Codes and How to Redeem - ign.com",
         "【被爆81年】ドラマ・アニメ・Nスペなど関連番組を一挙アンコール放送 - nhk.or.jp",
-        "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。 - Nintendo"
+        "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。 - nintendo.com"
       ]
     }
   ]
