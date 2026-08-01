@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-01T14:15:15.534938+00:00",
-  "count": 305,
+  "generated_at": "2026-08-01T14:25:35.996959+00:00",
+  "count": 312,
   "items": [
+    {
+      "sector_id": "ai_semicon",
+      "title": "Isuzu Is Hiring Veterans Into Paid Technician Apprenticeships. The Wages Can Affect Social Security.",
+      "link": "https://finance.yahoo.com/small-business/articles/isuzu-hiring-veterans-paid-technician-140427725.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T14:04:27+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "いすゞは退役軍人を有給の技術者見習い制度に採用している。賃金は社会保障に影響を与える可能性があります。"
+    },
     {
       "sector_id": "ai_semicon",
       "title": "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
@@ -1087,6 +1097,16 @@
       "title_ja": "医療における人工知能: 医師が会話を主導しなければならない - フロリダ病院ニュースとヘルスケア レポート"
     },
     {
+      "sector_id": "disaster_resilience",
+      "title": "Extreme natural disasters caused nearly 1,000 dyke incidents - DTiNews",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa2lyX3RhNEdhMmpKS1U2ODBPa2FZUW1XeXdONm9sMVpzazJ6WXBNSjZlaGNBZWxvRVJBTjB4RVdHY1czZjlrZkU0NlI5MzRvZ0R4aEQ3ZldwZXhLbEJGTzBKNmlSZVBFbmZVMU5rSGdCbUJsRXQ0aUFaZXBRVHdrX3RSdG56U0FoX3lWVmQxTnA5QllHNjNvNGd1d2Z4NHpTT2tYVWFkX1RSa0V3SWkwSS1lVWtmcHA2d29rRGdQMVNlc1U?oc=5",
+      "source": "DTiNews",
+      "published": "2026-08-01T05:05:00+00:00",
+      "summary": "Extreme natural disasters caused nearly 1,000 dyke incidents&nbsp;&nbsp;DTiNews",
+      "lang": "en",
+      "title_ja": "極端な自然災害により、約 1,000 件の堤防事故が発生 - DTiNews"
+    },
+    {
       "sector_id": "defense",
       "title": "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water - Українські Національні Новини (УНН)",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZkxZOUNvY3NMdWJ1ZU5SZUNZUEVzSzRFOFQ3cUFuQmZkVWdDSXVCamgyX3FwYS1aOF9TNlpCeGVhZWs3RjZ5WGRqelV0UlRWTGliT2lUX1dRQXBVM2xCLWxTdmZueWg0cm9rdGxXUHlRWU55Vkk4ZGxPVjNrVC1pWExmVFZGOVJ3UUhaV1laY2xQQ0U4a2dleW4tTElsaHdLank2amVFRFVqZEl2b29hWFBn0gGyAUFVX3lxTE9mTFk5Q29jc0x1YnVlTlJlQ1lQRXNLNEU4VDdxQW5CZmRVZ0NJdUJqaDJfcXBhLVo4X1M2WkJ4ZWFlazdGNnlYZGp6VXRSVFZMaWJPaVRfV1FBcFUzbEItbFN2Zm55aDRyb2t0bFdQeVFZTnlWSThkbE9WM2tULWlYTGZUVkY5UndRSFpXWVpjbFBDRThrZ2V5bi1MSWxod0tqeTZqZUVEVWpkSXZvb2FYUGc?oc=5",
@@ -1441,6 +1461,16 @@
       "lang": "ja"
     },
     {
+      "sector_id": "pharma",
+      "title": "AI in chemogenomics: Predicting drug-target interactions at scale - Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR21xUGZzQzBtQU5DNVgxSEdGb25nZ0p6b1oybDdwUHptRkdMSm1KOWVTLXU4QW41RDZRZDNrWUhfTG5rb0F2S0JpenhrMEd5aFI4SXd2OGxBRHRGZHpURzA3RXpXMXpKeE84bkJGVEprVFVyQkRVLW5zN2F0RUpPVktfZlc1emJ6OWJKeEc5QkJmSmJxZkYwUWIyNWlaWGNib2VkQk9ZUQ?oc=5",
+      "source": "Drug Discovery News",
+      "published": "2026-08-01T00:46:20+00:00",
+      "summary": "AI in chemogenomics: Predicting drug-target interactions at scale&nbsp;&nbsp;Drug Discovery News",
+      "lang": "en",
+      "title_ja": "ケモゲノミクスにおける AI: 薬物と標的の相互作用を大規模に予測 - 創薬ニュース"
+    },
+    {
       "sector_id": "content",
       "title": "LINEヤフーに総務省が行政指導 利用者に関する情報流出で",
       "link": "https://news.web.nhk/newsweb/na/na-k10015192861000",
@@ -1556,6 +1586,16 @@
       "summary": "Fusion Energy: The Technology That Could Redefine India’s Energy Future&nbsp;&nbsp;Greater Milwaukee Today",
       "lang": "en",
       "title_ja": "核融合エネルギー: インドのエネルギーの未来を再定義できる技術 - グレーター・ミルウォーキーの現在"
+    },
+    {
+      "sector_id": "fusion",
+      "title": "Fusion Energy: The Technology That Could Redefine India’s Energy Future - WyomingNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQb0tMQVcwempCemk4WmlKcVZsaGFtbXlDeHAzUEZiQUROclRIdTQxSllwYzZJaEYycVpySXhxY3ItX1FkRFRtS04zVzBobG1RWmRNa0VtY2s3dHdpN1dDZ0h6VjR0SU1mXzQ2eEVUUjhXRE05ZksybzNiWmtJSDEtS19wLVE0cG5ucTVabjBJOFpncEVzUkU2VVI4TFZvS3Z4bktoVkllY0hUcUx3QUxjbjgtWXNEeUpySllyeTJ4eTNSZURnZ0ZjNDFwaWxqMGRQVzkyQnkxODJYdW1GeUdYdnZqX1NXbmd3ZzItTndSbEVLdzN0OC03QkstckEtUDR3RHNQdERXSmlxZE0?oc=5",
+      "source": "WyomingNews.com",
+      "published": "2026-07-31T23:25:03+00:00",
+      "summary": "Fusion Energy: The Technology That Could Redefine India’s Energy Future&nbsp;&nbsp;WyomingNews.com",
+      "lang": "en",
+      "title_ja": "核融合エネルギー: インドのエネルギーの未来を再定義できる技術 - WyomingNews.com"
     },
     {
       "sector_id": "aerospace",
@@ -1771,6 +1811,15 @@
       "summary": "KKR nearing deal to buy medical device firm Integer, WSJ reports&nbsp;&nbsp;Reuters",
       "lang": "en",
       "title_ja": "KKR、医療機器会社インテジャー買収で合意間近、WSJ報道 - ロイター"
+    },
+    {
+      "sector_id": "telecom",
+      "title": "「グローバルWiFi(R)」５Ｇ無制限プランを９か国で新たに提供開始！ - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BME1feVZSaG41LU81YWhPTEx6VmptbktHYzVZZlFQdk5RY0RFeHp6eEoweTlEZjJwaEtZbU5OVDFSVlZJNW5IbjhhWnlnY2lmOXdOSktrSExSU2M?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-07-31T20:27:55+00:00",
+      "summary": "「グローバルWiFi(R)」５Ｇ無制限プランを９か国で新たに提供開始！&nbsp;&nbsp;朝日新聞",
+      "lang": "ja"
     },
     {
       "sector_id": "shipbuilding",
@@ -2245,6 +2294,16 @@
       "title_ja": "パランティア、12年連続の収益加速を目指すも米国の成長が鍵"
     },
     {
+      "sector_id": "telecom",
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw - thehackernews.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFF5QWIwYlpURS1CSkwxV1RGXzg4eWE0Z0o3MDlMODVZWDNIUDNTVENvODdncmdnXy03bGktSkFGTnEwZmxxV3VrS1c0c2hLdHFieFBsaF9vWmN3NEpJek5sSlpvNzczR1dYUnpBYy1IOG9ral9JOVlGeXdhQ2NmTkdB?oc=5",
+      "source": "thehackernews.com",
+      "published": "2026-07-31T11:55:00+00:00",
+      "summary": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw&nbsp;&nbsp;thehackernews.com",
+      "lang": "en",
+      "title_ja": "研究者らは、セッションハイジャックの欠陥を含む4Gおよび5Gコアの84の欠陥を報告 - thehackernews.com"
+    },
+    {
       "sector_id": "energy_gx",
       "title": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035 - Global Market Insights Inc.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUW5kMkk4TFZQNDZsTDlncnlfSXdVMy1BRXJNRzdLdHAtYkhuN1Q2bWRGVjVBUjV4T2E2aWpNVjlUTUUzMThFZWJDWjlyeXJpc1dZbzBSZm9wT3pxQzY5NEt1MkRiaE81d0FmNXp4QXFRRTdicDM3LTEzd3dJcVBKaXRWY1EtSUhjTWsxU1R3?oc=5",
@@ -2401,6 +2460,16 @@
       "summary": "",
       "lang": "en",
       "title_ja": "この中国のコンピューター チップ メーカーは 10 年間で 50 億ドルを使い果たしましたが、その後 1 四半期で全額を取り戻しました"
+    },
+    {
+      "sector_id": "biotech",
+      "title": "Genetic Tool Unveils Gene Regulation Logic - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdU1zcE1MZ05ZakVsNS1GV1gyTzduRmRGLW1qWUV4SW4ybTJ1bm9qU3VYYkF3dmpuM3hVM2todnI5RU9Rd0pwRWNtakNNc3k5SlBzVnZPNHhNM2l4cHhPbnVUbnRSQ2U2UmZlMGNQLXI1WEN3WkJWd3VrNC0xc28tQkJqaHY?oc=5",
+      "source": "Mirage News",
+      "published": "2026-07-31T09:08:00+00:00",
+      "summary": "Genetic Tool Unveils Gene Regulation Logic&nbsp;&nbsp;Mirage News",
+      "lang": "en",
+      "title_ja": "遺伝ツールが遺伝子制御ロジックを明らかに - Mirage News"
     },
     {
       "sector_id": "ocean",

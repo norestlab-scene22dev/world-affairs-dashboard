@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T14:16:27.401703+00:00",
+  "generated_at": "2026-08-01T14:26:22.398402+00:00",
   "lookback_hours": 30,
-  "total_articles": 251,
-  "headline": "直近30時間で251件のニュースを検出。 報道量が多い分野はAI・半導体(59件)、デジタル・サイバーセキュリティ(19件)、資源・エネルギー安全保障・GX(16件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 258,
+  "headline": "直近30時間で258件のニュースを検出。 報道量が多い分野はAI・半導体(60件)、デジタル・サイバーセキュリティ(19件)、資源・エネルギー安全保障・GX(16件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "digital_cyber",
@@ -17,7 +17,7 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 59,
+      "article_count": 60,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
@@ -27,11 +27,11 @@
         "semiconductor"
       ],
       "top_titles": [
+        "Isuzu Is Hiring Veterans Into Paid Technician Apprenticeships. The Wages Can Affect Social Security.",
         "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
-        "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does",
-        "Disappointed by your skimpy pay raise? Blame your healthcare benefits."
+        "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does"
       ],
-      "headline": "直近30時間で59件のニュースを検出。 話題のキーワード: AI、chip、半導体、artificial intelligence、semiconductor。 代表銘柄の平均株価は前日比+3.9%。"
+      "headline": "直近30時間で60件のニュースを検出。 話題のキーワード: AI、chip、半導体、artificial intelligence、semiconductor。 代表銘柄の平均株価は前日比+3.9%。"
     },
     {
       "sector_id": "digital_cyber",
@@ -55,7 +55,7 @@
     {
       "sector_id": "telecom",
       "name_ja": "情報通信",
-      "article_count": 13,
+      "article_count": 15,
       "avg_change_pct": -3.04,
       "top_keywords": [
         "5G",
@@ -67,7 +67,7 @@
         "Why Industrial IoT Needs More Than Fast 5G - ACCESS Newswire",
         "The fastest U.S. mobile and internet services of 2026: How did your provider do? - Mashable"
       ],
-      "headline": "直近30時間で13件のニュースを検出。 話題のキーワード: 5G、6G、光通信。 代表銘柄の平均株価は前日比-3.0%。"
+      "headline": "直近30時間で15件のニュースを検出。 話題のキーワード: 5G、6G、光通信。 代表銘柄の平均株価は前日比-3.0%。"
     },
     {
       "sector_id": "quantum",
@@ -171,13 +171,13 @@
     {
       "sector_id": "pharma",
       "name_ja": "創薬・先端医療",
-      "article_count": 10,
+      "article_count": 11,
       "avg_change_pct": -2.63,
       "top_keywords": [
         "medical device",
+        "drug discovery",
         "再生医療",
         "創薬",
-        "drug discovery",
         "iPS細胞"
       ],
       "top_titles": [
@@ -185,12 +185,12 @@
         "思捷優達-KY、AI創薬による主力候補薬YA-101の多系統萎縮症（MSA）に対する国際第2相臨床試験において患者登録を完了 - 北海道新聞デジタル",
         "KKR nearing deal to buy medical device firm Integer, WSJ reports By Reuters - Investing.com"
       ],
-      "headline": "直近30時間で10件のニュースを検出。 話題のキーワード: medical device、再生医療、創薬、drug discovery、iPS細胞。 代表銘柄の平均株価は前日比-2.6%。"
+      "headline": "直近30時間で11件のニュースを検出。 話題のキーワード: medical device、drug discovery、再生医療、創薬、iPS細胞。 代表銘柄の平均株価は前日比-2.6%。"
     },
     {
       "sector_id": "biotech",
       "name_ja": "合成生物学・バイオ",
-      "article_count": 4,
+      "article_count": 5,
       "avg_change_pct": -1.97,
       "top_keywords": [
         "synthetic biology"
@@ -200,7 +200,7 @@
         "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
         "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews"
       ],
-      "headline": "直近30時間で4件のニュースを検出。 話題のキーワード: synthetic biology。 代表銘柄の平均株価は前日比-2.0%。"
+      "headline": "直近30時間で5件のニュースを検出。 話題のキーワード: synthetic biology。 代表銘柄の平均株価は前日比-2.0%。"
     },
     {
       "sector_id": "energy_gx",
@@ -222,7 +222,7 @@
     {
       "sector_id": "fusion",
       "name_ja": "フュージョンエネルギー",
-      "article_count": 10,
+      "article_count": 11,
       "avg_change_pct": -0.68,
       "top_keywords": [
         "核融合",
@@ -235,12 +235,12 @@
         "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
         "In pictures: ITER tokamak core assembly progressing - World Nuclear News"
       ],
-      "headline": "直近30時間で10件のニュースを検出。 話題のキーワード: 核融合、fusion energy、ITER、nuclear fusion。 代表銘柄の平均株価は前日比-0.7%。"
+      "headline": "直近30時間で11件のニュースを検出。 話題のキーワード: 核融合、fusion energy、ITER、nuclear fusion。 代表銘柄の平均株価は前日比-0.7%。"
     },
     {
       "sector_id": "disaster_resilience",
       "name_ja": "防災・国土強靱化",
-      "article_count": 10,
+      "article_count": 11,
       "avg_change_pct": -0.61,
       "top_keywords": [
         "防災",
@@ -251,7 +251,7 @@
         "【災害から学ぶ】風化防ぎ 防災力維持へ 2009年８月、台風９号被害の美作市作東地域 - 山陽新聞",
         "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - CAMPFIRE (キャンプファイヤー)"
       ],
-      "headline": "直近30時間で10件のニュースを検出。 話題のキーワード: 防災、disaster prevention。 代表銘柄の平均株価は前日比-0.6%。"
+      "headline": "直近30時間で11件のニュースを検出。 話題のキーワード: 防災、disaster prevention。 代表銘柄の平均株価は前日比-0.6%。"
     },
     {
       "sector_id": "port_logistics",
