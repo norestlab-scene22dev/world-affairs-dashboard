@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-08-01T13:26:09.205162+00:00",
-  "count": 283,
+  "generated_at": "2026-08-01T13:55:15.246791+00:00",
+  "count": 296,
   "items": [
+    {
+      "sector_id": "aerospace",
+      "title": "USAF: Neural network enables autonomous satellite mission - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkFmMDlRQlpYZkpyZXphelVNOEFhcDBaV0QtVVpYZ0N3LWRid3A1M21CWDZKWTdRajRHM3M0aEJLWmRlRUhSUExaUnVMSmhjeW5scTRsTWtFS0xhdW03TE5FNHRLSEx3eE9qcHViQ3BTZVRGWVhzREpfMGNpTEcxR2E5aFJBd01hcEkzOHpzQVBFcG9rb0RXd1JLcENKX0dwZWhJZERRSzJobVNyZE9VMGRYYw?oc=5",
+      "source": "Interesting Engineering",
+      "published": "2026-08-01T13:40:00+00:00",
+      "summary": "USAF: Neural network enables autonomous satellite mission&nbsp;&nbsp;Interesting Engineering",
+      "lang": "en",
+      "title_ja": "USAF: ニューラル ネットワークにより自律衛星ミッションが実現 - 興味深いエンジニアリング"
+    },
+    {
+      "sector_id": "materials",
+      "title": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - crossroadstoday.com",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOG1oOW81aUo4bGV5d0JKS2l0bHRtYzlKdmVfVzd1Y3d3OEJONld5MXdVOXh3dWIyY1dDREM0TUFLZzJDUE94b1AwTUx3ZjRGMWdxNlpxZUc2eEhpX2M3YmtvaXZXTkdkZ3Rka0c5VW85ckZoSDdFSGo2NzMyeGFHQ2Rva2FaMmRSdjJGT3pKMEdhVGpmdURlc0FvbXd6eFNodFRwNGdBTk16STg2UHo2NE1mQWJOdnNTUWFUMHBmR2tadmtuWEppcWxrcTRfM0NnVVJOU1RkYXJ6WmNGOFR3c2o4cUVtVFNKcmVsVXRIV2NYOHFkRUJiWi1fVkNWQmtMSEx1MzJ3RkEyNUM3SUVUWUIwaExUM0hTZHJfYw?oc=5",
+      "source": "crossroadstoday.com",
+      "published": "2026-08-01T13:30:00+00:00",
+      "summary": "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline&nbsp;&nbsp;crossroadstoday.com",
+      "lang": "en",
+      "title_ja": "米国産業界が2027年の期限を守るのに苦戦するなか、トランプ大統領は中国産鉱物の許可が必要になるかもしれない -crossroadstoday.com"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
+      "link": "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
+      "source": "MarketWatch (Top Stories)",
+      "published": "2026-08-01T13:30:00+00:00",
+      "summary": "It’s been two decades since companies’ health-benefit costs have climbed this fast.",
+      "lang": "en",
+      "title_ja": "あなたのわずかな昇給に失望しましたか？医療給付のせいにする。"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates",
+      "link": "https://finance.yahoo.com/economy/policy/articles/president-donald-trump-just-threw-132600613.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T13:26:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "ドナルド・トランプ大統領は金利問題で連邦準備理事会を再び非難した"
+    },
     {
       "sector_id": "defense",
       "title": "クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討 - bloomberg.com",
@@ -9,6 +49,15 @@
       "source": "bloomberg.com",
       "published": "2026-08-01T13:12:58+00:00",
       "summary": "クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討&nbsp;&nbsp;bloomberg.com",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "インデックスファンドSOX指数(米国上場半導体株式)【02313239】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mbGNfS25qREhCNWgzWFBXai1IWXlGaTdjaTdWakRPUWdRTG04SlQyR2JwRXlPZ205bFJDbFFFV2lZamxDRml3NDctckJkVHdzQXhRNw?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-08-01T13:10:45+00:00",
+      "summary": "インデックスファンドSOX指数(米国上場半導体株式)【02313239】：基準価格・投資信託情報&nbsp;&nbsp;Yahoo!ファイナンス",
       "lang": "ja"
     },
     {
@@ -538,6 +587,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "disaster_resilience",
+      "title": "【山形】親子で防災を学ぶ（YTS山形テレビ） - news.yahoo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxcE9qUFZVTllOY3ctdnhETVE0Q1dxbkZKSk1ocDVXcjFmdHdiSWU4Z2JicnVhTk1YSnhLdkhQUzl1bW55VG52ZXpjcTZaOEhuQllEWWlMaTlIdWJ2MU1saTFKVy12SHQ0SHU1Tm13Z2hhekpBWWRIYWV3Y0tMWFE?oc=5",
+      "source": "news.yahoo.co.jp",
+      "published": "2026-08-01T09:33:04+00:00",
+      "summary": "【山形】親子で防災を学ぶ（YTS山形テレビ）&nbsp;&nbsp;news.yahoo.co.jp",
+      "lang": "ja"
+    },
+    {
       "sector_id": "ai_semicon",
       "title": "Is Bangladesh ready to build semiconductor chips? - The Daily Star",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUxBeEN6SUJFek8tYUZtaW9ZQ3ZtMUJWRFdrUnBlX3JMdzVRTEJ5MUdXUGRUUDlEOVBHTzlSMTJRbjNST3N3cC1mdEFBNEZjaVNaT0RWNGloTkE5VVl3WnNoTUxLczBHblB2TWtqNW9aRmhyOFNTQUJOX0dpLTVkSVExd05abDAybzdNaWJ4TGRnbDJYRW9SWjlCSVhjb2JHRmp5dlhqM0JScDFHSkFEMA?oc=5",
@@ -634,6 +692,16 @@
       "summary": "Build the data center. Just don't put it there. | CHARLES STEELE JR.&nbsp;&nbsp;The Tuscaloosa News",
       "lang": "en",
       "title_ja": "データセンターを構築します。そこには置かないでください。 |チャールズ・スティール・ジュニア- タスカルーサニュース"
+    },
+    {
+      "sector_id": "telecom",
+      "title": "The fastest U.S. mobile and internet services of 2026: How did your provider do? - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rZFBuUVJqb1haeFZDOXRySE1VRTRfZld2d2xjNVltMmt0Q09aaDJPNUl2NXUwX1o4LUVOcjFlblNQeXc2V09rSTlKcWNiMGxfSy1VRi14a1FyS2tDZnl6ZUU5cVdGSTM4Z183bV9RcFV4OWwtSTRsaXc1SHBCdw?oc=5",
+      "source": "Mashable",
+      "published": "2026-08-01T08:33:09+00:00",
+      "summary": "The fastest U.S. mobile and internet services of 2026: How did your provider do?&nbsp;&nbsp;Mashable",
+      "lang": "en",
+      "title_ja": "2026 年の米国最速のモバイルおよびインターネット サービス: プロバイダーの業績はどうでしたか? - マッシャブル"
     },
     {
       "sector_id": "energy_gx",
@@ -947,6 +1015,16 @@
       "published": "2026-08-01T05:25:00+00:00",
       "summary": "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞&nbsp;&nbsp;topics.smt.docomo.ne.jp",
       "lang": "ja"
+    },
+    {
+      "sector_id": "energy_gx",
+      "title": "Tien Li Offshore Wind Technology Co., Ltd. Revenue Breakdown – TPEX:6793 - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tQ29zTlF2NVVyb2tmamJlZ3R0blpiNnlWbENSaTNrcWRLbTV6eWZlcTZpbnN4QlZwUFVRbFc3ZEZWcURmNHI4bTZ4SXRacUJ4Z3ZqYkxDdkFkdVE2MjNjQ3FEOXN5bHE2U0lIZlBPaWE1Y042?oc=5",
+      "source": "TradingView",
+      "published": "2026-08-01T05:24:51+00:00",
+      "summary": "Tien Li Offshore Wind Technology Co., Ltd. Revenue Breakdown – TPEX:6793&nbsp;&nbsp;TradingView",
+      "lang": "en",
+      "title_ja": "Tien Li Offshore Wind Technology Co., Ltd.の収益内訳 – TPEX:6793 - TradingView"
     },
     {
       "sector_id": "disaster_resilience",
@@ -1430,6 +1508,15 @@
       "title_ja": "核融合エネルギー: インドのエネルギーの未来を再定義できる技術 - グレーター・ミルウォーキーの現在"
     },
     {
+      "sector_id": "aerospace",
+      "title": "2026年 ロケットクラシック 2日目 松山英樹 ハイライト - GDOゴルフニュース",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iOTF0OWl3NU9WcDdJYkc2V01QQnVxNHphZDUxNVZtNlNWcE1acnZJenNJOXNMVWotczltdGNLN19oOW5nWHFZYllDTU5YSHFsODRodw?oc=5",
+      "source": "GDOゴルフニュース",
+      "published": "2026-07-31T23:17:04+00:00",
+      "summary": "2026年 ロケットクラシック 2日目 松山英樹 ハイライト&nbsp;&nbsp;GDOゴルフニュース",
+      "lang": "ja"
+    },
+    {
       "sector_id": "content",
       "title": "My family is coming apart – so it’s time for one last video game session | Dominik Diamond - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3M0V09XcmZHSENTQXRNTkdhMmFaOXBiRElzd0o0ZTN1aVgxLVZ6MWJjOUVVMy1nTmcxc0w3R0E3U2gxRzM2d3F1aFlDT0l3WU9Ea3ZSdkZ3YWhaTFhQWjhqeWtMYTJIaGE1ZGpyVzBqWlltdktUUXpFMFJXNmVLQmxnczZtR09iZnhGVm9rcnF4ZzJ3Y2tHQUNqYlBIMUpUdkpLLU9ERGJLcHV0SjF6RVNlUVdCQQ?oc=5",
@@ -1457,6 +1544,15 @@
       "summary": "Medicaid/CHIP Monthly Enrollment Tracker&nbsp;&nbsp;KFF",
       "lang": "en",
       "title_ja": "メディケイド/CHIP 月次登録トラッカー - KFF"
+    },
+    {
+      "sector_id": "fusion",
+      "title": "未来のエネルギーを支える技術に触れて - 公明党",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTkVOaDBkNVJhV01GYTBPWFc5OGU4MmtDQlRycUJTdnhUa2Z5NHhZeFo5ZmZFTDBUalZLRVZSd0Fnc2dPcnpBNE9SX0V4RWZWV0MwQWN2dHduVVpYRXpxMlp0dkZwRDlJNFREWjR0VVkxUHFBdkZ6X1hFOTlEdjJUUUJHY1I4SmZpNlBkWkV5R3QtS05TMi0weUVVQXdGVWpfNjAtNHJ1NDlBMTRWQ2M2TllvX2tGZzBjX0VjQXhTeE5Qam5PNFA1QmVMdXNiM2Z0VnBLd2NHak85eTlHdG5QMFdBTktNWGFCeVRNelNmc1doSHgzNS11ZDFyNWF4d0plVmVzVDJQZjV2aFJTcWpYcEpWNUJmZ3JpN2hGQjREVkh4M2pac25nMnBUVlNveFhsSEV5OXozUmt1aFI5V2dicTZrUVJCUQ?oc=5",
+      "source": "公明党",
+      "published": "2026-07-31T22:32:16+00:00",
+      "summary": "未来のエネルギーを支える技術に触れて&nbsp;&nbsp;公明党",
+      "lang": "ja"
     },
     {
       "sector_id": "quantum",
@@ -2079,6 +2175,16 @@
       "title_ja": "SSA Marine、リープヘル LHM 550 ハイブリッド クレーンをガルフポートに追加 - WorldCargo News"
     },
     {
+      "sector_id": "ai_semicon",
+      "title": "Palantir Aims For 12th Straight Revenue Acceleration, But U.S. Growth Is Key",
+      "link": "https://www.investors.com/news/technology/palantir-stock-palantir-earnings-q22026-preview/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-31T11:56:36+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "パランティア、12年連続の収益加速を目指すも米国の成長が鍵"
+    },
+    {
       "sector_id": "energy_gx",
       "title": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035 - Global Market Insights Inc.",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUW5kMkk4TFZQNDZsTDlncnlfSXdVMy1BRXJNRzdLdHAtYkhuN1Q2bWRGVjVBUjV4T2E2aWpNVjlUTUUzMThFZWJDWjlyeXJpc1dZbzBSZm9wT3pxQzY5NEt1MkRiaE81d0FmNXp4QXFRRTdicDM3LTEzd3dJcVBKaXRWY1EtSUhjTWsxU1R3?oc=5",
@@ -2283,6 +2389,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "digital_cyber",
+      "title": "サイバーセキュリティ戦略本部 - 首相官邸",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Wajd2VHpvMFpobTVBVFh6N09PYm9ZWW4wSFNaNEMyMGtTTjJhV3lwRHBITHlWcDlvVjNiRFNOcUdiT2pIdERFMGhfRUlxanZiUjBRei1jSkQwSmZ1RUNrUXVrMGtGbzlFVE9nNmlHbw?oc=5",
+      "source": "首相官邸",
+      "published": "2026-07-31T05:16:21+00:00",
+      "summary": "サイバーセキュリティ戦略本部&nbsp;&nbsp;首相官邸",
+      "lang": "ja"
+    },
+    {
       "sector_id": "quantum",
       "title": "量子コンピュータで電池材料開発を加速、QuemixがNEDO補助事業に採択 - レスポンス（Response.jp）",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51cWtSb09wUzAtOEUyYmg4ZU50WTMxTkNMbTU1U2Q5TWNKS1BLSWdOa256SlR4Z2dUY3ptTUVsSEswNVVENnprdnhNcVF2R3RvVFFXelNpTUs1VGltWTR3?oc=5",
@@ -2364,6 +2479,15 @@
       "source": "Yahoo!ニュース",
       "published": "2026-07-31T01:10:09+00:00",
       "summary": "核融合発電30年代実証へ…スターライトエンジン、60億円調達（ニュースイッチ）&nbsp;&nbsp;Yahoo!ニュース",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "energy_gx",
+      "title": "日本初、グリーン水素を使用した還元鉄試作に成功しました - nedo.go.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GeU9zU0tlVEJHMzlaNnNtWHZySV8zQmRGVVdJTUtVNTVNNXNCd3BrdnV3YVJpdGNsYk9HcW1VcHpSMkoxcGxiNS1VaXN3dVh1c3BLVGZ2OVp2TEM0emc?oc=5",
+      "source": "nedo.go.jp",
+      "published": "2026-07-31T01:06:09+00:00",
+      "summary": "日本初、グリーン水素を使用した還元鉄試作に成功しました&nbsp;&nbsp;nedo.go.jp",
       "lang": "ja"
     },
     {
