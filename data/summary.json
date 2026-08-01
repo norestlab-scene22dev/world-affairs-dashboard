@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T13:21:45.651268+00:00",
+  "generated_at": "2026-08-01T13:26:41.210138+00:00",
   "lookback_hours": 30,
-  "total_articles": 231,
-  "headline": "直近30時間で231件のニュースを検出。 報道量が多い分野はAI・半導体(52件)、デジタル・サイバーセキュリティ(18件)、防衛産業(15件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 235,
+  "headline": "直近30時間で235件のニュースを検出。 報道量が多い分野はAI・半導体(53件)、デジタル・サイバーセキュリティ(19件)、防衛産業(15件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "digital_cyber",
@@ -17,7 +17,7 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 52,
+      "article_count": 53,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
@@ -35,7 +35,7 @@
     {
       "sector_id": "digital_cyber",
       "name_ja": "デジタル・サイバーセキュリティ",
-      "article_count": 18,
+      "article_count": 19,
       "avg_change_pct": -1.51,
       "top_keywords": [
         "data center",
@@ -195,7 +195,7 @@
     {
       "sector_id": "energy_gx",
       "name_ja": "資源・エネルギー安全保障・GX",
-      "article_count": 13,
+      "article_count": 14,
       "avg_change_pct": 1.52,
       "top_keywords": [
         "offshore wind",
@@ -243,7 +243,7 @@
     {
       "sector_id": "port_logistics",
       "name_ja": "港湾ロジスティクス",
-      "article_count": 11,
+      "article_count": 12,
       "avg_change_pct": -1.16,
       "top_keywords": [
         "港湾",
@@ -251,8 +251,8 @@
       ],
       "top_titles": [
         "《三角港》港湾の広域ネットワークを活用した被災地への給水支援を開始 ～令和８年熊本地震における対応【白山】～ - mlit.go.jp",
-        "ロシア軍がミコラエフをドローン攻撃、倉庫や港湾施設を損壊 - Межа. Новини України.",
-        "南アフリカの港湾都市ケベルハを散策_中国網_日本語 - チャイナネット"
+        "タイニン省は、「国境ゲート－港湾」モデルに基づいた物流回廊を構築している。 - Vietnam.vn",
+        "ロシア軍がミコラエフをドローン攻撃、倉庫や港湾施設を損壊 - Межа. Новини України."
       ]
     },
     {

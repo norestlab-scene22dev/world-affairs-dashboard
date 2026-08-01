@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T13:20:57.862042+00:00",
-  "count": 279,
+  "generated_at": "2026-08-01T13:26:09.205162+00:00",
+  "count": 283,
   "items": [
     {
       "sector_id": "defense",
@@ -60,6 +60,16 @@
       "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
       "lang": "en",
       "title_ja": "2026 年 8 月に Netflix、Hulu、HBO Max などでストリーミングされる価値のあるものは次のとおりです"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "HSBC Says AI Overspending Concerns Are Driving Market Sentiment",
+      "link": "https://finance.yahoo.com/technology/ai/articles/hsbc-says-ai-overspending-concerns-130000379.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T13:00:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "HSBC、AIの過剰支出への懸念が市場心理を悪化させていると発言"
     },
     {
       "sector_id": "quantum",
@@ -340,6 +350,15 @@
       "title_ja": "マーク・キューバン氏とマイケル・バリー氏も、米国の巨大セクターに関して同様の危険信号を発している――あなたの巣ごもりは危険にさらされているのか？"
     },
     {
+      "sector_id": "port_logistics",
+      "title": "タイニン省は、「国境ゲート－港湾」モデルに基づいた物流回廊を構築している。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdXp2QXlmdUNYUlVRSXVkZlpscUlCN0dSZ3NYVl90VGs0RlNaeUY5TmJrd3hsYWliRzlPTUhjekxGcVNzMUNtSVVBT1V6QVBQVTUxME43a0ZwT3B6bkFxQ0dDdE1CeTlUNWNITjdxXzlWVUlVdldCbEx5Z25DSFhMMG1tc0VIbW1CZGUw?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-01T11:30:00+00:00",
+      "summary": "タイニン省は、「国境ゲート－港湾」モデルに基づいた物流回廊を構築している。&nbsp;&nbsp;Vietnam.vn",
+      "lang": "ja"
+    },
+    {
       "sector_id": "ai_semicon",
       "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
       "link": "https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo",
@@ -433,6 +452,15 @@
       "source": "nintendo.com",
       "published": "2026-08-01T10:34:38+00:00",
       "summary": "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。&nbsp;&nbsp;nintendo.com",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える - クラウドファンディング - READYFOR",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sajNfaGQ3by00QzJIY0hfbHpGRVJLZFFDM3hXUkVFVDJSWkZFdkdqLVJVZVhpejFwZHZkd1hqYVptT0hjaTNoLTMzWHlTcm5hV2NVbm9ZRFI5bW8?oc=5",
+      "source": "クラウドファンディング - READYFOR",
+      "published": "2026-08-01T10:22:50+00:00",
+      "summary": "【令和8年熊本地震】被災地の最前線で、医療を守り続ける人を支える&nbsp;&nbsp;クラウドファンディング - READYFOR",
       "lang": "ja"
     },
     {
@@ -1462,6 +1490,15 @@
       "sector_id": "energy_gx",
       "title": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道] - 朝日新聞",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxRnU0YnFSVDFxbEVDa3h5VlIxb3poMFpEcnhVdTdzRDBGM0VoOVZKZmotRE9iZWZEc0pNZTNTSXpYem42UDF5bUZ5OXVWU1Rjb3RLeDM3VWFNckNQLW5FWDdvd2gyTFU?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-07-31T22:00:00+00:00",
+      "summary": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道]&nbsp;&nbsp;朝日新聞",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "energy_gx",
+      "title": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道] - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2F5cEpsRHpWaExybDNJdEFGRzVsVmRPcFNjWmVVV083cUNhSGdfOVMyUWdIajYzUHQzbC00ckdJWnhMVDdfM3FjSjNhUE4tMkhZcVlldlBxX05Nb2ZPRDQ4Q2Ytbmk2bEdLM3M2SUxWenR4Q0VsWEt6OVNoS3lhTw?oc=5",
       "source": "朝日新聞",
       "published": "2026-07-31T22:00:00+00:00",
       "summary": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道]&nbsp;&nbsp;朝日新聞",
