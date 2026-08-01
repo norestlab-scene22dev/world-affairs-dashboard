@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-01T14:26:22.398402+00:00",
+  "generated_at": "2026-08-01T14:32:40.932252+00:00",
   "lookback_hours": 30,
-  "total_articles": 258,
-  "headline": "直近30時間で258件のニュースを検出。 報道量が多い分野はAI・半導体(60件)、デジタル・サイバーセキュリティ(19件)、資源・エネルギー安全保障・GX(16件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 262,
+  "headline": "直近30時間で262件のニュースを検出。 報道量が多い分野はAI・半導体(61件)、デジタル・サイバーセキュリティ(21件)、マテリアル(重要鉱物・部素材)(16件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "digital_cyber",
-    "energy_gx"
+    "materials"
   ],
   "top_impact_sectors": [
     "ocean",
@@ -17,7 +17,7 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 60,
+      "article_count": 61,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
@@ -31,12 +31,12 @@
         "The Real AI Cost Question That Defines The Next Quarter of Alphabet Vs. Microsoft",
         "Meet the Dividend Stock That Keeps Raising Its Payout No Matter What the Market Does"
       ],
-      "headline": "直近30時間で60件のニュースを検出。 話題のキーワード: AI、chip、半導体、artificial intelligence、semiconductor。 代表銘柄の平均株価は前日比+3.9%。"
+      "headline": "直近30時間で61件のニュースを検出。 話題のキーワード: AI、chip、半導体、artificial intelligence、semiconductor。 代表銘柄の平均株価は前日比+3.9%。"
     },
     {
       "sector_id": "digital_cyber",
       "name_ja": "デジタル・サイバーセキュリティ",
-      "article_count": 19,
+      "article_count": 21,
       "avg_change_pct": -1.51,
       "top_keywords": [
         "data center",
@@ -47,10 +47,10 @@
       ],
       "top_titles": [
         "5 Notable Data Center Links, Aug 2 2026 - Data Center Richness | Substack",
-        "Woodburn eyes data center issues by considering temporary moratorium - Woodburn Independent",
-        "Data center committee drafts recommendations for county, plans public input session - The Daily Reporter - Greenfield Indiana"
+        "Meta wanted a rebate to build its A.I. data center in Richland Parish, an impoverished farming community in Louisiana’s northeast corner. The company worked with state officials on the $50 billion project with no opposition — in part because locals didn’t know - facebook.com",
+        "Woodburn eyes data center issues by considering temporary moratorium - Woodburn Independent"
       ],
-      "headline": "直近30時間で19件のニュースを検出。 話題のキーワード: data center、クラウド、データセンター、cybersecurity、自動運転。 代表銘柄の平均株価は前日比-1.5%。"
+      "headline": "直近30時間で21件のニュースを検出。 話題のキーワード: data center、クラウド、データセンター、cybersecurity、自動運転。 代表銘柄の平均株価は前日比-1.5%。"
     },
     {
       "sector_id": "telecom",
@@ -154,19 +154,19 @@
     {
       "sector_id": "materials",
       "name_ja": "マテリアル(重要鉱物・部素材)",
-      "article_count": 15,
+      "article_count": 16,
       "avg_change_pct": 2.05,
       "top_keywords": [
         "レアアース",
-        "rare earth",
-        "critical minerals"
+        "critical minerals",
+        "rare earth"
       ],
       "top_titles": [
+        "Energy transition fuels accelerating demand for critical minerals, IEA says - Anadolu Ajansı",
         "Trump may need to allow Chinese minerals as US industry struggles to meet 2027 deadline - crossroadstoday.com",
-        "Congress Must Align Incentives in the Magnets Value Chain Support Act - RealClearDefense",
-        "Scandium: A Rare Earth Element That Isn’t Actually Rare - Eye On Annapolis"
+        "Congress Must Align Incentives in the Magnets Value Chain Support Act - RealClearDefense"
       ],
-      "headline": "直近30時間で15件のニュースを検出。 話題のキーワード: レアアース、rare earth、critical minerals。 代表銘柄の平均株価は前日比+2.0%。"
+      "headline": "直近30時間で16件のニュースを検出。 話題のキーワード: レアアース、critical minerals、rare earth。 代表銘柄の平均株価は前日比+2.0%。"
     },
     {
       "sector_id": "pharma",
