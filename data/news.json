@@ -1,7 +1,116 @@
 {
-  "generated_at": "2026-08-01T12:32:09.306211+00:00",
-  "count": 250,
+  "generated_at": "2026-08-01T13:20:57.862042+00:00",
+  "count": 279,
   "items": [
+    {
+      "sector_id": "defense",
+      "title": "クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討 - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaTJzSURFUG5NQkxLNlRXaThsOW5uTjR0SHkyTUd3STBNSHpxZmhGX0taOGZ2S3NIWjFYbUVBc1hSSVdxcmwtLWEzeFIya29Lc0JmQV9SZmJIXzFvT1d0YzhsMDc4RHVLODZVNUlQVXVhUFY0ZWhBYXFWYm1pNXpYaFg0MU1JeGY3UFFsN0FR?oc=5",
+      "source": "bloomberg.com",
+      "published": "2026-08-01T13:12:58+00:00",
+      "summary": "クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討&nbsp;&nbsp;bloomberg.com",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Robinhood CEO Vlad Tenev Thinks AI Agents Could Transform the Crypto Market. Here's What That Means for Investors",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-vlad-tenev-thinks-130800650.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T13:08:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "ロビンフッド CEO のヴラド・テネフ氏は、AI エージェントが仮想通貨市場を変革できると考えています。これが投資家にとって何を意味するか"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "American Express Raised Its Revenue Guidance and Left Its Earnings Guidance Alone. Here's Where the Extra Money Is Going.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/american-express-raised-revenue-guidance-130700607.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T13:07:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "アメリカン・エキスプレスは収益見通しを引き上げ、利益見通しは据え置いた。余分なお金はここに使われます。"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-vs-ibm-diverging-revenue-130301031.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T13:03:01+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "Alphabet vs. IBM: 収益動向の相違が投資家にこれらの人工知能企業について語ること"
+    },
+    {
+      "sector_id": "defense",
+      "title": "How this Canadian submarine sunk a U.S. warship off Hawaii with a torpedo - National Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObWJYNzNpa2d3amdWUXp0ZWtJTkk2SFNWNjZQbDdMcWJCVU44akZfaUhMT210SDZDLXBDMzZfRkFsRjZtN252ZkhFZFB5WVpTcDRZQkV3c2lENVlWQkROTDlfVkVnNGlPNlRXdW9WRVllLVJFOTFpR1ZVSEd3TkxlVnQ5bEh1VHdPTmtScjBhby1Ndlp3VjhldVZEUzNyWXFseGh2aHdmS0o4RVFBU2c?oc=5",
+      "source": "National Post",
+      "published": "2026-08-01T13:02:31+00:00",
+      "summary": "How this Canadian submarine sunk a U.S. warship off Hawaii with a torpedo&nbsp;&nbsp;National Post",
+      "lang": "en",
+      "title_ja": "このカナダの潜水艦はいかにしてハワイ沖で米軍艦を魚雷で沈めたか - ナショナル・ポスト"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
+      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
+      "source": "MarketWatch (Top Stories)",
+      "published": "2026-08-01T13:01:00+00:00",
+      "summary": "Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more",
+      "lang": "en",
+      "title_ja": "2026 年 8 月に Netflix、Hulu、HBO Max などでストリーミングされる価値のあるものは次のとおりです"
+    },
+    {
+      "sector_id": "quantum",
+      "title": "IBM CEO Expects Quantum Computing to Drive Revenue by 2020s, Trillion-Dollar Value by End of 2030s - The Quantum Insider",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZE41MTJBWl9lekt6NDJIcUJqSVZnTFhzMjNvODBjRTJMZ1FVcHcxZ1pQd2dna01tR0xkVEhyVkxPSDFlYUdPemdSeHlKVmhfLXV6b29reVBJdUU4NWd6Yl9yZDRLeGlET3lZUzRzLTd6ZVVZUkYyR1Y3c3IxZUpOWjVVNEJ2cDRRT3JLZ3BId3lBejlVckNJYVpBeTRlYzRFRE44dHJjRHdoVUI0aVZ4YlFaWGJJOUdvbWVSZXQydlAtWl9jLUFvVHc4QThmSU1yTU9HSWpB?oc=5",
+      "source": "The Quantum Insider",
+      "published": "2026-08-01T12:43:49+00:00",
+      "summary": "IBM CEO Expects Quantum Computing to Drive Revenue by 2020s, Trillion-Dollar Value by End of 2030s&nbsp;&nbsp;The Quantum Insider",
+      "lang": "en",
+      "title_ja": "IBM CEO、量子コンピューティングが2020年代までに収益を押し上げ、2030年代末までに価値が1兆ドルに達すると予想 - The Quantum Insider"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "5 Notable Data Center Links, Aug 2 2026 - Data Center Richness | Substack",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkgteE1ORkZzVFMtZy1idlFjcFM0aGFXcmlGSVNyRTA4U0VaOTg4elVOM3Jid2FsYnd2OTEtdXJNTzNOXzFCdTVVZ0JaNzF6OXJDYXZiel9zck9qMXh4REJaMmQxVlNidFdBNXNEYUtLc3VkU19QT25XMTFyeWpvUw?oc=5",
+      "source": "Data Center Richness | Substack",
+      "published": "2026-08-01T12:43:26+00:00",
+      "summary": "5 Notable Data Center Links, Aug 2 2026&nbsp;&nbsp;Data Center Richness | Substack",
+      "lang": "en",
+      "title_ja": "5 つの注目すべきデータ センター リンク、2026 年 8 月 2 日 - データ センターの豊富さ |サブスタック"
+    },
+    {
+      "sector_id": "quantum",
+      "title": "IBM CEO sends blunt message on quantum computing - thestreet.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRmEzUklUUHZHblp5VDJSWW9pZ19US3gzMmpqd2syV0p3Z1FRNm1QOF80SzYyQlFxd3NsZU9EQkU0aWVCV1ExY1VuTVVLWjQxamF4VThKQy1yaVVpRWMyT3lwNDdlQ0lOM01PMWhPb2poblF6Z3d2d3d2SWtKUVFubzNsU3ZLRGgtQUE5U0c2Y1FMSG5GbG9DWUoxRXM5T2x5cngxWm5DZzJqWVJsMHJxS3FmN0wyZlpNYTA5R1RkRU1Rczd6Z0VhbjNWRW43QzFFdHdNRTJoNDVxNi11bHV6U3NUUHNMMXJvbl92bWdBc3BHbm9pcU1r?oc=5",
+      "source": "thestreet.com",
+      "published": "2026-08-01T12:33:00+00:00",
+      "summary": "IBM CEO sends blunt message on quantum computing&nbsp;&nbsp;thestreet.com",
+      "lang": "en",
+      "title_ja": "IBM CEO、量子コンピューティングについて率直なメッセージを送る - thestreet.com"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Nearly 75% of new homeowners spend $10,000 on surprise repairs within 2 years — and some never budgeted for them",
+      "link": "https://finance.yahoo.com/real-estate/articles/nearly-75-homeowners-spend-10-123000374.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T12:30:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "新築住宅所有者のほぼ 75% が 2 年以内の突然の修理に 10,000 ドルを費やしており、そのための予算をまったく立てていない人もいます"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "How much should an AI agent cost? No one can agree — and it’s creating chaos.",
+      "link": "https://www.marketwatch.com/story/how-much-should-an-ai-agent-cost-no-one-can-agree-and-its-creating-chaos-288d741e?mod=mw_rss_topstories",
+      "source": "MarketWatch (Top Stories)",
+      "published": "2026-08-01T12:30:00+00:00",
+      "summary": "Enterprise software providers are navigating uncharted waters as they experiment with different monetization methods.",
+      "lang": "en",
+      "title_ja": "AI エージェントの費用はいくらですか?誰も同意できず、混乱が生じています。"
+    },
     {
       "sector_id": "foodtech",
       "title": "県のたより8月号2面・3面-1 - pref.kanagawa.jp",
@@ -70,6 +179,16 @@
       "summary": "The airline is ‘getting on with the times,’ one fund manager says",
       "lang": "en",
       "title_ja": "ロイヤリストは昔の南西部を懐かしむかもしれない。ウォール街は新しいものが大好きです。"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Aurora reports Q2 results, details per-mile pricing",
+      "link": "https://finance.yahoo.com/technology/articles/aurora-reports-q2-results-details-120000973.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T12:00:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "Aurora が第 2 四半期の結果とマイルごとの価格の詳細を報告"
     },
     {
       "sector_id": "ai_semicon",
@@ -182,6 +301,16 @@
     },
     {
       "sector_id": "ocean",
+      "title": "India's impressive maritime model offers lessons for South Africa: Report - The Hans India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUW5mcHFCQkgxUUtMakVDa0U4V2ctU280dTFLT2ZLUnl3cTFMWkkzb2c2al9KdTdaVllFaDJZeTdJT0Jod2JLN3FEa3pieG0zNG54ZkdVQ0ZEdnFaOVVfYnZQeFY2SUtTS3lheXJ0ZzY5ZVdBOEt5REtNYmg2aW9lMGhFOC1VNTZtLU4yRzZlOWJraUhFTUdTQzNOa0ZwZnVhQzgwV0Y3eUo3X191czlFbWxhd0kya1ktaU5PM0lDWXNUZFlPZUxqSndRRdIBywFBVV95cUxOUW5mcHFCQkgxUUtMakVDa0U4V2ctU280dTFLT2ZLUnl3cTFMWkkzb2c2al9KdTdaVllFaDJZeTdJT0Jod2JLN3FEa3pieG0zNG54ZkdVQ0ZEdnFaOVVfYnZQeFY2SUtTS3lheXJ0ZzY5ZVdBOEt5REtNYmg2aW9lMGhFOC1VNTZtLU4yRzZlOWJraUhFTUdTQzNOa0ZwZnVhQzgwV0Y3eUo3X191czlFbWxhd0kya1ktaU5PM0lDWXNUZFlPZUxqSndRRQ?oc=5",
+      "source": "The Hans India",
+      "published": "2026-08-01T11:37:58+00:00",
+      "summary": "India's impressive maritime model offers lessons for South Africa: Report&nbsp;&nbsp;The Hans India",
+      "lang": "en",
+      "title_ja": "インドの印象的な海洋モデルは南アフリカに教訓を与える：レポート - ハンス・インディア"
+    },
+    {
+      "sector_id": "ocean",
       "title": "India's impressive maritime model offers lessons for South Africa: Report - IANS LIVE",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTRDbXRwSFFRR3dCRzJWaUZhc1VxUE9BVEdheXJaSUpyOFZOeHVaWU14aVNYTV8yM3RWTGVyT0tLTVN5WUg1a2FURlluOHJvY1poRGx5S3NIRzFRLW1RS3Zna1pidVhsMXdNemU4aVA3dGtKZGZpU1ZZODRFdGUtU1pnbGxuek42cFVYXzNzM0NBRFBhWDZrbGVRSlJISGY3XzJmT1FURFplRzA?oc=5",
       "source": "IANS LIVE",
@@ -199,6 +328,26 @@
       "summary": "The fertilizer trade as it relates to the Iran war and the Strait of Hormuz is really three trades pointed in different directions.",
       "lang": "en",
       "title_ja": "イラン戦争により投資家は肥料株に投資したが、ここに誰もが見逃している中国リスクがある"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Mark Cuban, Michael Burry raise the same red flag warning over giant US sector — is your nest egg at risk?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mark-cuban-michael-burry-raise-113000465.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T11:30:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "マーク・キューバン氏とマイケル・バリー氏も、米国の巨大セクターに関して同様の危険信号を発している――あなたの巣ごもりは危険にさらされているのか？"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap",
+      "link": "https://www.investors.com/news/spacex-earnings-key-themes-q2-2026-elon-musk-starlink-starship-xai-nasa-falcon9/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-08-01T11:28:22+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "SpaceX の収益プレビュー: Starlink の成長、AI コスト、Starship のロードマップ"
     },
     {
       "sector_id": "materials",
@@ -307,6 +456,25 @@
     },
     {
       "sector_id": "ai_semicon",
+      "title": "［社説］米巨大IT企業のAI投資競争に留意を - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tWUxoWDdlMThpNmYzQ184eHA5cnI2eV81Mm9VY215UGtXS3VGYWpsb2h2TEtWSFI4Z29pOFYtRG5QeEtlZm1LR2RVNGFwYU1qZ0pLdHE0b1c4WEx3anlfZ0IweC1naTZMTmNfcA?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-08-01T10:05:00+00:00",
+      "summary": "［社説］米巨大IT企業のAI投資競争に留意を&nbsp;&nbsp;日本経済新聞",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "content",
+      "title": "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect) - Polygon.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vZ0JpRDNkRk9RaTlwMEpzdnNaMU5MdzlMb3l2NEZoU3M4eDdFUldUX3JwQ1ozOTA3VDFyT1FjVjFzZkE0SmpEZkdjWUxJRTBudmlVZ0d6a21mTmMwTXVPNTdpSzJYUkYxeTNwampzX2hyM1kw?oc=5",
+      "source": "Polygon.com",
+      "published": "2026-08-01T10:00:12+00:00",
+      "summary": "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect)&nbsp;&nbsp;Polygon.com",
+      "lang": "en",
+      "title_ja": "『進撃の巨人』よりも良い結末を迎えたアニメ 10 選 (#1 は完璧) - Polygon.com"
+    },
+    {
+      "sector_id": "ai_semicon",
       "title": "AIドラマのテレビ放送開始に「一つのブレークスルー」「人間は演じなくなる？」の声―中国 - ｄメニューニュース",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JqYi1na0Rya3o2TE5kbmFfbDhkY2plM05KRm1pNGhYZ2p6TUdhVFVKRDNiM1pYdVNWM0pBVTF3WTVHRnJJYjhQb2F6WDF2a1hJUXk4STdGOW1kNU0zNkRKSFp1US1QNWIzdVFnWmYzZTlMS211STRSTGNnN1ZTbGRONmgyZjE3SDFCQll2a9IBjwFBVV95cUxNU2JqYi1na0Rya3o2TE5kbmFfbDhkY2plM05KRm1pNGhYZ2p6TUdhVFVKRDNiM1pYdVNWM0pBVTF3WTVHRnJJYjhQb2F6WDF2a1hJUXk4STdGOW1kNU0zNkRKSFp1US1QNWIzdVFnWmYzZTlMS211STRSTGNnN1ZTbGRONmgyZjE3SDFCQll2aw?oc=5",
       "source": "ｄメニューニュース",
@@ -392,6 +560,25 @@
       "title_ja": "第二次世界大戦で沈没したドイツ軍艦、セルビアの川の水位低下で浮上 - timesofindia.indiatimes.com"
     },
     {
+      "sector_id": "ai_semicon",
+      "title": "Why many Connecticut school districts are turning to the same artificial intelligence platform - CT Insider",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGkyYVNXWVhDeXV2OEx0V1JQVENVVVBmV1JEZE84MTJJd1lYTkRPODVyblh6d1NobkcwdFVYbjFyaFE4X1F2R2ZYemg3WXZmYkp5cGw5dFJfV3dMWk9jaUx2TTh6X3MycjBld3RJRkZGc3NEaUFlcG0wbXZyczNkQ3I5N19OVElLdHotakVfQWtqSUJiRFpxTkl6a29pTUxqRFpKdTlYMlVIRXlELV9pbHpB?oc=5",
+      "source": "CT Insider",
+      "published": "2026-08-01T09:05:17+00:00",
+      "summary": "Why many Connecticut school districts are turning to the same artificial intelligence platform&nbsp;&nbsp;CT Insider",
+      "lang": "en",
+      "title_ja": "コネチカット州の多くの学区が同じ人工知能プラットフォームに注目している理由 - CT Insider"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "「幻の第４便」を復活させるためクラウドファンディングを実施 静岡・駿河湾フェリー（静岡朝日テレビ） - news.yahoo.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RVXRpdnVna1pDNjBtQXk5VGhEMUFIZW95RkJNMjZxOEU4Wl9QRkdVSFNUZjhtN1p1TDNmWEJNT3lnQUIyQUZWRWV4STdTQ01aazhUSzFRMUJydElGTzlxZER6Q05SbW1PR3FGQWlPbUVWbVBHTEpOMXFzY01YdUE?oc=5",
+      "source": "news.yahoo.co.jp",
+      "published": "2026-08-01T09:02:54+00:00",
+      "summary": "「幻の第４便」を復活させるためクラウドファンディングを実施 静岡・駿河湾フェリー（静岡朝日テレビ）&nbsp;&nbsp;news.yahoo.co.jp",
+      "lang": "ja"
+    },
+    {
       "sector_id": "defense",
       "title": "Dumfries sailor is information systems tech aboard warship around Hawaii - Culpeper Star-Exponent",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFZ1dEFSM05yRExIekRZX0VFT1VmOHA3Ym4wNFA2b1NubnEyMThseklJREpjY2ItdWZKZjlLS2owektsQW5hMld5MGtSV0hJRlhmZjBkd2VLVWtiMkduVXg4bldDeDRtMF80dW1Lb2lFaG1POFgzemR0dFI1MVY2c3B2cTJzMUlkOFNzcEtmY2oxVjVIa1gtczV3?oc=5",
@@ -428,6 +615,16 @@
       "published": "2026-08-01T08:22:01+00:00",
       "summary": "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
       "lang": "ja"
+    },
+    {
+      "sector_id": "defense",
+      "title": "US ally plans to commission ‘world’s largest’ 14,000-ton destroyer to counter China - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQnh5R3J2NWs0Qm1qODdOMzVCWW53WVdnakZBWDZEdnU4TE1IZ1llT3FMbVM3eVpQYms3djA2WGF0N1lXd2l6YVhKdldoZE01d1h6SC1rLVRTeGpERk5ldXB1VUQtMmlTZlhMVXpjZXpkTnUtS25GTzZzMDRrZUZaNG9uSGlUU0NRRkRLS1I5UE0?oc=5",
+      "source": "Interesting Engineering",
+      "published": "2026-08-01T08:15:00+00:00",
+      "summary": "US ally plans to commission ‘world’s largest’ 14,000-ton destroyer to counter China&nbsp;&nbsp;Interesting Engineering",
+      "lang": "en",
+      "title_ja": "米国の同盟国、中国に対抗するために「世界最大」の14,000トン護衛艦を就役させる計画 - 興味深いエンジニアリング"
     },
     {
       "sector_id": "pharma",
@@ -884,6 +1081,15 @@
     },
     {
       "sector_id": "content",
+      "title": "8月31日まで“毎日”新しいゲームを正式実装。ブラウザでボドゲを遊べる「ボードゲームアリーナ」，恒例の連続実装イベントをスタート - 4Gamer.net",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WOUkxSUpjWGNBQTVQeFIxZGY2R0EyejJod1JJMDN3M3VFN3RMRnllWFZWYnF3UkhuNXdkYlhNQXg5SWlrbGlGc1NTSmRxVHFaYXZra2NGRUFZUTdaVHZNSUxzNA?oc=5",
+      "source": "4Gamer.net",
+      "published": "2026-08-01T03:03:23+00:00",
+      "summary": "8月31日まで“毎日”新しいゲームを正式実装。ブラウザでボドゲを遊べる「ボードゲームアリーナ」，恒例の連続実装イベントをスタート&nbsp;&nbsp;4Gamer.net",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "content",
       "title": "スーパーマーケット型クレーンゲーム「クレーンマート」が愛知県に初進出 - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEeEJGaXpmZ2oycWdXNVpxUzdyZm1nTldXa0laeGtCMEZYZnNsTHJZWUtBWktEQ0xZZnBEUlo4QkdUWllaTFZlZ19BaTRkWm14ZkVNVW5WaXBmMTVRc2dsaXg2SGVEUk9NSkE?oc=5",
       "source": "PR TIMES",
@@ -994,6 +1200,15 @@
       "title_ja": "無料の Fire Daybreak アニメが新しい予告編とストーリーの詳細を公開 - Crunchyroll"
     },
     {
+      "sector_id": "fusion",
+      "title": "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82OUlURDEwVk9Xa1VPbmhkbUpRa05SSk0yaUxnbG5Xc05DWU1GT2lmUlI5WGo3SXdQUEM0dU1XVDMxanBxdDVhM25tRWtKd1dsc0YweUdYaThUQjA5WGhV?oc=5",
+      "source": "テレ東BIZ",
+      "published": "2026-08-01T02:00:00+00:00",
+      "summary": "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】&nbsp;&nbsp;テレ東BIZ",
+      "lang": "ja"
+    },
+    {
       "sector_id": "shipbuilding",
       "title": "Former Maran Gas LNG carrier emerges under Russian flag - TradeWinds News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSkItckpZS21pUVZMejZlUGx6QXdjQ2tXX2hwSFJNMjFqWjN0WjdKV0c0V2dnVDllZFQ4NXdXUWZfckMzU1IwX1hpenFFV2tpNHpDQU9ZT0JLVDdSYTBXRUdUVVRIbElXNFlCQnJ2ek9DUVl5Z2d6eGQ1eVJaVGJTZHA3RUxlaEZ6TENyUzZvbjJMUFRpNnFIOUxvRGVnOU15czNhbw?oc=5",
@@ -1079,6 +1294,16 @@
       "lang": "ja"
     },
     {
+      "sector_id": "quantum",
+      "title": "NIST Finalizes Three Post-Quantum Encryption Standards For Secure Data - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFlwUGZqdC16X2h3OUZfOVNYZlV5ekk4ZUsxWmdYSzBQVmJCQmxCbUhNTFh3SHl6MnhCRXRJdU5kSXVFZ1pIa3dLX0VoOXR5M2lCb1M4YmIyNVp4ZmEzT3JCZUpTbVgzMkRibGpPZ2JRS3VqSnl3eHh1ZFNPLU42LUpDT1g?oc=5",
+      "source": "Quantum Zeitgeist",
+      "published": "2026-08-01T00:21:17+00:00",
+      "summary": "NIST Finalizes Three Post-Quantum Encryption Standards For Secure Data&nbsp;&nbsp;Quantum Zeitgeist",
+      "lang": "en",
+      "title_ja": "NIST、安全なデータのための 3 つのポスト量子暗号化標準を最終決定 - Quantum Zeitgeist"
+    },
+    {
       "sector_id": "disaster_resilience",
       "title": "熊本地震死者３５人 避難９１００人/電気・水・食料…被災者の命守れ/党対策本部 防災相に要請 | しんぶん赤旗 - jcp.or.jp",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5melltVWE5aGVCejRMTzJPNVVVaVdJRW1fZS1mTUlobU94YWNPOGVZUGhpUFEwMFB1VGV3Ml9UcWxCRW9NTGxfU2o3VDRwbndKMzZVeTZlWGVUY2ZpWkJiZVpNSmRCQ05PQnljcXpDZE9CUk9j?oc=5",
@@ -1118,6 +1343,16 @@
       "title_ja": "Cadeler は洋上風力発電プロジェクトに Wind Ace を組み込んでいます - Inspenet"
     },
     {
+      "sector_id": "ocean",
+      "title": "Clean Opening Ceremony Video CE21 - ssc.spaceforce.mil",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmRJUGRPTVdjcXdWaFBGRGJUbzJFQUZYVFNJSEF4N3lUZ1FiMUh1SHlOSlJaYmI2cFcxR3BvUUlvN1NFTlI3VHJubnQ3SGJ2Qnc4Um5SMlJBOEtfblBfOWpWTDk5TjdjUFNPZnFFTjFPN3VHUjliSEZuV3p4ajNpWDVJQXlsR1N5eTR0c2xGTUl2Y2Vvel9OMGswSQ?oc=5",
+      "source": "ssc.spaceforce.mil",
+      "published": "2026-07-31T23:56:11+00:00",
+      "summary": "Clean Opening Ceremony Video CE21&nbsp;&nbsp;ssc.spaceforce.mil",
+      "lang": "en",
+      "title_ja": "クリーンオープニングセレモニービデオ CE21 - ssc.spaceforce.mil"
+    },
+    {
       "sector_id": "materials",
       "title": "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly - Interesting Engineering",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnZnOGsyaVhvVVc3UE9RY2VSMDVzcmtpYzZGZzUwMVU4S2ZBbkZndi1DMFpJX0poV1VZOXJ0SWhqOUFhaXlaX0p4aTdqRjRLNkFZYUg0MENkWV96MmdUc2VqNmd5QmoxcWJJd3ZWaE1OOG5fbF9Ia1NGN19JMnBpNU5TMG1CcjE4MU9DOQ?oc=5",
@@ -1155,6 +1390,16 @@
       "summary": "Fusion Energy: The Technology That Could Redefine India’s Energy Future&nbsp;&nbsp;berkshireeagle.com",
       "lang": "en",
       "title_ja": "核融合エネルギー: インドのエネルギーの未来を再定義できるテクノロジー - berkshireeagle.com"
+    },
+    {
+      "sector_id": "fusion",
+      "title": "Fusion Energy: The Technology That Could Redefine India’s Energy Future - Greater Milwaukee Today",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMWNVa2QzaC1meDhvaEZqbnVMR0duam1ldkRib3Fkem5BSmM1S0NSSzVPbzlXaEFnMFJTdERUZzRBYWV5cDBKelM2WjhTc1lqNG9UVlh1NnNEeHpxMUk3eS1WZWdaODlGV25kOVZpUG1famtTbjRacXg5QnctZGpSYm5yNTJIOGZ2bU9PTG1aUk04c01BUWVuUjN1bXktamFEUU9OYmhSRDJwTURDQVotUjBTRl9WZUhtenhQdFdXU0ZQV2JheWdoeDd1S0NGS01fdmU3SXJKZ1dFSklXaG5MQzdPMC1qdVJORGlrZ282cmhKMm11TUxvWEg2ZnpZeC1GcUlCNmV3?oc=5",
+      "source": "Greater Milwaukee Today",
+      "published": "2026-07-31T23:25:03+00:00",
+      "summary": "Fusion Energy: The Technology That Could Redefine India’s Energy Future&nbsp;&nbsp;Greater Milwaukee Today",
+      "lang": "en",
+      "title_ja": "核融合エネルギー: インドのエネルギーの未来を再定義できる技術 - グレーター・ミルウォーキーの現在"
     },
     {
       "sector_id": "content",
@@ -1301,6 +1546,15 @@
       "sector_id": "biotech",
       "title": "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wWDVWY2VQY3NhRk16RklBV2J2eXVzbnBFMUxTT0pKOGs2LWctSGdMSFFYbUlHd3lvTGdEcTdGaUpwSWJxeVBndkozZk9kbGR6RjB1b3FaYjg1OUhjQVFpTlpR?oc=5",
+      "source": "newspicks.com",
+      "published": "2026-07-31T21:00:35+00:00",
+      "summary": "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？&nbsp;&nbsp;newspicks.com",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "biotech",
+      "title": "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HSUtCZHpRQjJHRC1IM3lBRTlwY05jc2ZkWUVHeGZjWTlPWExyZGVtVGFCV2dNdFVFUE5QRFY1RHV2Tkx5QktXaExXRnN5aG85WHE0YnJ3?oc=5",
       "source": "newspicks.com",
       "published": "2026-07-31T21:00:35+00:00",
       "summary": "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？&nbsp;&nbsp;newspicks.com",
@@ -2039,6 +2293,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "telecom",
+      "title": "mineo、「REDMI 15 5G」「OPPO A5 5G」の端末価格を変更（値上げ） - OREFOLDER",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HM1RXZjRSbGF3Rk44b1FTWDFvaHFITEtmZlZ2S1NPVXhOLWpYN2pGWlJtSTBpSWt1NUsydlZ0YTQxa1hXVGZGTkktQzFUMkJuWnFzb1FfbndyQkVBamZrNTVxRWh3NXdJTkdlMktR?oc=5",
+      "source": "OREFOLDER",
+      "published": "2026-07-31T01:52:35+00:00",
+      "summary": "mineo、「REDMI 15 5G」「OPPO A5 5G」の端末価格を変更（値上げ）&nbsp;&nbsp;OREFOLDER",
+      "lang": "ja"
+    },
+    {
       "sector_id": "fusion",
       "title": "核融合発電30年代実証へ…スターライトエンジン、60億円調達 - ニュースイッチ by 日刊工業新聞社",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAwZFZMdkdJcVBvbFFNUlFoSjFtZlp4T0JaUzlRTFdPWUUzZDhqVG5EbVRpdERhNkhLWEtQSkZCT3p0UjZtQTFJ?oc=5",
@@ -2214,6 +2477,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "quantum",
+      "title": "自信を砕いた「極低温の壁」、冷凍機開発に4年 - 日経クロステック",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DeDByamlobVdCUlU5Z2NaSlNwX25KdEU1MkExak96UkVwcFY3dW1wTzNCXzI5UHFFOXVOR2JoLWp0ZmtWck00UTVOUi0tS0NXbDZ1Mk1BVkdlNEF0QWlYbERVSjlCdFhW?oc=5",
+      "source": "日経クロステック",
+      "published": "2026-07-30T20:00:00+00:00",
+      "summary": "自信を砕いた「極低温の壁」、冷凍機開発に4年&nbsp;&nbsp;日経クロステック",
+      "lang": "ja"
+    },
+    {
       "sector_id": "port_logistics",
       "title": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel - Marine News Magazine",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXBxbVdrLW9lMUdsQ2JBd3gtZDBqeXVBSzMzaC05a1Nudk1HaEFjbTZKVkE2cjJQUUgyajhxR1hTS3c2NDB4NXpHTUtoUUhzQ2lpYTQtZVUtSnlqVk1RRXpLTHNBNHgzcEdkYU1ZOEtKZTNKS2xaMVkwc0NzdlFiZ3JtTVRldw?oc=5",
@@ -2231,6 +2503,16 @@
       "published": "2026-07-30T19:13:00+00:00",
       "summary": "支持率急落の高市政権が深める「維新傾斜」の代償、予測不能の内閣改造で存在感増す2人の政治家&nbsp;&nbsp;ダイヤモンド・オンライン",
       "lang": "ja"
+    },
+    {
+      "sector_id": "disaster_resilience",
+      "title": "Bringing Resilience Home: Lessons from BFPG’s Annual Survey - bfpg.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkEyQ1ROejlicmtxcVVnLWR2Vlc3V20wX05hQXFfcWtVV2JWaC0yRkhPeTNwZm5Md1o4WGphNUF3WkdSc0hCTFlJaDk5VWpQWlpVeTc5V3IxOXMwT2ZkdDRiTUZNbS0yZEFJWnUwZmlkQ2tydlhHbzBnNWFmSUx0WVVNODg2dVJHdHdpd0Nn?oc=5",
+      "source": "bfpg.co.uk",
+      "published": "2026-07-30T18:49:20+00:00",
+      "summary": "Bringing Resilience Home: Lessons from BFPG’s Annual Survey&nbsp;&nbsp;bfpg.co.uk",
+      "lang": "en",
+      "title_ja": "レジリエンスを持ち帰る: BFPG の年次調査からの教訓 - bfpg.co.uk"
     },
     {
       "sector_id": "defense",

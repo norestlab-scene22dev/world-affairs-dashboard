@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-01T12:32:42.057773+00:00",
+  "generated_at": "2026-08-01T13:21:45.651268+00:00",
   "lookback_hours": 30,
-  "total_articles": 205,
-  "headline": "直近30時間で205件のニュースを検出。 報道量が多い分野はAI・半導体(41件)、デジタル・サイバーセキュリティ(16件)、造船(13件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 231,
+  "headline": "直近30時間で231件のニュースを検出。 報道量が多い分野はAI・半導体(52件)、デジタル・サイバーセキュリティ(18件)、防衛産業(15件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "digital_cyber",
-    "shipbuilding"
+    "defense"
   ],
   "top_impact_sectors": [
     "ocean",
@@ -17,7 +17,7 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 41,
+      "article_count": 52,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
@@ -27,27 +27,27 @@
         "semiconductor"
       ],
       "top_titles": [
-        "Prediction: This Top Artificial Intelligence (AI) Stock Will Double in 3 Years - The Motley Fool",
-        "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-        "Loyalists may miss the old Southwest. Wall Street loves the new one."
+        "Robinhood CEO Vlad Tenev Thinks AI Agents Could Transform the Crypto Market. Here's What That Means for Investors",
+        "American Express Raised Its Revenue Guidance and Left Its Earnings Guidance Alone. Here's Where the Extra Money Is Going.",
+        "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies"
       ]
     },
     {
       "sector_id": "digital_cyber",
       "name_ja": "デジタル・サイバーセキュリティ",
-      "article_count": 16,
+      "article_count": 18,
       "avg_change_pct": -1.51,
       "top_keywords": [
         "data center",
+        "クラウド",
         "データセンター",
         "cybersecurity",
-        "クラウド",
         "自動運転"
       ],
       "top_titles": [
+        "5 Notable Data Center Links, Aug 2 2026 - Data Center Richness | Substack",
         "Woodburn eyes data center issues by considering temporary moratorium - Woodburn Independent",
-        "Data center committee drafts recommendations for county, plans public input session - The Daily Reporter - Greenfield Indiana",
-        "Is Innio (INIO) Undervalued On Its Data Center Order And Mixed Q2 Results? - Yahoo Finance"
+        "Data center committee drafts recommendations for county, plans public input session - The Daily Reporter - Greenfield Indiana"
       ]
     },
     {
@@ -69,32 +69,33 @@
     {
       "sector_id": "quantum",
       "name_ja": "量子",
-      "article_count": 7,
+      "article_count": 10,
       "avg_change_pct": -0.72,
       "top_keywords": [
-        "quantum computing"
+        "quantum computing",
+        "quantum encryption"
       ],
       "top_titles": [
-        "Egypt wins chairmanship of AI governance, quantum computing working groups at Arab AI Committee - Egypt Independent",
-        "Finland Quantum Computing Companies, The Complete Vendor Guide - Quantum Zeitgeist",
-        "「答えが正しい」と証明できる量子優位性をIBMが初めて示した - xenospectrum.com"
+        "IBM CEO Expects Quantum Computing to Drive Revenue by 2020s, Trillion-Dollar Value by End of 2030s - The Quantum Insider",
+        "IBM CEO sends blunt message on quantum computing - thestreet.com",
+        "Egypt wins chairmanship of AI governance, quantum computing working groups at Arab AI Committee - Egypt Independent"
       ]
     },
     {
       "sector_id": "defense",
       "name_ja": "防衛産業",
-      "article_count": 12,
+      "article_count": 15,
       "avg_change_pct": 1.41,
       "top_keywords": [
-        "warship",
         "無人機",
+        "warship",
         "unmanned aircraft",
         "防衛装備"
       ],
       "top_titles": [
-        "Sunken Nazi warship uncovered in shrinking river during heatwave - The Independent",
-        "Sunken German warship from WWII resurfaces due to low river levels in Serbia - timesofindia.indiatimes.com",
-        "Dumfries sailor is information systems tech aboard warship around Hawaii - Culpeper Star-Exponent"
+        "クウェート、イラン無人機を迎撃－トランプ氏は新たな攻撃を検討 - bloomberg.com",
+        "How this Canadian submarine sunk a U.S. warship off Hawaii with a torpedo - National Post",
+        "Sunken Nazi warship uncovered in shrinking river during heatwave - The Independent"
       ]
     },
     {
@@ -118,13 +119,13 @@
     {
       "sector_id": "ocean",
       "name_ja": "海洋",
-      "article_count": 6,
+      "article_count": 8,
       "avg_change_pct": 6.99,
       "top_keywords": [],
       "top_titles": [
+        "India's impressive maritime model offers lessons for South Africa: Report - The Hans India",
         "India's impressive maritime model offers lessons for South Africa: Report - IANS LIVE",
-        "Countries cooperate for strengthening of maritime security in the Indian Ocean region - Greek City Times",
-        "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - Inside Climate News"
+        "Countries cooperate for strengthening of maritime security in the Indian Ocean region - Greek City Times"
       ]
     },
     {
@@ -180,15 +181,15 @@
     {
       "sector_id": "biotech",
       "name_ja": "合成生物学・バイオ",
-      "article_count": 3,
+      "article_count": 4,
       "avg_change_pct": -1.97,
       "top_keywords": [
         "synthetic biology"
       ],
       "top_titles": [
         "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
-        "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews",
-        "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology"
+        "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
+        "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews"
       ]
     },
     {
@@ -210,18 +211,18 @@
     {
       "sector_id": "fusion",
       "name_ja": "フュージョンエネルギー",
-      "article_count": 7,
+      "article_count": 9,
       "avg_change_pct": -0.68,
       "top_keywords": [
         "核融合",
-        "ITER",
         "fusion energy",
+        "ITER",
         "nuclear fusion"
       ],
       "top_titles": [
         "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
-        "In pictures: ITER tokamak core assembly progressing - World Nuclear News",
-        "【岡山大学】超伝導が拓く未来社会：地域中核・特色ある研究大学強化促進事業（J-PEAKS）シナジーセッション開催 ～核融合から量子医療、ダークマター観測まで～ - 山陽新聞"
+        "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
+        "In pictures: ITER tokamak core assembly progressing - World Nuclear News"
       ]
     },
     {
@@ -272,7 +273,7 @@
     {
       "sector_id": "content",
       "name_ja": "コンテンツ",
-      "article_count": 13,
+      "article_count": 15,
       "avg_change_pct": -2.74,
       "top_keywords": [
         "ゲーム",
@@ -282,8 +283,8 @@
       ],
       "top_titles": [
         "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。 - nintendo.com",
-        "【被爆81年】ドラマ・アニメ・Nスペなど関連番組を一挙アンコール放送 - nhk.or.jp",
-        "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer"
+        "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect) - Polygon.com",
+        "【被爆81年】ドラマ・アニメ・Nスペなど関連番組を一挙アンコール放送 - nhk.or.jp"
       ]
     }
   ]
