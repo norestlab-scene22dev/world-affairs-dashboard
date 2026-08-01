@@ -1,7 +1,76 @@
 {
-  "generated_at": "2026-08-01T11:52:09.995994+00:00",
-  "count": 229,
+  "generated_at": "2026-08-01T12:32:09.306211+00:00",
+  "count": 250,
   "items": [
+    {
+      "sector_id": "foodtech",
+      "title": "県のたより8月号2面・3面-1 - pref.kanagawa.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0aDUxeTcxRVcxNXh2dWlQX2VGX0p3MWRWem40aG5WenUyb2t4Rzl3ckp4OFhiaXBpQ014RG40ZnBKWlJadHlaVWktazMzX2NqSDlNQksxOW5YeE52dm1mYjBsSkI?oc=5",
+      "source": "pref.kanagawa.jp",
+      "published": "2026-08-01T12:29:49+00:00",
+      "summary": "県のたより8月号2面・3面-1&nbsp;&nbsp;pref.kanagawa.jp",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "materials",
+      "title": "Congress Must Align Incentives in the Magnets Value Chain Support Act - RealClearDefense",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1QwMFlyRlFOWDdfb2VvQ29YOVJVZ1JwN18tWVRVemVUbkhRX1V1M3NITGZWRDNpTE9XOEo3S0h3VVcxcy1nNGpaelB5WGhZa1MyZnlPSzJLUlBnWWZDU3hKUkR3YjJjWGF1VmQya3ZPU3lCOVB0UW5wYUhLNWRmVi15QzhjMGgyeU5HN2E1TGdNTEJLY3l4dUZmYzJ4RG1WaWYyMUl2bndxb0VfRjNpRERLVHVnd2M3TkdUTWhOdG92X094?oc=5",
+      "source": "RealClearDefense",
+      "published": "2026-08-01T12:24:19+00:00",
+      "summary": "Congress Must Align Incentives in the Magnets Value Chain Support Act&nbsp;&nbsp;RealClearDefense",
+      "lang": "en",
+      "title_ja": "議会は磁石バリューチェーン支援法のインセンティブを調整する必要がある - RealClear Defense"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Prediction: This Top Artificial Intelligence (AI) Stock Will Double in 3 Years - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXlEY1pvdU01MnZWaFY1U3ZkQVhsaFo5cE1vRHExZ0JnRVdJb1VYQU9kUXAyU0VjN2RwSGRtcEZ6MHZ2Wmw5cG4tWGlneHhhRnEtRUZrMFpXajVFaFJHazQ3UmhBYkxXTHRBNVZDWmpuZTBjRUhvWVVyTFNMa0pyckoyUmxRejd4c2dfWkVvZ3JBcjlycVJwLQ?oc=5",
+      "source": "The Motley Fool",
+      "published": "2026-08-01T12:23:56+00:00",
+      "summary": "Prediction: This Top Artificial Intelligence (AI) Stock Will Double in 3 Years&nbsp;&nbsp;The Motley Fool",
+      "lang": "en",
+      "title_ja": "予測: この人工知能 (AI) のトップ株は 3 年で 2 倍になる - モトリーフール米国本社"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "source": "MarketWatch (Top Stories)",
+      "published": "2026-08-01T12:15:00+00:00",
+      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "lang": "en",
+      "title_ja": "私のガールフレンドは 62 歳です。彼女は亡き夫の社会保障給付金を全額請求できますか? それとも待たなければなりませんか?"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "Woodburn eyes data center issues by considering temporary moratorium - Woodburn Independent",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkE1T3VyQ1Q3YjJ0d1FWTktEaF95NHd5bmtQQ29vd2JQeG4zeHZjN0hGQVloX2pWSW9xMC05Wk5WeU5MclRLblN6b3ZFUjFwMzBZUEZOZEkwZmE2d2JZZjVaSGVjWHZJRkFCS05EeF9ldU80Y0h2RllicU5EYWJaclB1Qm1mc3BRVTB2YXdjS1o1bDZkYnJDU3NlYUE1aEpBZGxmOTRsdWJyYlVGSW9qaFlR?oc=5",
+      "source": "Woodburn Independent",
+      "published": "2026-08-01T12:03:46+00:00",
+      "summary": "Woodburn eyes data center issues by considering temporary moratorium&nbsp;&nbsp;Woodburn Independent",
+      "lang": "en",
+      "title_ja": "ウッドバーンは一時停止を検討し、データセンターの問題に目を向ける - Woodburn Independent"
+    },
+    {
+      "sector_id": "materials",
+      "title": "Scandium: A Rare Earth Element That Isn’t Actually Rare - Eye On Annapolis",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZE5WbE5oeFhFZm1XbGZEYzlMSHB1RlJrTlhLSEF4YXI2X3RkbG5KN1I3aDgtektBZjdKT1NyZ3FwUlJQUG9nRUlHa1lwcV80Q2JRQlVockdNVzl2cFpwVWpGamgzZmZKQWUtV21mZHk0ZFRDLU1LUVFzX0JMWGRYVkZQNVdLcW96YU02VzF3VWUyb3JQNE80Uw?oc=5",
+      "source": "Eye On Annapolis",
+      "published": "2026-08-01T12:00:00+00:00",
+      "summary": "Scandium: A Rare Earth Element That Isn’t Actually Rare&nbsp;&nbsp;Eye On Annapolis",
+      "lang": "en",
+      "title_ja": "スカンジウム：実際には希少ではないレアアース元素 - Eye On Annapolis"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Loyalists may miss the old Southwest. Wall Street loves the new one.",
+      "link": "https://www.marketwatch.com/story/loyalists-may-miss-the-old-southwest-wall-street-loves-the-new-one-fab88537?mod=mw_rss_topstories",
+      "source": "MarketWatch (Top Stories)",
+      "published": "2026-08-01T12:00:00+00:00",
+      "summary": "The airline is ‘getting on with the times,’ one fund manager says",
+      "lang": "en",
+      "title_ja": "ロイヤリストは昔の南西部を懐かしむかもしれない。ウォール街は新しいものが大好きです。"
+    },
     {
       "sector_id": "ai_semicon",
       "title": "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
@@ -101,6 +170,25 @@
       "summary": "",
       "lang": "en",
       "title_ja": "モディ首相、インド南部が東南アジア旅行者を求めてヴィザグ空港を開設"
+    },
+    {
+      "sector_id": "port_logistics",
+      "title": "《三角港》港湾の広域ネットワークを活用した被災地への給水支援を開始 ～令和８年熊本地震における対応【白山】～ - mlit.go.jp",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83R2o4VEkyeTl0OS1EbWJwb0d6Qjh1ZnJveWRqQ0o1MloweWxTQ28zTnpVdjBoTC1QTFBTRmhTZWpzalNFekRNTUZBUTVZeWZiaENiaGdpSl9Rak9tSlhleTJNTE9MeUNL?oc=5",
+      "source": "mlit.go.jp",
+      "published": "2026-08-01T11:38:02+00:00",
+      "summary": "《三角港》港湾の広域ネットワークを活用した被災地への給水支援を開始 ～令和８年熊本地震における対応【白山】～&nbsp;&nbsp;mlit.go.jp",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "ocean",
+      "title": "India's impressive maritime model offers lessons for South Africa: Report - IANS LIVE",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTRDbXRwSFFRR3dCRzJWaUZhc1VxUE9BVEdheXJaSUpyOFZOeHVaWU14aVNYTV8yM3RWTGVyT0tLTVN5WUg1a2FURlluOHJvY1poRGx5S3NIRzFRLW1RS3Zna1pidVhsMXdNemU4aVA3dGtKZGZpU1ZZODRFdGUtU1pnbGxuek42cFVYXzNzM0NBRFBhWDZrbGVRSlJISGY3XzJmT1FURFplRzA?oc=5",
+      "source": "IANS LIVE",
+      "published": "2026-08-01T11:32:00+00:00",
+      "summary": "India's impressive maritime model offers lessons for South Africa: Report&nbsp;&nbsp;IANS LIVE",
+      "lang": "en",
+      "title_ja": "インドの印象的な海洋モデルは南アフリカに教訓を与える：レポート - IANS LIVE"
     },
     {
       "sector_id": "ai_semicon",
@@ -219,6 +307,15 @@
     },
     {
       "sector_id": "ai_semicon",
+      "title": "AIドラマのテレビ放送開始に「一つのブレークスルー」「人間は演じなくなる？」の声―中国 - ｄメニューニュース",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2JqYi1na0Rya3o2TE5kbmFfbDhkY2plM05KRm1pNGhYZ2p6TUdhVFVKRDNiM1pYdVNWM0pBVTF3WTVHRnJJYjhQb2F6WDF2a1hJUXk4STdGOW1kNU0zNkRKSFp1US1QNWIzdVFnWmYzZTlMS211STRSTGNnN1ZTbGRONmgyZjE3SDFCQll2a9IBjwFBVV95cUxNU2JqYi1na0Rya3o2TE5kbmFfbDhkY2plM05KRm1pNGhYZ2p6TUdhVFVKRDNiM1pYdVNWM0pBVTF3WTVHRnJJYjhQb2F6WDF2a1hJUXk4STdGOW1kNU0zNkRKSFp1US1QNWIzdVFnWmYzZTlMS211STRSTGNnN1ZTbGRONmgyZjE3SDFCQll2aw?oc=5",
+      "source": "ｄメニューニュース",
+      "published": "2026-08-01T10:00:00+00:00",
+      "summary": "AIドラマのテレビ放送開始に「一つのブレークスルー」「人間は演じなくなる？」の声―中国&nbsp;&nbsp;ｄメニューニュース",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "ai_semicon",
       "title": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報 - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U2tSeDgwM2x6NWhvM3FQd3VfcU94dTd0MFRoUFVUZVZGOGNpWDdXQ1FoQk5kSmkxWHpxNkZyWDJoWjVrcVNZNWh4WWlVMUkxMDZHRA?oc=5",
       "source": "Yahoo!ファイナンス",
@@ -275,6 +372,26 @@
       "title_ja": "産業用IoTに高速5G以上のものが必要な理由 - ACCESS Newswire"
     },
     {
+      "sector_id": "digital_cyber",
+      "title": "Is Innio (INIO) Undervalued On Its Data Center Order And Mixed Q2 Results? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUTRkaHR1U001cURXNkRpQU1XMDc1VHNjbWhpMUp1cVJRME1GTVRxeDNMX2ppNW5QQ0c2bWRNY1hMUksweXpJenJ6V0ctYnZkTUtQRnNEVlBHd2lhaWRjODRKZENSaDBjT3MwbXREd0tMeHZQX2xsd3BWT2NGRnBXSW1tMGVDU0J5U2JNTlhuZkY1bUVUU1QyMHNaYVJFdmdT?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-08-01T09:11:34+00:00",
+      "summary": "Is Innio (INIO) Undervalued On Its Data Center Order And Mixed Q2 Results?&nbsp;&nbsp;Yahoo Finance",
+      "lang": "en",
+      "title_ja": "Innio (INIO) は、データセンターの受注とまちまちの第 2 四半期業績で過小評価されていますか? - Yahooファイナンス"
+    },
+    {
+      "sector_id": "defense",
+      "title": "Sunken German warship from WWII resurfaces due to low river levels in Serbia - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORW0zU1o2Yk9RTjEteDAzWWZOOWhZaXgyTUNOTFRTQjZ1WUphWE50ajI5NzgxTlUyTnlRYXNPQkVtdnM5alhWblhYc1JJNktTM3ZJRXdROEpPMlZva2d1czd3NV9DX1VCMGdWZFlTazBRZ3MwUXRPckNoMW5OdkRfeUNTVGwtbzMxaHotOTk1LVRkMEV2OGxoWWdtRTI2WVNqY1NaSlZkRFdwUzRDNWNwVVRZcFJIOHBxaDVkSFFGLURsbFpLa3Qtc2oyLVlSU0pJM1RPWl81LXRRa24zdFFieVRtWHBxMUtkUGgw0gHwAUFVX3lxTE95eTd6RUl2bEJ5bWFFd0pIeGhKOVRGcVRtUmstSm5SNFpIQWtJTUJoZjAxNWRDTlFaS2s4dWU1cVM2VDRBVkYtYnYwTXp5UnRFVTJzcDNxdGRJWVFaUWtNdzZ3YzByMUhfMWlIRlg5OUxTdmU2a1plOV9jZXhaMjFJTTFLUmk5Rl9iZl8zYUlDYl8ycWNzbGZQQUhCWWVZTEoxTHQxMV85aFZXUENVQTQ0SXFKT0ZDM0g0TTk3c2VKNVFtckdCVTJoY2Y3emhVNmVuQ05SMEdfV09PY1o5TXhxMlBtWnREMDNjV1p1eEU2LQ?oc=5",
+      "source": "timesofindia.indiatimes.com",
+      "published": "2026-08-01T09:10:00+00:00",
+      "summary": "Sunken German warship from WWII resurfaces due to low river levels in Serbia&nbsp;&nbsp;timesofindia.indiatimes.com",
+      "lang": "en",
+      "title_ja": "第二次世界大戦で沈没したドイツ軍艦、セルビアの川の水位低下で浮上 - timesofindia.indiatimes.com"
+    },
+    {
       "sector_id": "defense",
       "title": "Dumfries sailor is information systems tech aboard warship around Hawaii - Culpeper Star-Exponent",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFZ1dEFSM05yRExIekRZX0VFT1VmOHA3Ym4wNFA2b1NubnEyMThseklJREpjY2ItdWZKZjlLS2owektsQW5hMld5MGtSV0hJRlhmZjBkd2VLVWtiMkduVXg4bldDeDRtMF80dW1Lb2lFaG1POFgzemR0dFI1MVY2c3B2cTJzMUlkOFNzcEtmY2oxVjVIa1gtczV3?oc=5",
@@ -302,6 +419,15 @@
       "summary": "Build the data center. Just don't put it there. | CHARLES STEELE JR.&nbsp;&nbsp;The Tuscaloosa News",
       "lang": "en",
       "title_ja": "データセンターを構築します。そこには置かないでください。 |チャールズ・スティール・ジュニア- タスカルーサニュース"
+    },
+    {
+      "sector_id": "energy_gx",
+      "title": "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞（福島テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fTGNKRk92ZnRmbzEwdEpUYURHRmxURElpNVJtcmh6NTF3NG1zUmliT181bm5Fc050Q2xsUGVnSVd5SENVNzQ1ejI2R2xldGlMREc2Sy1Sd2RBOVF4Sl9ZeGNJbElveENPeG9ZTE5QTjRzTG1JMnV6Tjk5UEVNeGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-01T08:22:01+00:00",
+      "summary": "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞（福島テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "lang": "ja"
     },
     {
       "sector_id": "pharma",
@@ -395,6 +521,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "shipbuilding",
+      "title": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》（長崎国際テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TVBmSVE0UTlLcEJzdHVIMS1qSkJCcGlXYkUxY0JwTTlNYUJad3FORGJhUmpvQTRJQTNlSWFfM3NJUzdMbmVVTkZMdXdfZC1QcjJ2cENEVTZJLUVTcnF6NnkwTGxYX2JyV2E3YjZxMW1CWHVNWUNEUDBQY043Szg?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-01T07:08:00+00:00",
+      "summary": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "lang": "ja"
+    },
+    {
       "sector_id": "defense",
       "title": "【速報】クウェート軍、無人機攻撃に対応 - 47NEWS",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oX1gtUDRSbWlSczk1RHZIOEJvcFNUSkEySThqNzZBOHl2VDNXMjRvMUNnMXZScmJKeG81OG1MZU9NU3JOcHM0ZmU1cw?oc=5",
@@ -474,6 +609,15 @@
       "source": "東京サンロッカーズ",
       "published": "2026-08-01T06:21:13+00:00",
       "summary": "ACTION 14｜「プレシーズンゲーム 群馬クレインサンダーズ戦」開催&nbsp;&nbsp;東京サンロッカーズ",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "東日本大震災を経験したラジオ局Date fmが能登に元気を届けたい - クラウドファンディング - READYFOR",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50Y3FmYUFyOERLSGk0VFdRbk4wYUliNXVJb1oxVlNxYXlIR3o1Yy1iTkxWMFNtV1FzRjhzZFU5YUhkRm12ZGh3cXpwaw?oc=5",
+      "source": "クラウドファンディング - READYFOR",
+      "published": "2026-08-01T06:16:51+00:00",
+      "summary": "東日本大震災を経験したラジオ局Date fmが能登に元気を届けたい&nbsp;&nbsp;クラウドファンディング - READYFOR",
       "lang": "ja"
     },
     {
@@ -1614,6 +1758,16 @@
       "lang": "ja"
     },
     {
+      "sector_id": "pharma",
+      "title": "Insilico Medicine launches AI drug discovery benchmarking platform - Drug Target Review",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1dwdklzOXdqUGg0cTVQSC1PRWU5Y3QxcnlZek1BaF9ZSTRndVUybHpJYUNWZ1kzQTZFSUFlV1JCdEVnem5WSko1OEtUSjFTeEQ2NXpjWEtpbjZTXy1PeldoLV83NWtxVXRJVFY1NTNqc0dHS2tCZzExUTNOQTNBVXFIYnk0YmlpZWZNcFJpd1VKYWo1MnJYcWdJR2dyOW1FblZJQk8tV2pBc2RiaTY5ZGxqZnlFUQ?oc=5",
+      "source": "Drug Target Review",
+      "published": "2026-07-31T12:44:51+00:00",
+      "summary": "Insilico Medicine launches AI drug discovery benchmarking platform&nbsp;&nbsp;Drug Target Review",
+      "lang": "en",
+      "title_ja": "Insilico Medicine が AI 創薬ベンチマーク プラットフォームを開始 - Drug Target Review"
+    },
+    {
       "sector_id": "disaster_resilience",
       "title": "Gaps in disaster prevention leave Rwf49bn repair bill: Senate report| The New Times - newtimes.co.rw",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHhtWk1PZ0Y0YjR3eUd1cWpTXy0wY2xWNlJVYmhzZTZ0UXN0WmF4X21NOGF6NGRZTzJkREp2cUJBZG5nVDFVZFEyVndBMWhpSm5JQjVQQ1IyaHVYYkVfUU54Y01DYWpzMFR1MENMaXp5dHBJRVJ2WW8wTTJaNkNYdFpNbVpSX1p5WFRxQU1ubWgxb1hraUh1VVRLWE5FOWJ2bXQtcldZb3JIQ3NyYjVaZkNoS0xfSXFXVFUyU2VHZkxxRm_SAcgBQVVfeXFMTXo5YVB4V0YtRDZXLXA4bEdBa2F3WDJGRFgzZWtkSnBhN1E4OHdkc0c0UVVSalgzTWZzMkdRQnFjeGhMM0Zzd1F2YlpGaDNkVVVnV2U5R3RocVJwTzZva0dnOEo1em1rRW1NcC1TUk5qdFh4WEpyamM0WnFOQkw2TWtUSmE2ZXJVcUJzYTZkNnVPalVUYTlxLXFpelFzNHN4RnZKSFlvbDdfT0tBQVFTb0xKMlhNTzJ3aktMZU9GVXhYSVBZS1QtWnA?oc=5",
@@ -1642,6 +1796,56 @@
       "summary": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035&nbsp;&nbsp;Global Market Insights Inc.",
       "lang": "en",
       "title_ja": "洋上風力発電設備市場規模、2026～2035年予測 - Global Market Insights Inc."
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Are Wall Street Analysts Predicting United Airlines Stock Will Climb or Sink?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-united-110815253.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-31T11:08:15+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "ウォール街のアナリストはユナイテッド航空株が上がるか下がると予想しているか?"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "MediaTek plans $5 billion financing for AI data-center chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mediatek-plans-5-billion-financing-110727702.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-31T11:07:27+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "MediaTek、AIデータセンターチップに50億ドルの資金調達を計画"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Arista Networks’ Huge AI Sales, Upcoming Earnings Lift Shares",
+      "link": "https://finance.yahoo.com/technology/ai/articles/arista-networks-huge-ai-sales-110555078.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-31T11:05:55+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "Arista Networks の AI の巨額販売、今後の収益が株価を押し上げる"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Markets News, July 31: Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soars, Apple Sinks Friday",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/markets-news-july-31-dow-105420811.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-31T10:54:20+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "市場ニュース、7 月 31 日: ナスダック、S&P 500 が下落したため、ダウは 7 月の利益をわずかに記録。金曜日にアマゾン株が急騰、アップル株が下落"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "Aging VA power grid flashes warning with flickering across 50% of US triggered by data centers. Protect yourself now",
+      "link": "https://finance.yahoo.com/energy/articles/aging-va-power-grid-flashes-104500863.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-31T10:45:00+00:00",
+      "summary": "",
+      "lang": "en",
+      "title_ja": "老朽化した VA 送電網がデータセンターをきっかけに米国の 50% で点滅警告を発します。今すぐ自分を守りましょう"
     },
     {
       "sector_id": "ai_semicon",
@@ -1680,6 +1884,16 @@
       "published": "2026-07-31T10:13:00+00:00",
       "summary": "エビ陸上養殖事業停止 ＨＡＮＥＲＵ葛尾 筆頭株主が出資継続断念か&nbsp;&nbsp;福島民報デジタル",
       "lang": "ja"
+    },
+    {
+      "sector_id": "port_logistics",
+      "title": "Kein Umstapeln mehr: Wie gigantische Container-Regale die Hafenlogistik der Zukunft prägen - Xpert.Digital - Konrad Wolfenstein",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JMm1fNkNrOTRFaF9kSm11eDVSUlBiR3NraDktWWtCeWQ1aVY4NTJtMjI4WjZpc2gyMWE3SWhBUTU0OWJhbUpoR0Z2LVVrMHFXR3lQb0JEWmUyOFQ3RzBfN2tR0gFqQVVfeXFMTng4UWRCbGNHTXFpN1hkLUhiNHItVUJsMFMxc1ZaMExMWmxsdVlpcUJKVURBTHdyRXFJQTMycmVIRzdBdWpkVUQ5ZUZtVEZaYlM3SUpLQVZveVg2emVmUTRKTFFVRG5IVi0wQQ?oc=5",
+      "source": "Xpert.Digital - Konrad Wolfenstein",
+      "published": "2026-07-31T10:00:31+00:00",
+      "summary": "Kein Umstapeln mehr: Wie gigantische Container-Regale die Hafenlogistik der Zukunft prägen&nbsp;&nbsp;Xpert.Digital - Konrad Wolfenstein",
+      "lang": "en",
+      "title_ja": "Kein Umstapeln mehr: Wie gigantische Container-Regale die Hafenlogistik der Zukunft prägen - Xpert.Digital - Konrad Wolfenstein"
     },
     {
       "sector_id": "ai_semicon",
@@ -1862,6 +2076,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "fusion",
+      "title": "スターライトエンジン、核融合発電60億円調達 出資先と連携強化 - nikkan.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNXNmNFRCQ2ZZZ3UwNWdzT25SUFBTVU9MUERlWDFiWmV6NVpfbFlMTmFtNjJWZ3RqSmRNQjRqeFNIUXlaWjVTaGhFaWRlcHNyQlBaU1VlSTlsQlk?oc=5",
+      "source": "nikkan.co.jp",
+      "published": "2026-07-31T00:20:17+00:00",
+      "summary": "スターライトエンジン、核融合発電60億円調達 出資先と連携強化&nbsp;&nbsp;nikkan.co.jp",
+      "lang": "ja"
+    },
+    {
       "sector_id": "pharma",
       "title": "Japan PBSS 創薬エコシステムシリーズ Vol.2 現地開催イベントのお知らせ - PR TIMES",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTWlYNVo2R1NUV2p4UHRORk45TFFiOUNWRzZfMkYta3YwTjRQakdyQlRTUTMtVTRKZnZZdjM4a1Q0SVZUYjRNWlBnS2tNVllGR05jbnVTV2M1Z1YyV2twd0o1N0c5NDFmR3c?oc=5",
@@ -1883,6 +2106,15 @@
       "sector_id": "biotech",
       "title": "【新研究】淡水魚を襲う「伝染するがん」という生命体 - newspicks.com",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ia0l5YkZPM1lnc1dadDdaT3hQM216ZGRWd1J2c3doMFVoTzRiUWo1S2JEZXpsX2hyR1Itc2ROT292UlBMdmdxZURVVEphbDBCZWZFNEJB?oc=5",
+      "source": "newspicks.com",
+      "published": "2026-07-30T21:00:29+00:00",
+      "summary": "【新研究】淡水魚を襲う「伝染するがん」という生命体&nbsp;&nbsp;newspicks.com",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "biotech",
+      "title": "【新研究】淡水魚を襲う「伝染するがん」という生命体 - newspicks.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YTWxSVkZJU2VzSTBUUG84SXRLdnVhNFpSdUR2NUg5Y3BqUzM2SnFQMktjS0pHdnkxVXlRSVAtQ21lV0ZnWUZVUjhWQnVsYXY1N1R2VE0yVnM?oc=5",
       "source": "newspicks.com",
       "published": "2026-07-30T21:00:29+00:00",
       "summary": "【新研究】淡水魚を襲う「伝染するがん」という生命体&nbsp;&nbsp;newspicks.com",
@@ -1935,6 +2167,16 @@
       "title_ja": "イタリアからミルウォーキーへ: ITER IDEA がどのように AI リソース プランニングを中西部にもたらしているか - WEDC"
     },
     {
+      "sector_id": "shipbuilding",
+      "title": "Electric Boat lands largest shipbuilding contract in modern history - WFSB",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazBnYUpXMTVucC1mb0RfX0VYSW5ORzY1VWZubjBfaGVMd0hzc2FGbHdfSFh1MGhpVWpwbF9PbFN1Wnl6ZUIxVHBLQW9GNUJNdzB1VlpmSGtkQlRnUHZSTkZEeGc1TEEzdDB5ZVk5M3MzRXZQT3FuWnZMc1E5Vm9Oc09pNHVDRGp5SlhPa0FwSl9WeTZ4TDVKZ3p3U3I1UdIBsgFBVV95cUxPR001WVJSV2d0SzFtMkM5a25mWUtESUMzNno4SzZUYTQtUmxWbEFNN1pyM21FdkRSVDA4T3pZOWRyOEtqV2pyWTdxN1J6SjFKRGItZ0QyS0FFU09nSzBzUk5pNXc1d3ozNllvTy05YWthMXVDZnVaQ1ZIZzVTcDREdU91ckU4OWVlbEFQejFkTG9TOVdMWFh1cWY0S2NBdFZyd19mLTRsNmlEYjB0VFBGRHNn?oc=5",
+      "source": "WFSB",
+      "published": "2026-07-30T20:22:00+00:00",
+      "summary": "Electric Boat lands largest shipbuilding contract in modern history&nbsp;&nbsp;WFSB",
+      "lang": "en",
+      "title_ja": "電気ボートが近代史上最大の造船契約を結ぶ - WFSB"
+    },
+    {
       "sector_id": "ocean",
       "title": "内閣府など、南鳥島沖のレアアース泥 中重が５４％ - 化学工業日報 電子版",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52ajdpOTRhbjRneDlQX21SeWp6RzRmdkJRYzdIWTNkY1p2eHJMSXdFeDhCS01Qa0RfOGM4X3J5ZU1Ca1lqajBqdjRoTHVQRFR1Z1Aw?oc=5",
@@ -1980,6 +2222,15 @@
       "summary": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel&nbsp;&nbsp;Marine News Magazine",
       "lang": "en",
       "title_ja": "ボスカリス・ウィンドパイパーが海底岩石設置船に改造される - 海洋ニュースマガジン"
+    },
+    {
+      "sector_id": "quantum",
+      "title": "支持率急落の高市政権が深める「維新傾斜」の代償、予測不能の内閣改造で存在感増す2人の政治家 - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hTFZuMUZ2emJKaDVCNkVnaVJRcENOMW9pSGozVVRYaG1TRFJBeFpEX0dPY0JaTnY3US0wRHFlU2pfQlhDcXRsaGlHaWJTeXfSAU9BVV95cUxOYUxWbjFGdnpiSmg1QjZFZ2lSUXBDTjFvaUhqM1VUWGhtU0RSQXhaRF9HT2NCWk52N1EtMERxZVNqX0JYQ3F0bGhpR2liU3l3?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-07-30T19:13:00+00:00",
+      "summary": "支持率急落の高市政権が深める「維新傾斜」の代償、予測不能の内閣改造で存在感増す2人の政治家&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "lang": "ja"
     },
     {
       "sector_id": "defense",
@@ -2138,56 +2389,6 @@
       "summary": "",
       "lang": "en",
       "title_ja": "AIやチップ事業のランレートが250億ドルに達する中、第2四半期決算が予想を上回ったことでアマゾン株が急騰"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
-      "link": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html",
-      "source": "CNBC (Markets)",
-      "published": "2026-07-27T14:22:15+00:00",
-      "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
-      "lang": "en",
-      "title_ja": "シンガポール、原油価格上昇でインフレリスクが再燃、予想外の措置で金融政策を引き締め"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-      "link": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
-      "source": "CNBC (Markets)",
-      "published": "2026-07-17T14:13:49+00:00",
-      "summary": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
-      "lang": "en",
-      "title_ja": "中国からの商品コストが2008年以来最高値に達する中、輸入価格が予想外の上昇を記録"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "Renewed Hormuz hostilities drive ECB rates rethink amid ‘extremely volatile’ outlook",
-      "link": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html",
-      "source": "CNBC (Markets)",
-      "published": "2026-07-15T11:33:19+00:00",
-      "summary": "Several consecutive days of strikes exchanged between the U.S. and Iran have cast uncertainty on the European Central Bank's interest rate decision next week.",
-      "lang": "en",
-      "title_ja": "ホルムズでの敵対行為再燃でECB金利再考、「極めて不安定な」見通しを背景に"
-    },
-    {
-      "sector_id": "content",
-      "title": "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-      "link": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
-      "source": "CNBC (Markets)",
-      "published": "2026-07-13T15:20:06+00:00",
-      "summary": "Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.",
-      "lang": "en",
-      "title_ja": "「ファンフレーション」が心に刺さる: 住み続けることが以前のようなコスト削減ではない理由"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-      "link": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html",
-      "source": "CNBC (Markets)",
-      "published": "2026-07-13T10:56:52+00:00",
-      "summary": "Inflation has risen for the eighth straight month in India, as food and energy prices rise due to the Iran war and deficient rainfall.",
-      "lang": "en",
-      "title_ja": "インドのインフレ率は6月に予想を上回る4.38％に加速"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-01T11:52:42.449843+00:00",
+  "generated_at": "2026-08-01T12:32:42.057773+00:00",
   "lookback_hours": 30,
-  "total_articles": 185,
-  "headline": "直近30時間で185件のニュースを検出。 報道量が多い分野はAI・半導体(33件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 205,
+  "headline": "直近30時間で205件のニュースを検出。 報道量が多い分野はAI・半導体(41件)、デジタル・サイバーセキュリティ(16件)、造船(13件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
-    "content",
-    "digital_cyber"
+    "digital_cyber",
+    "shipbuilding"
   ],
   "top_impact_sectors": [
     "ocean",
@@ -17,37 +17,37 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 33,
+      "article_count": 41,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
         "chip",
         "半導体",
-        "semiconductor",
-        "artificial intelligence"
+        "artificial intelligence",
+        "semiconductor"
       ],
       "top_titles": [
-        "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
-        "Vietnam's Vingroup broadens empire with rail, energy expansion",
-        "Canada's Couche-Tard to buy top Polish convenience store chain"
+        "Prediction: This Top Artificial Intelligence (AI) Stock Will Double in 3 Years - The Motley Fool",
+        "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+        "Loyalists may miss the old Southwest. Wall Street loves the new one."
       ]
     },
     {
       "sector_id": "digital_cyber",
       "name_ja": "デジタル・サイバーセキュリティ",
-      "article_count": 12,
+      "article_count": 16,
       "avg_change_pct": -1.51,
       "top_keywords": [
         "data center",
         "データセンター",
         "cybersecurity",
-        "自動運転",
-        "クラウド"
+        "クラウド",
+        "自動運転"
       ],
       "top_titles": [
+        "Woodburn eyes data center issues by considering temporary moratorium - Woodburn Independent",
         "Data center committee drafts recommendations for county, plans public input session - The Daily Reporter - Greenfield Indiana",
-        "Build the data center. Just don't put it there. | CHARLES STEELE JR. - The Tuscaloosa News",
-        "鎌倉発！ いのちと星と龍の絵本出版プロジェクト。 絵本を通じて、「巡るいのち」の物語を世界に届けたい！ - motion-gallery.net"
+        "Is Innio (INIO) Undervalued On Its Data Center Order And Mixed Q2 Results? - Yahoo Finance"
       ]
     },
     {
@@ -69,7 +69,7 @@
     {
       "sector_id": "quantum",
       "name_ja": "量子",
-      "article_count": 9,
+      "article_count": 7,
       "avg_change_pct": -0.72,
       "top_keywords": [
         "quantum computing"
@@ -83,18 +83,18 @@
     {
       "sector_id": "defense",
       "name_ja": "防衛産業",
-      "article_count": 11,
+      "article_count": 12,
       "avg_change_pct": 1.41,
       "top_keywords": [
-        "無人機",
         "warship",
+        "無人機",
         "unmanned aircraft",
         "防衛装備"
       ],
       "top_titles": [
         "Sunken Nazi warship uncovered in shrinking river during heatwave - The Independent",
-        "Dumfries sailor is information systems tech aboard warship around Hawaii - Culpeper Star-Exponent",
-        "【速報】クウェート軍、無人機攻撃に対応 - 47NEWS"
+        "Sunken German warship from WWII resurfaces due to low river levels in Serbia - timesofindia.indiatimes.com",
+        "Dumfries sailor is information systems tech aboard warship around Hawaii - Culpeper Star-Exponent"
       ]
     },
     {
@@ -118,19 +118,19 @@
     {
       "sector_id": "ocean",
       "name_ja": "海洋",
-      "article_count": 5,
+      "article_count": 6,
       "avg_change_pct": 6.99,
       "top_keywords": [],
       "top_titles": [
+        "India's impressive maritime model offers lessons for South Africa: Report - IANS LIVE",
         "Countries cooperate for strengthening of maritime security in the Indian Ocean region - Greek City Times",
-        "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - Inside Climate News",
-        "New Zealand launches long-range UAV acquisition programme - Janes"
+        "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - Inside Climate News"
       ]
     },
     {
       "sector_id": "shipbuilding",
       "name_ja": "造船",
-      "article_count": 12,
+      "article_count": 13,
       "avg_change_pct": 2.63,
       "top_keywords": [
         "造船",
@@ -146,30 +146,30 @@
     {
       "sector_id": "materials",
       "name_ja": "マテリアル(重要鉱物・部素材)",
-      "article_count": 11,
+      "article_count": 13,
       "avg_change_pct": 2.05,
       "top_keywords": [
         "レアアース",
-        "critical minerals",
-        "rare earth"
+        "rare earth",
+        "critical minerals"
       ],
       "top_titles": [
-        "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ - ダイヤモンド・オンライン",
-        "Argentina, South Korea announce critical minerals partnership - Buenos Aires Times",
-        "Trump Claims US Can Take ‘Whatever We Want’ from Ukraine Mines - Kyiv Post"
+        "Congress Must Align Incentives in the Magnets Value Chain Support Act - RealClearDefense",
+        "Scandium: A Rare Earth Element That Isn’t Actually Rare - Eye On Annapolis",
+        "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ - ダイヤモンド・オンライン"
       ]
     },
     {
       "sector_id": "pharma",
       "name_ja": "創薬・先端医療",
-      "article_count": 9,
+      "article_count": 10,
       "avg_change_pct": -2.63,
       "top_keywords": [
         "medical device",
         "再生医療",
         "創薬",
-        "iPS細胞",
-        "drug discovery"
+        "drug discovery",
+        "iPS細胞"
       ],
       "top_titles": [
         "iPS再生医療、患者の前へ 期待と不安の20年…「治る病気」へと踏み出した新たな一歩 iPS細胞20年 夢から医療へ① - sankei.com",
@@ -194,17 +194,17 @@
     {
       "sector_id": "energy_gx",
       "name_ja": "資源・エネルギー安全保障・GX",
-      "article_count": 12,
+      "article_count": 13,
       "avg_change_pct": 1.52,
       "top_keywords": [
         "offshore wind",
-        "洋上風力",
-        "水素"
+        "水素",
+        "洋上風力"
       ],
       "top_titles": [
+        "“原子炉に送り込む窒素”の生成装置が停止 水素濃度に有意変動なく爆発の恐れはなし＜福島第一原発＞（福島テレビ） - Yahoo!ニュース",
         "Rising costs for VB offshore wind project - WAVY.com",
-        "政府・戦略産業クラスター計画第１弾 「洋上風力」に秋田など３県 - 秋田魁新報電子版",
-        "六カ所再処理工場、水素爆発の想定は福島第一原発事故の100分の1（最後はホース）｜まさのあつこ 地味な取材ノート - note"
+        "政府・戦略産業クラスター計画第１弾 「洋上風力」に秋田など３県 - 秋田魁新報電子版"
       ]
     },
     {
@@ -242,31 +242,31 @@
     {
       "sector_id": "port_logistics",
       "name_ja": "港湾ロジスティクス",
-      "article_count": 9,
+      "article_count": 11,
       "avg_change_pct": -1.16,
       "top_keywords": [
         "港湾",
         "cargo handling"
       ],
       "top_titles": [
+        "《三角港》港湾の広域ネットワークを活用した被災地への給水支援を開始 ～令和８年熊本地震における対応【白山】～ - mlit.go.jp",
         "ロシア軍がミコラエフをドローン攻撃、倉庫や港湾施設を損壊 - Межа. Новини України.",
-        "南アフリカの港湾都市ケベルハを散策_中国網_日本語 - チャイナネット",
-        "《八代港》港湾の広域ネットワークを活用した被災地への給水車への船舶からの水の供給を開始 ～令和８年熊本地震における対応【清龍丸】～ - mlit.go.jp"
+        "南アフリカの港湾都市ケベルハを散策_中国網_日本語 - チャイナネット"
       ]
     },
     {
       "sector_id": "foodtech",
       "name_ja": "フードテック",
-      "article_count": 7,
+      "article_count": 8,
       "avg_change_pct": 3.82,
       "top_keywords": [
         "陸上養殖",
         "植物工場"
       ],
       "top_titles": [
+        "県のたより8月号2面・3面-1 - pref.kanagawa.jp",
         "クルマエビ、三種町で陸上養殖へ 漁協主体で２７年度から - 秋田魁新報電子版",
-        "ＨＡＮＥＲＵ葛尾 エビの陸上養殖停止 - 47NEWS",
-        "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - 北羽新報社"
+        "ＨＡＮＥＲＵ葛尾 エビの陸上養殖停止 - 47NEWS"
       ]
     },
     {
