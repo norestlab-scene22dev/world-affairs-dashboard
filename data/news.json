@@ -1,22 +1,13 @@
 {
-  "generated_at": "2026-08-01T11:08:58.591490+00:00",
-  "count": 231,
+  "generated_at": "2026-08-01T11:41:20.361626+00:00",
+  "count": 229,
   "items": [
-    {
-      "sector_id": "ai_semicon",
-      "title": "Yen pares intervention gains as Asian tech shares surge",
-      "link": "https://asia.nikkei.com/business/markets/currencies/yen-pares-intervention-gains-as-asian-tech-shares-surge",
-      "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554654+00:00",
-      "summary": "",
-      "lang": "en"
-    },
     {
       "sector_id": "ai_semicon",
       "title": "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
       "link": "https://asia.nikkei.com/business/energy/india-s-fuel-retailers-lose-nearly-2bn-shielding-customers-from-energy-shock",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554614+00:00",
+      "published": "2026-08-01T11:41:19.729266+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -25,7 +16,7 @@
       "title": "Vietnam's Vingroup broadens empire with rail, energy expansion",
       "link": "https://asia.nikkei.com/business/companies/vietnam-s-vingroup-broadens-empire-with-rail-energy-expansion",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554573+00:00",
+      "published": "2026-08-01T11:41:19.729222+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -34,7 +25,7 @@
       "title": "Canada's Couche-Tard to buy top Polish convenience store chain",
       "link": "https://asia.nikkei.com/business/business-deals/canada-s-couche-tard-to-buy-top-polish-convenience-store-chain",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554530+00:00",
+      "published": "2026-08-01T11:41:19.729181+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -43,7 +34,7 @@
       "title": "US wants Japan's top tech companies in AI-powered Genesis Mission: official",
       "link": "https://asia.nikkei.com/editor-s-picks/interview/us-wants-japan-s-top-tech-companies-in-ai-powered-genesis-mission-official",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554468+00:00",
+      "published": "2026-08-01T11:41:19.729139+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -52,7 +43,7 @@
       "title": "Four US tech giants bled $95bn in cash in Q2 on soaring AI investments",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/four-us-tech-giants-bled-95bn-in-cash-in-q2-on-soaring-ai-investments",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554425+00:00",
+      "published": "2026-08-01T11:41:19.729097+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -61,7 +52,7 @@
       "title": "Memory makers flush with $90bn cash flow on AI gold rush",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/memory-makers-flush-with-90bn-cash-flow-on-ai-gold-rush",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554351+00:00",
+      "published": "2026-08-01T11:41:19.729024+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -70,7 +61,7 @@
       "title": "LDP revolt grows in Japan over Takaichi plan to cut food tax to 1%",
       "link": "https://asia.nikkei.com/politics/ldp-revolt-grows-in-japan-over-takaichi-plan-to-cut-food-tax-to-1",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554276+00:00",
+      "published": "2026-08-01T11:41:19.728950+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -79,7 +70,7 @@
       "title": "Living between two worlds on Taiwan's Matsu Islands",
       "link": "https://asia.nikkei.com/life-arts/life/living-between-two-worlds-on-taiwan-s-matsu-islands",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.554050+00:00",
+      "published": "2026-08-01T11:41:19.728732+00:00",
       "summary": "",
       "lang": "en"
     },
@@ -88,9 +79,36 @@
       "title": "Chinese trains packed with ACs speed into Europe to help with heat wave",
       "link": "https://asia.nikkei.com/business/transportation/chinese-trains-packed-with-acs-speed-into-europe-to-help-with-heat-wave",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:08:57.553958+00:00",
+      "published": "2026-08-01T11:41:19.728655+00:00",
       "summary": "",
       "lang": "en"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Modi opens Vizag airport as India's south seeks Southeast Asian travelers",
+      "link": "https://asia.nikkei.com/business/transportation/modi-opens-vizag-airport-as-india-s-south-seeks-southeast-asian-travelers",
+      "source": "Nikkei Asia (Business)",
+      "published": "2026-08-01T11:41:19.728531+00:00",
+      "summary": "",
+      "lang": "en"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "The Iran war sent investors into fertilizer stocks — but here’s the China risk everyone’s missing",
+      "link": "https://www.marketwatch.com/story/the-iran-war-sent-investors-into-fertilizer-stocks-but-heres-the-china-risk-everyones-missing-7be93b9d?mod=mw_rss_topstories",
+      "source": "MarketWatch (Top Stories)",
+      "published": "2026-08-01T11:30:00+00:00",
+      "summary": "The fertilizer trade as it relates to the Iran war and the Strait of Hormuz is really three trades pointed in different directions.",
+      "lang": "en"
+    },
+    {
+      "sector_id": "materials",
+      "title": "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ - ダイヤモンド・オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUDdETnFBVEdpbExqTXRDT3N1YmJFWERPVGlXZzljd015d2xLdlN1NW5UU0NrWUthY2NnWmYtSjFrX1dsMjhJdVRhdVN1c1VyYlRj?oc=5",
+      "source": "ダイヤモンド・オンライン",
+      "published": "2026-08-01T11:21:30+00:00",
+      "summary": "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "lang": "ja"
     },
     {
       "sector_id": "digital_cyber",
@@ -174,12 +192,39 @@
       "lang": "en"
     },
     {
+      "sector_id": "content",
+      "title": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YelVWTXJLNjdMNWhYcVFCaWlsdmFIaDlaREZSMm5OM3FDVTVzdmc0RTdoUHpjN255Rm1tX2YxTkE1N2wwSF9NWUY1VQ?oc=5",
+      "source": "TVer",
+      "published": "2026-08-01T10:01:46+00:00",
+      "summary": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題&nbsp;&nbsp;TVer",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U2tSeDgwM2x6NWhvM3FQd3VfcU94dTd0MFRoUFVUZVZGOGNpWDdXQ1FoQk5kSmkxWHpxNkZyWDJoWjVrcVNZNWh4WWlVMUkxMDZHRA?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "published": "2026-08-01T09:58:00+00:00",
+      "summary": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報&nbsp;&nbsp;Yahoo!ファイナンス",
+      "lang": "ja"
+    },
+    {
       "sector_id": "shipbuilding",
       "title": "長崎市が県に造船業の振興など19項目要望へ 人材確保の支援など求める - FNNプライムオンライン",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wdko4WDZOajVGMFYyZnJPMEU4dmxDODlLVV9xU0xacnpLQkwtQlg1Yndqd0pKMWwtTXNncHg1Vm9EWXh1WHg0X1V0Vl9VZw?oc=5",
       "source": "FNNプライムオンライン",
       "published": "2026-08-01T09:49:00+00:00",
       "summary": "長崎市が県に造船業の振興など19項目要望へ 人材確保の支援など求める&nbsp;&nbsp;FNNプライムオンライン",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "shipbuilding",
+      "title": "造船業界の再編と、国内海事産業の発展。 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa1o1a0h0NUdsSmdobDJhYkduQXVJRHQwOGJ5SUhncElMMFV2czgzYVh4ZkozREVXb09LVGlYTmNzeVhUMkoyOEgteEwzMjFkb1RTX0xuVHNJWG5oTGRIUDg1cFRlN0x1Y04yR280STRkSldtbXlzbW9jaTFVbko4NkwxTUdobTB3RnNQTEZQeHZWSERzYlJiUHln?oc=5",
+      "source": "Vietnam.vn",
+      "published": "2026-08-01T09:41:57+00:00",
+      "summary": "造船業界の再編と、国内海事産業の発展。&nbsp;&nbsp;Vietnam.vn",
       "lang": "ja"
     },
     {
@@ -256,11 +301,20 @@
     },
     {
       "sector_id": "materials",
-      "title": "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUDdETnFBVEdpbExqTXRDT3N1YmJFWERPVGlXZzljd015d2xLdlN1NW5UU0NrWUthY2NnWmYtSjFrX1dsMjhJdVRhdVN1c1VyYlRj?oc=5",
-      "source": "ダイヤモンド・オンライン",
-      "published": "2026-08-01T08:18:11+00:00",
-      "summary": "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "title": "Argentina, South Korea announce critical minerals partnership - batimes.com.ar",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTBQTjhSY0JYLUQxZUhPclZ2UTVxOXpUUDNxZDhZc2JqNGVjcENYaU44ekNWNHh4ZzJkZFBTRDdGTEs4SWdSeWlDbWQyWE5sZkVvYU5JMUpoakM3UkkyVFNkQjNxX3hFWlZnQ1RYRTRPMFhHX084RS1VNElTTTBKTkM4TnpHc0hGalF1NHZyMVE3ZURSUUZFTFRIQ0xLb3ZLV3NTakQtR0gyVVdEZ2EyclpDVDTSAbQBQVVfeXFMTU0wUE44UmNCWC1EMWVIT3JWdlE1cTl6VFAzcWQ4WXNiajRlY3BDWGlOOHpDVjR4eGcyZGRQU0Q3RkxLOElnUnlpQ21kMlhObGZFb2FOSTFKaGpDN1JJMlRTZEIzcV94RVpWZ0NUWEU0TzBYR19POEUtVTRJU00wSk5DOE56R3NIRmpRdTR2cjFRN2VEUlFGRUxUSENMS292S1dzU2pELUdIMlVXRGdhMnJaQ1Q0?oc=5",
+      "source": "batimes.com.ar",
+      "published": "2026-08-01T08:30:43+00:00",
+      "summary": "Argentina, South Korea announce critical minerals partnership&nbsp;&nbsp;batimes.com.ar",
+      "lang": "en"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "完全密閉型データセンターラックの世界市場（2026年～2032年）、市場規模（オープンフレームラック、ラックエンクロージャー、壁掛けラック）・分析レポートを発表 - アットプレス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RN1RSaUd6VmpDX3FNeFJlMXNaMjVyN191UEZlQTN0Vkw3OHBvSjdWdEJYM05kbUd4UmpzcVFoX2NPZi1rdU9XeW5WanVVVVU?oc=5",
+      "source": "アットプレス",
+      "published": "2026-08-01T08:30:00+00:00",
+      "summary": "完全密閉型データセンターラックの世界市場（2026年～2032年）、市場規模（オープンフレームラック、ラックエンクロージャー、壁掛けラック）・分析レポートを発表&nbsp;&nbsp;アットプレス",
       "lang": "ja"
     },
     {
@@ -271,15 +325,6 @@
       "published": "2026-08-01T08:11:37+00:00",
       "summary": "思捷優達-KY、AI創薬による主力候補薬YA-101の多系統萎縮症（MSA）に対する国際第2相臨床試験において患者登録を完了&nbsp;&nbsp;北海道新聞デジタル",
       "lang": "ja"
-    },
-    {
-      "sector_id": "materials",
-      "title": "Argentina, South Korea announce critical minerals partnership - Buenos Aires Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2d3TTB2WTlsdFhnU2ZJeGxrSi1BMTVpZmQ2dFp3S1BQcmFfU0xscXBxTF9sWUxMajMtSVo1TnJMcWwwOFV3RThITDZQUUZtUUliczhOSVM3Tl9lRFduTkthLUw0VWhrU3l0R3RqTWgyZ3VVU1Q2Uk9hZnNJeE5vUVo3Q25wQlNLSHVNWEd0NlE0MWpfMGo0UmU4TG1ESzVTb01qSEltOFlsRjZNSnA40gG0AUFVX3lxTE1NMFBOOFJjQlgtRDFlSE9yVnZRNXE5elRQM3FkOFlzYmo0ZWNwQ1hpTjh6Q1Y0eHhnMmRkUFNEN0ZMSzhJZ1J5aUNtZDJYTmxmRW9hTkkxSmhqQzdSSTJUU2RCM3FfeEVaVmdDVFhFNE8wWEdfTzhFLVU0SVNNMEpOQzhOekdzSEZqUXU0dnIxUTdlRFJRRkVMVEhDTEtvdktXc1NqRC1HSDJVV0RnYTJyWkNUNA?oc=5",
-      "source": "Buenos Aires Times",
-      "published": "2026-08-01T07:58:21+00:00",
-      "summary": "Argentina, South Korea announce critical minerals partnership&nbsp;&nbsp;Buenos Aires Times",
-      "lang": "en"
     },
     {
       "sector_id": "disaster_resilience",
@@ -319,11 +364,11 @@
     },
     {
       "sector_id": "disaster_resilience",
-      "title": "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - キャンプファイヤー",
+      "title": "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - camp-fire.jp",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaFM2cldJemhCXzd1R3lEVGNUaVhNM0FVOHV3aGg5cFJOVDdMaHdxSThPbWlzLXQxU0xKZ042TktVRjZNNUE5emVzLVRtcVFXNmJJ?oc=5",
-      "source": "キャンプファイヤー",
+      "source": "camp-fire.jp",
       "published": "2026-08-01T07:35:49+00:00",
-      "summary": "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」&nbsp;&nbsp;キャンプファイヤー",
+      "summary": "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」&nbsp;&nbsp;camp-fire.jp",
       "lang": "ja"
     },
     {
@@ -346,11 +391,11 @@
     },
     {
       "sector_id": "shipbuilding",
-      "title": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》（長崎国際テレビ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TVBmSVE0UTlLcEJzdHVIMS1qSkJCcGlXYkUxY0JwTTlNYUJad3FORGJhUmpvQTRJQTNlSWFfM3NJUzdMbmVVTkZMdXdfZC1QcjJ2cENEVTZJLUVTcnF6NnkwTGxYX2JyV2E3YjZxMW1CWHVNWUNEUDBQY043Szg?oc=5",
-      "source": "Yahoo!ニュース",
+      "title": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》 - 日テレNEWS NNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdktZeUJHN0NndEI0ekdXMzdHeXdxNDEycjhTaktRWFAybDFHN25xZ3pRMVliWWZ0aXFVQ0tpc2lPODNOcHRmVHYtRWxhdzhpWDBLdVk0TzYzeEVpejBtejd0T0owU0NIYTBMcklzZ0ZCeVVwMkgteFNWSndpS2IxQkNTTWJzUm8?oc=5",
+      "source": "日テレNEWS NNN",
       "published": "2026-08-01T07:08:00+00:00",
-      "summary": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》&nbsp;&nbsp;日テレNEWS NNN",
       "lang": "ja"
     },
     {
@@ -399,21 +444,12 @@
       "lang": "ja"
     },
     {
-      "sector_id": "content",
-      "title": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YelVWTXJLNjdMNWhYcVFCaWlsdmFIaDlaREZSMm5OM3FDVTVzdmc0RTdoUHpjN255Rm1tX2YxTkE1N2wwSF9NWUY1VQ?oc=5",
-      "source": "TVer",
-      "published": "2026-08-01T07:00:31+00:00",
-      "summary": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題&nbsp;&nbsp;TVer",
-      "lang": "ja"
-    },
-    {
       "sector_id": "ai_semicon",
-      "title": "国内株式市場見通し：週末にかけて急反発したAI・半導体株のリバウンドの持続性が焦点に - 株探",
+      "title": "国内株式市場見通し：週末にかけて急反発したAI・半導体株のリバウンドの持続性が焦点に - kabutan.jp",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN2JDWENwekZ5Q0paZDhHcnQxbTNLSjRlTXRUWGswRXA2VUpoVVg4TWRpM1lNaldGNDBsUHU3NGZsMFR4QW5EaG9BQ3ZOR1prbkFxRHhKQ1RNTkNFOTRmQw?oc=5",
-      "source": "株探",
+      "source": "kabutan.jp",
       "published": "2026-08-01T06:58:10+00:00",
-      "summary": "国内株式市場見通し：週末にかけて急反発したAI・半導体株のリバウンドの持続性が焦点に&nbsp;&nbsp;株探",
+      "summary": "国内株式市場見通し：週末にかけて急反発したAI・半導体株のリバウンドの持続性が焦点に&nbsp;&nbsp;kabutan.jp",
       "lang": "ja"
     },
     {
@@ -432,15 +468,6 @@
       "source": "東京サンロッカーズ",
       "published": "2026-08-01T06:21:13+00:00",
       "summary": "ACTION 14｜「プレシーズンゲーム 群馬クレインサンダーズ戦」開催&nbsp;&nbsp;東京サンロッカーズ",
-      "lang": "ja"
-    },
-    {
-      "sector_id": "digital_cyber",
-      "title": "東日本大震災を経験したラジオ局Date fmが能登に元気を届けたい - クラウドファンディング - READYFOR",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50Y3FmYUFyOERLSGk0VFdRbk4wYUliNXVJb1oxVlNxYXlIR3o1Yy1iTkxWMFNtV1FzRjhzZFU5YUhkRm12ZGh3cXpwaw?oc=5",
-      "source": "クラウドファンディング - READYFOR",
-      "published": "2026-08-01T06:16:51+00:00",
-      "summary": "東日本大震災を経験したラジオ局Date fmが能登に元気を届けたい&nbsp;&nbsp;クラウドファンディング - READYFOR",
       "lang": "ja"
     },
     {
@@ -544,11 +571,11 @@
     },
     {
       "sector_id": "disaster_resilience",
-      "title": "Kerala prepares disaster-prevention measures as heavy rains lash States - The Hindu",
+      "title": "Kerala prepares disaster-prevention measures as heavy rains lash States - thehindu.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXlZZHZjQjlFaU9mYjFKczVvdUxHazIxMGJoRVRjQkVCYUJFOTBiUVl0b0toUmZtZWVHZzY0VXNfNkNnejlfbnJJUVVLbGJ1ZXd1cTh4dVBrZzRjdF96MHRVTDRUbUtZZXp6bTNtYjh5eEtFc3U4NXRGRV83cndTdTh5QzVZc2JWdldYYkJ6T0YtUHVtZ3pCWUJXMVZTMFJCU09ZTzlSSmtkMm1mOHNIeFVxZWhLNDVPQllzOG96XzFFS1FnbkRuYnJvWTdWc2tydUtJ0gHaAUFVX3lxTFBTX3ZaVmVOY25BRnNjZElsb0lldXdxTVpUVjQ1cWpPMEQ1cTZXUUhKZVdobEJjQmxlbkJMQkNjUVE1UGdCUzYwN3FEQ2dhaTRzbzJwbFYtaTVwZGJISzJPVzJUd095bGZRLTNFQUdrOERwcGhia29MS0JzNlFaY3hHVnNmelY0R2RlV1hoT1NaeVUtYzQ0V2ZLbE02U3FiUENhbm03WnQza0w2UHFqNkY4emlvdmFMOW5uWGgzeTRWRFY2eHBrUjRNOEhjT3FGNVR2em93RTU0Qk53?oc=5",
-      "source": "The Hindu",
+      "source": "thehindu.com",
       "published": "2026-08-01T05:10:45+00:00",
-      "summary": "Kerala prepares disaster-prevention measures as heavy rains lash States&nbsp;&nbsp;The Hindu",
+      "summary": "Kerala prepares disaster-prevention measures as heavy rains lash States&nbsp;&nbsp;thehindu.com",
       "lang": "en"
     },
     {
@@ -562,11 +589,11 @@
     },
     {
       "sector_id": "defense",
-      "title": "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water - Українські Національні Новини (УНН)",
+      "title": "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water - unn.ua",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZkxZOUNvY3NMdWJ1ZU5SZUNZUEVzSzRFOFQ3cUFuQmZkVWdDSXVCamgyX3FwYS1aOF9TNlpCeGVhZWs3RjZ5WGRqelV0UlRWTGliT2lUX1dRQXBVM2xCLWxTdmZueWg0cm9rdGxXUHlRWU55Vkk4ZGxPVjNrVC1pWExmVFZGOVJ3UUhaV1laY2xQQ0U4a2dleW4tTElsaHdLank2amVFRFVqZEl2b29hWFBn0gGyAUFVX3lxTE9mTFk5Q29jc0x1YnVlTlJlQ1lQRXNLNEU4VDdxQW5CZmRVZ0NJdUJqaDJfcXBhLVo4X1M2WkJ4ZWFlazdGNnlYZGp6VXRSVFZMaWJPaVRfV1FBcFUzbEItbFN2Zm55aDRyb2t0bFdQeVFZTnlWSThkbE9WM2tULWlYTGZUVkY5UndRSFpXWVpjbFBDRThrZ2V5bi1MSWxod0tqeTZqZUVEVWpkSXZvb2FYUGc?oc=5",
-      "source": "Українські Національні Новини (УНН)",
+      "source": "unn.ua",
       "published": "2026-08-01T04:58:36+00:00",
-      "summary": "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water&nbsp;&nbsp;Українські Національні Новини (УНН)",
+      "summary": "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water&nbsp;&nbsp;unn.ua",
       "lang": "en"
     },
     {
@@ -615,15 +642,6 @@
       "lang": "en"
     },
     {
-      "sector_id": "digital_cyber",
-      "title": "AIデータセンターを抱える巨大テック、膨らむ債務 - Forbes JAPAN",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56bWRoSlBPaGpwUGRoTGFncnpyVWNrTDV4V053aUMwdkM4RU9LeVE1MWFRaVJRY1c2TGx5aGwySDBNTHR6a2c3enhHTGF3WnpKb3RMTzFwWkdTQQ?oc=5",
-      "source": "Forbes JAPAN",
-      "published": "2026-08-01T04:14:00+00:00",
-      "summary": "AIデータセンターを抱える巨大テック、膨らむ債務&nbsp;&nbsp;Forbes JAPAN",
-      "lang": "ja"
-    },
-    {
       "sector_id": "materials",
       "title": "中重レアアース5割超 - 毎日新聞",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YMXNLdWpSVUllOGhtS2swT0dpM1h1eHhRTy1zaHQtMTFSR25pTzF4dWpwYXVrN2dEUkJyeXl0elpNQWdLNXVzZTg4ZkMwN0Q1dkZ3LXBWQWkxTUxIZXkyQzl2QTU5U3RBUGtMNUUyQ1E?oc=5",
@@ -666,6 +684,15 @@
       "source": "Yahoo!ニュース",
       "published": "2026-08-01T03:20:32+00:00",
       "summary": "「情報通信時代を支える」宮城AIデータセンター開所式 生成AI需要増に合わせ 宮城・七ヶ浜町（tbc東北放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "次世代メダリストが生まれる場所を未来に残したい。 - readyfor.jp",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16OVY5TjRTTmdpYWJVMEdLaXRNRW1NNzktcHUtRWhPcWJaMmhOQVNnY1dQbHdiOVR0RWUwXzl3a09pT2R4dnU2SzFQUQ?oc=5",
+      "source": "readyfor.jp",
+      "published": "2026-08-01T03:14:21+00:00",
+      "summary": "次世代メダリストが生まれる場所を未来に残したい。&nbsp;&nbsp;readyfor.jp",
       "lang": "ja"
     },
     {
@@ -750,6 +777,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "port_logistics",
+      "title": "マワニ、ジェッダ・イスラム港に「チャイナ・サウジ・エクスプレス」サービスを追加 - arabnews.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52STNuWUMxQ2d2QXd0dUpHZnB4SHMzNzdSS1A0YkFSRFNWT2lTaFUxTjdyV1BPQl81Ym84VkJrSmVmaU1xTzFOS1gzeDk0SDh5cWRRaHNpNVFQNm1vUWd3aFNfb2c0dlE?oc=5",
+      "source": "arabnews.jp",
+      "published": "2026-08-01T02:08:11+00:00",
+      "summary": "マワニ、ジェッダ・イスラム港に「チャイナ・サウジ・エクスプレス」サービスを追加&nbsp;&nbsp;arabnews.jp",
+      "lang": "ja"
+    },
+    {
       "sector_id": "telecom",
       "title": "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - AKIBA PC Hotline!",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UcFVLUEZ5UTNEbjZrU0xiZ2xWQlVGSDgyc25FU2FsS1l4OHhBdzFJV1BGTDBKcGE2cG1FR0lYSmt1RHk5SmZWY19vcUZ3d1lnVUdadHRHWjh2eUEwU3dKMmlTeXh2dld6b3lEdkJKOTJPZw?oc=5",
@@ -769,11 +805,11 @@
     },
     {
       "sector_id": "content",
-      "title": "Free Fire Daybreak Anime Releases New Trailer, Story Details - Crunchyroll",
+      "title": "Free Fire Daybreak Anime Releases New Trailer, Story Details - crunchyroll.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUGFpU3ZlUXQ0ME5BNldpb2N4Um9tcnlnUkZZeHJxQXAzS3ZlMXZiNjNRbDRXcmpXWU9FVk9YaE9JaEJFTEpCZVJsdnBac19XSldmdlBQNi1BOXRtaGczTmlTMU5uVHhmcFh1V1RIdWZlY0x1QW1GQm5laXVyaGlZdTBOcEtYbk9mZ1dvdHlUb3RpSDZSRWZXclBqTEQyUQ?oc=5",
-      "source": "Crunchyroll",
+      "source": "crunchyroll.com",
       "published": "2026-08-01T02:00:00+00:00",
-      "summary": "Free Fire Daybreak Anime Releases New Trailer, Story Details&nbsp;&nbsp;Crunchyroll",
+      "summary": "Free Fire Daybreak Anime Releases New Trailer, Story Details&nbsp;&nbsp;crunchyroll.com",
       "lang": "en"
     },
     {
@@ -805,11 +841,11 @@
     },
     {
       "sector_id": "foodtech",
-      "title": "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - 北羽新報社",
+      "title": "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - hokuu.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PMzBRS2FQQTdrS0FOZFVjR1NHLUhJREFQLUxaNHQxS1h5bTFBVE5WY2ItQTREQ3Z5NUlPQ2NWSFVtdy1aMUxr?oc=5",
-      "source": "北羽新報社",
+      "source": "hokuu.co.jp",
       "published": "2026-08-01T01:09:56+00:00",
-      "summary": "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声&nbsp;&nbsp;北羽新報社",
+      "summary": "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声&nbsp;&nbsp;hokuu.co.jp",
       "lang": "ja"
     },
     {
@@ -867,30 +903,21 @@
       "lang": "en"
     },
     {
-      "sector_id": "ai_semicon",
-      "title": "中国AI『Kimi K3』がGPT超え…米AI株急落 研究者「ムーンショットが非常に頑張った」米中覇権争いの中、サイバー攻撃を「中国AIで防御する」事態も（ABEMA TIMES） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZzdBb3djd2VwSlNzTlcyX0ZuRVN2dmdzV29kS3F3YzB5blZtaUJvRS1TeUtZUDUzaExxWDdOYjN6cHNaMk13QmdKODR5TTEtTnJDN0s5QzVINk02OWV5VjZwbHZCWWVRbUd1cUduSDNxc3JKVDIzVWY0ZGFrT0k?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-08-01T00:00:37+00:00",
-      "summary": "中国AI『Kimi K3』がGPT超え…米AI株急落 研究者「ムーンショットが非常に頑張った」米中覇権争いの中、サイバー攻撃を「中国AIで防御する」事態も（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
-      "lang": "ja"
-    },
-    {
       "sector_id": "energy_gx",
-      "title": "Cadeler incorporates Wind Ace for offshore wind projects - inspenet.com",
+      "title": "Cadeler incorporates Wind Ace for offshore wind projects - Inspenet",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXoxa2ZucGNiS1B2Y1V0WU9EMkVsZFZWenoyZHAtbHVzMXRMSHNKTUEtMW03QlVPalFKU1d2bVJEdWlvdG9renFJOTZjZ052Q0ZkcGUyWEc1eGZOTmIzdmQ2by1YM2k5MTJnRkZKUVQzOUxlZGNEdWlJanZRMTF4VA?oc=5",
-      "source": "inspenet.com",
+      "source": "Inspenet",
       "published": "2026-08-01T00:00:00+00:00",
-      "summary": "Cadeler incorporates Wind Ace for offshore wind projects&nbsp;&nbsp;inspenet.com",
+      "summary": "Cadeler incorporates Wind Ace for offshore wind projects&nbsp;&nbsp;Inspenet",
       "lang": "en"
     },
     {
       "sector_id": "materials",
-      "title": "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly - Interesting Engineering",
+      "title": "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly - interestingengineering.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcnZnOGsyaVhvVVc3UE9RY2VSMDVzcmtpYzZGZzUwMVU4S2ZBbkZndi1DMFpJX0poV1VZOXJ0SWhqOUFhaXlaX0p4aTdqRjRLNkFZYUg0MENkWV96MmdUc2VqNmd5QmoxcWJJd3ZWaE1OOG5fbF9Ia1NGN19JMnBpNU5TMG1CcjE4MU9DOQ?oc=5",
-      "source": "Interesting Engineering",
+      "source": "interestingengineering.com",
       "published": "2026-07-31T23:44:00+00:00",
-      "summary": "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly&nbsp;&nbsp;Interesting Engineering",
+      "summary": "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly&nbsp;&nbsp;interestingengineering.com",
       "lang": "en"
     },
     {
@@ -921,6 +948,15 @@
       "lang": "en"
     },
     {
+      "sector_id": "pharma",
+      "title": "２病院に改善命令　自由診療細胞投与　不適切再生医療で｜四国新聞WEB朝刊 - 四国新聞",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kMjJKMWVJMnlWWjhucTROdXlaMzBPUmY3eWVpY3lUclpSSU5vdmJ3OWl3Y1BTaXRucHdIOXBGaS1GdEpuVl8xNDBUS0xsU2xhaS1HT1pXR1FOaTNJc3p2WmY3UlFsVWh5UW9Hb1psTUlEQURDWHpr0gF8QVVfeXFMTUxSSUFwbEgxN0NFeE56a25sblVOT2RkUy1kT01aeE5OZnRSS2k4dTdtX2pFRnRyUVZ6TW5uUDZrbkNISkNlRkgyQzZ2QUo4dWRxRjlQZWVhZEZwamlqWXc5MmowdWoya1AwMWhQQkd3VXR2T3I0NFFLc3ctdg?oc=5",
+      "source": "四国新聞",
+      "published": "2026-07-31T23:08:30+00:00",
+      "summary": "２病院に改善命令　自由診療細胞投与　不適切再生医療で｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞",
+      "lang": "ja"
+    },
+    {
       "sector_id": "ai_semicon",
       "title": "【日本株】AI相場の次なる主役｢フィジカルAI｣の本命株を紹介！ 工作機械大手で業績が急回復中の｢DMG森精機｣と、エヌビディアと提携の｢ファナック｣に注目！ - ダイヤモンド・オンライン",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91eDI4Y2VybUVidXpJdlRIOHNCR0NaemszWmQybllMeUJrc1lSMkc3MUprcnByVkRiS1ZaSDU2MEg3YkdKa3ZpSmo1aTJiUFRWZ2hB?oc=5",
@@ -931,21 +967,12 @@
     },
     {
       "sector_id": "ai_semicon",
-      "title": "Medicaid/CHIP Monthly Enrollment Tracker - KFF",
+      "title": "Medicaid/CHIP Monthly Enrollment Tracker - kff.org",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZlduTlEyb3kxaVhyRmJkYkZJT0dIcmRZWXVPSC1kZ0l1T0dQRzlHZFZ2SThndGRsMjd4NktNQlJ2RHY2MFFrY3p0NDJrRXU1T0NsZjh1Um42WUFSTkhOblc1REl4UWRa?oc=5",
-      "source": "KFF",
+      "source": "kff.org",
       "published": "2026-07-31T22:39:53+00:00",
-      "summary": "Medicaid/CHIP Monthly Enrollment Tracker&nbsp;&nbsp;KFF",
+      "summary": "Medicaid/CHIP Monthly Enrollment Tracker&nbsp;&nbsp;kff.org",
       "lang": "en"
-    },
-    {
-      "sector_id": "fusion",
-      "title": "未来のエネルギーを支える技術に触れて - 公明党",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTkVOaDBkNVJhV01GYTBPWFc5OGU4MmtDQlRycUJTdnhUa2Z5NHhZeFo5ZmZFTDBUalZLRVZSd0Fnc2dPcnpBNE9SX0V4RWZWV0MwQWN2dHduVVpYRXpxMlp0dkZwRDlJNFREWjR0VVkxUHFBdkZ6X1hFOTlEdjJUUUJHY1I4SmZpNlBkWkV5R3QtS05TMi0weUVVQXdGVWpfNjAtNHJ1NDlBMTRWQ2M2TllvX2tGZzBjX0VjQXhTeE5Qam5PNFA1QmVMdXNiM2Z0VnBLd2NHak85eTlHdG5QMFdBTktNWGFCeVRNelNmc1doSHgzNS11ZDFyNWF4d0plVmVzVDJQZjV2aFJTcWpYcEpWNUJmZ3JpN2hGQjREVkh4M2pac25nMnBUVlNveFhsSEV5OXozUmt1aFI5V2dicTZrUVJCUQ?oc=5",
-      "source": "公明党",
-      "published": "2026-07-31T22:32:16+00:00",
-      "summary": "未来のエネルギーを支える技術に触れて&nbsp;&nbsp;公明党",
-      "lang": "ja"
     },
     {
       "sector_id": "quantum",
@@ -955,6 +982,15 @@
       "published": "2026-07-31T22:22:20+00:00",
       "summary": "「答えが正しい」と証明できる量子優位性をIBMが初めて示した&nbsp;&nbsp;xenospectrum.com",
       "lang": "ja"
+    },
+    {
+      "sector_id": "shipbuilding",
+      "title": "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2lwZmVxZk81NUhoOVNYcWdXVWpLV1l3blVQUTF3ZmZYdXlXVGtZMHFZTG5CSkcwa1FPd2RYMWJ5OXU1Ynlic1B0ZEl1ci1sT09kSW5MVDZWcXhrdkx4WXdDUUJ3VXJTVExnNVhNa1VXaU1BUjRMMG5kYkJKYUFsQXZhRVFhcE5DSm1Nb3kwWlpVbkMwLWpORlhR?oc=5",
+      "source": "Yahoo Finance",
+      "published": "2026-07-31T22:11:57+00:00",
+      "summary": "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance&nbsp;&nbsp;Yahoo Finance",
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -968,7 +1004,7 @@
     {
       "sector_id": "energy_gx",
       "title": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道] - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2F5cEpsRHpWaExybDNJdEFGRzVsVmRPcFNjWmVVV083cUNhSGdfOVMyUWdIajYzUHQzbC00ckdJWnhMVDdfM3FjSjNhUE4tMkhZcVlldlBxX05Nb2ZPRDQ4Q2Ytbmk2bEdLM3M2SUxWenR4Q0VsWEt6OVNoS3lhTw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxRnU0YnFSVDFxbEVDa3h5VlIxb3poMFpEcnhVdTdzRDBGM0VoOVZKZmotRE9iZWZEc0pNZTNTSXpYem42UDF5bUZ5OXVWU1Rjb3RLeDM3VWFNckNQLW5FWDdvd2gyTFU?oc=5",
       "source": "朝日新聞",
       "published": "2026-07-31T22:00:00+00:00",
       "summary": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道]&nbsp;&nbsp;朝日新聞",
@@ -1011,15 +1047,6 @@
       "lang": "en"
     },
     {
-      "sector_id": "ai_semicon",
-      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
-      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
-      "source": "MarketWatch (Top Stories)",
-      "published": "2026-07-31T21:28:00+00:00",
-      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-      "lang": "en"
-    },
-    {
       "sector_id": "fusion",
       "title": "第16回核融合エネルギー連合講演会で発表を行いました - Helical Fusion",
       "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNOUVCSEJINWQzQXpmTXA3TnpGa1VlOUNKWWc0YnRveUNYM0dXbDhYbGprV0ZOdURWNVE1SkExUkpWQWZlQjZ2b3BZampYN1RlMHduX2l0TkxJdGhqd2t2c1JlMjlWM1VLYVhveVdVaG9abnh0a0xTNTVPYUxqOW4yMDRtVzFiMjlvUnZLRjh0ZHhCd3g2X0V0TzRZM01mMVNPZ2U0QmU2SWJFWER0amN1ZDFTVndEUEpkcE91cnZVLUIydmZ6Y0ZCdnc0U0ZZMDJEYWMxNHozbzRvT1pBbHd0VlJsZlhFY2xWY3UxTURwdFJsVmFWQUN6RjMtOXk0MmtLbVRZNzJ1aW1rWlctSHFSX3BMUDhnMlRDUEdadnVQRWdxUjU1alZNLXBnbXRzRjZiYUxDWmtfSVg4eDF0Unk3TlNseGZYVHJ3VnloM3JPMklVSF9CSFBUaEFkci0tSlk1TkI4WFVJTUF2bFpQaHc?oc=5",
@@ -1036,15 +1063,6 @@
       "published": "2026-07-31T21:16:08+00:00",
       "summary": "Google rolls back new satellite image AI tool after backlash&nbsp;&nbsp;South China Morning Post",
       "lang": "en"
-    },
-    {
-      "sector_id": "pharma",
-      "title": "SCORT-Cas13dナノセラピーによる、転移性前立腺がんにおける「創薬困難な」転写因子HoxB13の生体内での精密標的化 - crisp_bio",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRkN3ZlJ5TzFmakF4VWxJMWstTkl2VS1oaHlKLVNIa1Z3cVBqbzN5Umw0QXQyVmEzVUdoSk00QkczcEotTVFMRTQtYmVVY0RhcGtESVUyeWVpak94?oc=5",
-      "source": "crisp_bio",
-      "published": "2026-07-31T21:02:33+00:00",
-      "summary": "SCORT-Cas13dナノセラピーによる、転移性前立腺がんにおける「創薬困難な」転写因子HoxB13の生体内での精密標的化&nbsp;&nbsp;crisp_bio",
-      "lang": "ja"
     },
     {
       "sector_id": "energy_gx",
@@ -1156,11 +1174,11 @@
     },
     {
       "sector_id": "fusion",
-      "title": "Big nuclear fusion project makes progress with components from San Diego’s General Atomics - San Diego Union-Tribune",
+      "title": "Big nuclear fusion project makes progress with components from San Diego’s General Atomics - sandiegouniontribune.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEF6X1BiaTBFc0poemtOdGh0T2ZOaWNESXRCUTNzYms2b3hmUGhQdTgwY2ViREdraHJDSmFRZDQzZUptVEV5SWJIV0JtYWhIa21VeGZzSUNHa09jblVKYk1RelZvd1VOTjRyb0MtengtMGxsS0lLbkxGT0xueW5FdDNHQ295ZVJUWTlKUWdxcV9UQTZ3RUM4N1ZEb1VTdXo5azNLOFlHVDViU0RZU0EyX3pEVHpqbklySml0NnVwX2VxbGFza3dwNFR4UjRNZDJqZTlqOA?oc=5",
-      "source": "San Diego Union-Tribune",
+      "source": "sandiegouniontribune.com",
       "published": "2026-07-31T20:09:16+00:00",
-      "summary": "Big nuclear fusion project makes progress with components from San Diego’s General Atomics&nbsp;&nbsp;San Diego Union-Tribune",
+      "summary": "Big nuclear fusion project makes progress with components from San Diego’s General Atomics&nbsp;&nbsp;sandiegouniontribune.com",
       "lang": "en"
     },
     {
@@ -1317,12 +1335,21 @@
       "lang": "en"
     },
     {
+      "sector_id": "foodtech",
+      "title": "＜画像1 / 5＞レタスが1週間で収穫できる「植物工場」って何？ - ウォーカープラス",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIU0J6aDJ4Wk5wS3BoMTlIVWx4OW9paldGUmVpSXFUX1hiMjc5VTA3VFRLOVdobndwaWxLaDA4Y1cwbnppLVZHTjU3VXJuVjc0MkE0SmNRT212Vi05MlBoRUtReGU?oc=5",
+      "source": "ウォーカープラス",
+      "published": "2026-07-31T18:00:36+00:00",
+      "summary": "＜画像1 / 5＞レタスが1週間で収穫できる「植物工場」って何？&nbsp;&nbsp;ウォーカープラス",
+      "lang": "ja"
+    },
+    {
       "sector_id": "biotech",
-      "title": "Synthetic Biology Sheds Light on Microbial Evolution - asm.org",
+      "title": "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTRJTlkxMVVlY1l2U1lyX2RjSS1ZV251TnhTWkVHZnYzN3IzTXhVQ2dLNTNrTjlKUk9IcmFUbGVYZVYyS2hQOUo0ejh5dDBwellaVXZaZnlJdGR2bUZCekxiQzhab09PYnE1UldicUlGaUxHRXhrMkM4SmI1alNXS0ZIMEJwbHg0Z3VxdVZ3?oc=5",
-      "source": "asm.org",
+      "source": "American Society for Microbiology",
       "published": "2026-07-31T17:50:37+00:00",
-      "summary": "Synthetic Biology Sheds Light on Microbial Evolution&nbsp;&nbsp;asm.org",
+      "summary": "Synthetic Biology Sheds Light on Microbial Evolution&nbsp;&nbsp;American Society for Microbiology",
       "lang": "en"
     },
     {
@@ -1381,20 +1408,20 @@
     },
     {
       "sector_id": "telecom",
-      "title": "AT&T’s FirstNet gains 5G SA access - sdxcentral.com",
+      "title": "AT&T’s FirstNet gains 5G SA access - SDxCentral",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1USC1Sb1ZEbWdiZkxGSHBGQWtSb25ST19SYWY1NnVXQzRMWW5TZXNTcDdTaWtGUjh5cURhcVMtcU5ldXNVTTJxalZFbEtpTUNmc0ZLTEQ1bzQyZDVkckdpUEJySVJhVnI0OHRYZHNGZW5Wb0E?oc=5",
-      "source": "sdxcentral.com",
+      "source": "SDxCentral",
       "published": "2026-07-31T16:58:44+00:00",
-      "summary": "AT&amp;T’s FirstNet gains 5G SA access&nbsp;&nbsp;sdxcentral.com",
+      "summary": "AT&amp;T’s FirstNet gains 5G SA access&nbsp;&nbsp;SDxCentral",
       "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "NTIA tees up 4.4 GHz band for 6G study - fiercewireless.com",
+      "title": "NTIA tees up 4.4 GHz band for 6G study - Fierce Network",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpcFY4RlJ5aURobTdxRTUtcmdzQkhrb20yVUNYRVlRX3BtVGh4R2VLeVBaYWhFZ2VnaU8zV0daRFYtZVJNY3d4dlJ4NUFwMVBoX0dxZHhYM000THpGVUMxajlRYzktR0tqeVVfM25LWkd3cEk1ejhXeV93?oc=5",
-      "source": "fiercewireless.com",
+      "source": "Fierce Network",
       "published": "2026-07-31T16:56:30+00:00",
-      "summary": "NTIA tees up 4.4 GHz band for 6G study&nbsp;&nbsp;fiercewireless.com",
+      "summary": "NTIA tees up 4.4 GHz band for 6G study&nbsp;&nbsp;Fierce Network",
       "lang": "en"
     },
     {
@@ -1507,20 +1534,11 @@
     },
     {
       "sector_id": "port_logistics",
-      "title": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport - worldcargonews.com",
+      "title": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport - WorldCargo News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEZnVkw1M3ZVdHBXSjN5VkZHX2JocE9RX0MwSXhKNXZvekxWTGlXS2hhdGdYXzFFakxyODRhbkJCdlVyTW8xbzlmS0t2N1kxbFQ3T3IyZU5tTWx2aUtObG5NV0dkMVdUZEtvVUVyWlpFRlZfMDZEV2lGcElyMnlsT0wzdVdKN0gyNzJwZ0I0U3JNQy1XTHJlemZIRDB2Wmo1MlRSUkxPWm5kOGlMMGVzVWFWY0IxX2NyUDNMa29RSQ?oc=5",
-      "source": "worldcargonews.com",
+      "source": "WorldCargo News",
       "published": "2026-07-31T12:36:44+00:00",
-      "summary": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport&nbsp;&nbsp;worldcargonews.com",
-      "lang": "en"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "Gold prices today, Friday, July 31, 2026: Gold price finally breaks above $4,100 as U.S. paused airstrikes overnight",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-31-2026-gold-price-finally-breaks-above-4100-as-us-paused-airstrikes-overnight-123436216.html",
-      "source": "Yahoo Finance (Top News)",
-      "published": "2026-07-31T12:34:36+00:00",
-      "summary": "",
+      "summary": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport&nbsp;&nbsp;WorldCargo News",
       "lang": "en"
     },
     {
@@ -1534,11 +1552,11 @@
     },
     {
       "sector_id": "energy_gx",
-      "title": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035 - Global Market Insights Inc.",
+      "title": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035 - gminsights.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUW5kMkk4TFZQNDZsTDlncnlfSXdVMy1BRXJNRzdLdHAtYkhuN1Q2bWRGVjVBUjV4T2E2aWpNVjlUTUUzMThFZWJDWjlyeXJpc1dZbzBSZm9wT3pxQzY5NEt1MkRiaE81d0FmNXp4QXFRRTdicDM3LTEzd3dJcVBKaXRWY1EtSUhjTWsxU1R3?oc=5",
-      "source": "Global Market Insights Inc.",
+      "source": "gminsights.com",
       "published": "2026-07-31T11:53:55+00:00",
-      "summary": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035&nbsp;&nbsp;Global Market Insights Inc.",
+      "summary": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035&nbsp;&nbsp;gminsights.com",
       "lang": "en"
     },
     {
@@ -1597,24 +1615,6 @@
     },
     {
       "sector_id": "ai_semicon",
-      "title": "A Simple Answer to AI Job Loss: Tax Capital, Not Labor",
-      "link": "https://www.wsj.com/tech/ai/a-simple-answer-to-ai-job-loss-tax-capital-not-labor-cb900e62?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance (Top News)",
-      "published": "2026-07-31T09:30:00+00:00",
-      "summary": "",
-      "lang": "en"
-    },
-    {
-      "sector_id": "shipbuilding",
-      "title": "長崎総合科学大学、今治造船や名村造船所などと教育協議会発足 - 日本経済新聞",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oNTQwb1lubG5ZS3c3UklET1dMcVBXX0RpMWlHUkRRcE5XdUZOYjhyYzUxeWV5ZHRyMUdIaGYtSVAxOGhEWEpPN0VqbEV6ck5UcW02Mkh3aGFmU0dvVzhtd1o3SDdnRVR3Z0pVdw?oc=5",
-      "source": "日本経済新聞",
-      "published": "2026-07-31T09:26:50+00:00",
-      "summary": "長崎総合科学大学、今治造船や名村造船所などと教育協議会発足&nbsp;&nbsp;日本経済新聞",
-      "lang": "ja"
-    },
-    {
-      "sector_id": "ai_semicon",
       "title": "Amazon soars as cloud revenue surge allays fears over ballooning AI bets",
       "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-jumps-aws-growth-soothes-091407416.html",
       "source": "Yahoo Finance (Top News)",
@@ -1623,30 +1623,12 @@
       "lang": "en"
     },
     {
-      "sector_id": "port_logistics",
-      "title": "エジプト大統領、港湾攻撃を受けて地域の情勢悪化を警告 - arabnews.jp",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hOXJGRjFQNnlBeGVBd1MySVJETnFJb1RhQWljaWV3WkVOV0pZZXJ0eFFFdzVDbC11aHFoZlE0cldLVkdpVlVFc04zNVFGbWFjdHNFbi01a0FjR0xJckFpaEVNbGFMOEFqbXdF?oc=5",
-      "source": "arabnews.jp",
-      "published": "2026-07-31T09:07:37+00:00",
-      "summary": "エジプト大統領、港湾攻撃を受けて地域の情勢悪化を警告&nbsp;&nbsp;arabnews.jp",
-      "lang": "ja"
-    },
-    {
       "sector_id": "ocean",
       "title": "AFN InFocus- USV OPS - ssc.spaceforce.mil",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlBJY3FjWmdaYUc3U25jZmFrT0FWSXJydVRoalFFOG1sX3ZabmRGLXltN09WSC1SdXBpRjJ6U055WkI3eWRBbDVNUlNWVVVxdzBRMzZadGo0cFVjMHk3TzF3cXVHNnQ3WWNvRE9jMzhHUUFuQVk4LVVKUGV5ZzlMeDYtT1gzT25QbkdKVDdmcVk5dWZGMzFCWXhFZmpqNm5qTmc?oc=5",
       "source": "ssc.spaceforce.mil",
       "published": "2026-07-31T09:06:11+00:00",
       "summary": "AFN InFocus- USV OPS&nbsp;&nbsp;ssc.spaceforce.mil",
-      "lang": "en"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "Apple tumbles as supply chain snarls mar forecast in Cook's last earnings as CEO",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-slides-supply-snags-cloud-082812003.html",
-      "source": "Yahoo Finance (Top News)",
-      "published": "2026-07-31T08:28:12+00:00",
-      "summary": "",
       "lang": "en"
     },
     {
@@ -1722,15 +1704,6 @@
       "lang": "en"
     },
     {
-      "sector_id": "foodtech",
-      "title": "エビ陸上養殖事業停止 HANERU葛尾、追加の支援なく断念 (福島民友新聞) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVE4cWhLVjdoRll4WWVOSEQ1TmN0OWtCdkpfRmw1elpMX3QwdmY0VU1BMUlXNUZLZnQ3N2ZaUEplSnZzb3phd2JUa1dBQ2lqWGNVSFRRRnV1N3V6enFXbGtFeWZPZjgxQlRFRHN2VENqTmw5TTJTWURZUlNMUmNUTDdrcDc5a25odHBZU1hn?oc=5",
-      "source": "Yahoo!ニュース",
-      "published": "2026-07-31T03:11:29+00:00",
-      "summary": "エビ陸上養殖事業停止 HANERU葛尾、追加の支援なく断念 (福島民友新聞)&nbsp;&nbsp;Yahoo!ニュース",
-      "lang": "ja"
-    },
-    {
       "sector_id": "port_logistics",
       "title": "Gulfport adds second hybrid crane to boost bulk handling - Splash247",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdExqRnMzbk5ZcXI4U1NmQVBXVURCeUYwUlFadmFzRTFrQXJmM1BCSW1BWjlSRGlqY0ZpcnpjeEFzbE5RMDJNdUY4b2hHeHBKUEo4V2RYMW1CNU9pZHEwYVJ2cHdLN0sxcmxvWVhVMHFMbUVGd3UyMVNwMXVGM3lJaVBmQUtUdw?oc=5",
@@ -1785,6 +1758,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "fusion",
+      "title": "スターライトエンジン、核融合発電60億円調達 出資先と連携強化 - 日刊工業新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNXNmNFRCQ2ZZZ3UwNWdzT25SUFBTVU9MUERlWDFiWmV6NVpfbFlMTmFtNjJWZ3RqSmRNQjRqeFNIUXlaWjVTaGhFaWRlcHNyQlBaU1VlSTlsQlk?oc=5",
+      "source": "日刊工業新聞",
+      "published": "2026-07-31T00:20:17+00:00",
+      "summary": "スターライトエンジン、核融合発電60億円調達 出資先と連携強化&nbsp;&nbsp;日刊工業新聞",
+      "lang": "ja"
+    },
+    {
       "sector_id": "foodtech",
       "title": "エビ陸上養殖事業停止 HANERU葛尾、追加の支援なく断念:福島ニュース - 福島民友新聞社",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NcnVsOWpQUmVmRkstaGNic1ZDMDFINWNiU1pjNzVDYmxYX1QzRi1ocm5mdXE1dHNkN09wakx1R0w3eG9mOGc3YXA5SlJMOS1nVVlFQ3VZT1FpSkRnSXU5SmlfLUwzeUwx?oc=5",
@@ -1796,7 +1778,7 @@
     {
       "sector_id": "biotech",
       "title": "【新研究】淡水魚を襲う「伝染するがん」という生命体 - newspicks.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ia0l5YkZPM1lnc1dadDdaT3hQM216ZGRWd1J2c3doMFVoTzRiUWo1S2JEZXpsX2hyR1Itc2ROT292UlBMdmdxZURVVEphbDBCZWZFNEJB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YTWxSVkZJU2VzSTBUUG84SXRLdnVhNFpSdUR2NUg5Y3BqUzM2SnFQMktjS0pHdnkxVXlRSVAtQ21lV0ZnWUZVUjhWQnVsYXY1N1R2VE0yVnM?oc=5",
       "source": "newspicks.com",
       "published": "2026-07-30T21:00:29+00:00",
       "summary": "【新研究】淡水魚を襲う「伝染するがん」という生命体&nbsp;&nbsp;newspicks.com",
@@ -1840,20 +1822,11 @@
     },
     {
       "sector_id": "fusion",
-      "title": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest - wedc.org",
+      "title": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest - WEDC",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmdXT3dvMW01cHNoQ0dvVjhveEI1VVFCRnhfdnp3cmZJV1BxMzB5SVE2NUpGTjVKOWM0Q003cnNSRkZSempka0dFZ19QUWxFRmI0R0lubzlyQW9YamJlZVk0ZzFJN0I5c0NDOUFZTl9YVUlXY2JhUWNuMk1ZZzg2SVJyVm4yeTlGMlowaG1XZTJUYjB5V0ZPMVVzdzZ2c1VKRjhkU2pn?oc=5",
-      "source": "wedc.org",
+      "source": "WEDC",
       "published": "2026-07-30T20:40:34+00:00",
-      "summary": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest&nbsp;&nbsp;wedc.org",
-      "lang": "en"
-    },
-    {
-      "sector_id": "shipbuilding",
-      "title": "Electric Boat lands largest shipbuilding contract in modern history - WFSB",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazBnYUpXMTVucC1mb0RfX0VYSW5ORzY1VWZubjBfaGVMd0hzc2FGbHdfSFh1MGhpVWpwbF9PbFN1Wnl6ZUIxVHBLQW9GNUJNdzB1VlpmSGtkQlRnUHZSTkZEeGc1TEEzdDB5ZVk5M3MzRXZQT3FuWnZMc1E5Vm9Oc09pNHVDRGp5SlhPa0FwSl9WeTZ4TDVKZ3p3U3I1UdIBsgFBVV95cUxPR001WVJSV2d0SzFtMkM5a25mWUtESUMzNno4SzZUYTQtUmxWbEFNN1pyM21FdkRSVDA4T3pZOWRyOEtqV2pyWTdxN1J6SjFKRGItZ0QyS0FFU09nSzBzUk5pNXc1d3ozNllvTy05YWthMXVDZnVaQ1ZIZzVTcDREdU91ckU4OWVlbEFQejFkTG9TOVdMWFh1cWY0S2NBdFZyd19mLTRsNmlEYjB0VFBGRHNn?oc=5",
-      "source": "WFSB",
-      "published": "2026-07-30T20:22:00+00:00",
-      "summary": "Electric Boat lands largest shipbuilding contract in modern history&nbsp;&nbsp;WFSB",
+      "summary": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest&nbsp;&nbsp;WEDC",
       "lang": "en"
     },
     {
@@ -1894,11 +1867,11 @@
     },
     {
       "sector_id": "port_logistics",
-      "title": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel - Marine News Magazine",
+      "title": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel - marinelink.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXBxbVdrLW9lMUdsQ2JBd3gtZDBqeXVBSzMzaC05a1Nudk1HaEFjbTZKVkE2cjJQUUgyajhxR1hTS3c2NDB4NXpHTUtoUUhzQ2lpYTQtZVUtSnlqVk1RRXpLTHNBNHgzcEdkYU1ZOEtKZTNKS2xaMVkwc0NzdlFiZ3JtTVRldw?oc=5",
-      "source": "Marine News Magazine",
+      "source": "marinelink.com",
       "published": "2026-07-30T19:58:45+00:00",
-      "summary": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel&nbsp;&nbsp;Marine News Magazine",
+      "summary": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel&nbsp;&nbsp;marinelink.com",
       "lang": "en"
     },
     {
@@ -1930,29 +1903,29 @@
     },
     {
       "sector_id": "fusion",
-      "title": "World’s largest tokamak ITER installs 1,100-ton core module to confine fusion plasma - Interesting Engineering",
+      "title": "World’s largest tokamak ITER installs 1,100-ton core module to confine fusion plasma - interestingengineering.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcmxrVGhtcWRjY1hScndFeDU0dW5QNWpCSmVtT3JPaUk4NGxtX2xNWG1fZEk4eU8yMm9FTjJXTFprajJBWEZITWVKSFdWQktGb3hjOEd2NTdrUXoydW5PRm5UejBVVklRb3RhUkRfQmV0aXhZWm9hVGlVNmI1d2M4Si1HUUZlaHlkcWdZ?oc=5",
-      "source": "Interesting Engineering",
+      "source": "interestingengineering.com",
       "published": "2026-07-30T17:32:00+00:00",
-      "summary": "World’s largest tokamak ITER installs 1,100-ton core module to confine fusion plasma&nbsp;&nbsp;Interesting Engineering",
+      "summary": "World’s largest tokamak ITER installs 1,100-ton core module to confine fusion plasma&nbsp;&nbsp;interestingengineering.com",
       "lang": "en"
     },
     {
       "sector_id": "biotech",
-      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - dvidshub.net",
+      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWJDYU4wYXMzektGcXo3YWZtN1gzWVI5bmtENHg4bmdZWFpEbFkwZnk0VUc1YU56REtwY2VvVFlIOW0yRDlVRDZIb1ZVOHM5dmxMbzFNdnd1OGVFblpkNGh4QlRRQjdIUHcycGY2YXM2MUluNUx3MVY4dlRzMEs5eEZLRHQ1VTdOXzJyVE9JTmpYMGhoaFNNcHF4cDZGWGRBSW85WElOWHF0OElhNnZFNjNXMlZXOTEzZlNCZ3lSUFdGbGViWmZnemlUOXg?oc=5",
-      "source": "dvidshub.net",
+      "source": "DVIDS",
       "published": "2026-07-30T16:33:00+00:00",
-      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;dvidshub.net",
+      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;DVIDS",
       "lang": "en"
     },
     {
       "sector_id": "biotech",
-      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - dvidshub.net",
+      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - DVIDS",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLWlJRmVPMnF0b3JZUjRRS21NdnpidFpLZ1pqaW05OTBKSDhna1gtRmNKMnd2WEhjdFljV245UVM1LU5LTG1WM1hFaVBJZFhfRU96bkZnSTNPRHFGRnBXUDBwMWlFWHp4eUU0Yks3RzlHOG9za0tGbzkxVlZySjN5aE5hY1psd09DclkxWXRsZm1JeXBZd2lsZ0M5OHVpYlYzU2N1a3JUUXlZTjZ1MGVBNTF3WDh3NnA2LWtVbFNCaHZyX1l3dUNKLWZibTFBSUE?oc=5",
-      "source": "dvidshub.net",
+      "source": "DVIDS",
       "published": "2026-07-30T16:32:00+00:00",
-      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;dvidshub.net",
+      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;DVIDS",
       "lang": "en"
     },
     {
@@ -2002,11 +1975,11 @@
     },
     {
       "sector_id": "telecom",
-      "title": "FirstNet, Built with AT&T Launches First-Ever 5G Standalone Core Dedicated to Public Safety - about.att.com",
+      "title": "FirstNet, Built with AT&T Launches First-Ever 5G Standalone Core Dedicated to Public Safety - AT&T",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0eVdlWFhzanh2d3h6SEZGb05MT0tHbHZHc1JkaEJSSjZWOXp1UEQ5WGRxSDZhUGtBS3VGQTlQMjNaRFVaalRXYWtsUW5lNFJrVTJOZlpBZ3lyUFp3TjRhaUdwblVPNkw3NTZfN29wdm1fZkk?oc=5",
-      "source": "about.att.com",
+      "source": "AT&T",
       "published": "2026-07-30T14:00:00+00:00",
-      "summary": "FirstNet, Built with AT&amp;T Launches First-Ever 5G Standalone Core Dedicated to Public Safety&nbsp;&nbsp;about.att.com",
+      "summary": "FirstNet, Built with AT&amp;T Launches First-Ever 5G Standalone Core Dedicated to Public Safety&nbsp;&nbsp;AT&amp;T",
       "lang": "en"
     },
     {
@@ -2034,6 +2007,15 @@
       "source": "Cultivated X",
       "published": "2026-07-30T11:48:03+00:00",
       "summary": "New Review Maps AI Use Across the Alternative Protein Value Chain&nbsp;&nbsp;Cultivated X",
+      "lang": "en"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate",
+      "link": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html",
+      "source": "Yahoo Finance (Top News)",
+      "published": "2026-07-29T11:56:22+00:00",
+      "summary": "",
       "lang": "en"
     },
     {

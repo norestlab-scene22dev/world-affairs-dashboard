@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T11:09:34.650781+00:00",
+  "generated_at": "2026-08-01T11:41:53.846830+00:00",
   "lookback_hours": 30,
-  "total_articles": 189,
-  "headline": "直近30時間で189件のニュースを検出。 報道量が多い分野はAI・半導体(36件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "total_articles": 185,
+  "headline": "直近30時間で185件のニュースを検出。 報道量が多い分野はAI・半導体(33件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
   "top_count_sectors": [
     "ai_semicon",
     "content",
@@ -17,7 +17,7 @@
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 36,
+      "article_count": 33,
       "avg_change_pct": 3.88,
       "top_keywords": [
         "AI",
@@ -27,9 +27,9 @@
         "artificial intelligence"
       ],
       "top_titles": [
-        "Yen pares intervention gains as Asian tech shares surge",
         "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
-        "Vietnam's Vingroup broadens empire with rail, energy expansion"
+        "Vietnam's Vingroup broadens empire with rail, energy expansion",
+        "Canada's Couche-Tard to buy top Polish convenience store chain"
       ]
     },
     {
@@ -41,13 +41,12 @@
         "data center",
         "データセンター",
         "cybersecurity",
-        "クラウド",
         "自動運転"
       ],
       "top_titles": [
         "Data center committee drafts recommendations for county, plans public input session - The Daily Reporter - Greenfield Indiana",
         "Build the data center. Just don't put it there. | CHARLES STEELE JR. - The Tuscaloosa News",
-        "東日本大震災を経験したラジオ局Date fmが能登に元気を届けたい - クラウドファンディング - READYFOR"
+        "完全密閉型データセンターラックの世界市場（2026年～2032年）、市場規模（オープンフレームラック、ラックエンクロージャー、壁掛けラック）・分析レポートを発表 - アットプレス"
       ]
     },
     {
@@ -69,11 +68,10 @@
     {
       "sector_id": "quantum",
       "name_ja": "量子",
-      "article_count": 10,
+      "article_count": 9,
       "avg_change_pct": -0.72,
       "top_keywords": [
-        "quantum computing",
-        "量子コンピュータ"
+        "quantum computing"
       ],
       "top_titles": [
         "Egypt wins chairmanship of AI governance, quantum computing working groups at Arab AI Committee - Egypt Independent",
@@ -131,7 +129,7 @@
     {
       "sector_id": "shipbuilding",
       "name_ja": "造船",
-      "article_count": 11,
+      "article_count": 12,
       "avg_change_pct": 2.63,
       "top_keywords": [
         "造船",
@@ -156,7 +154,7 @@
       ],
       "top_titles": [
         "「レアアース」関連銘柄を紹介！ 政府が2030年頃の商業化を目指す南鳥島沖のレアアース開発は、中国の輸出規制による供給不足を解決する重要な投資テーマ - ダイヤモンド・オンライン",
-        "Argentina, South Korea announce critical minerals partnership - Buenos Aires Times",
+        "Argentina, South Korea announce critical minerals partnership - batimes.com.ar",
         "Trump Claims US Can Take ‘Whatever We Want’ from Ukraine Mines - Kyiv Post"
       ]
     },
@@ -166,8 +164,8 @@
       "article_count": 10,
       "avg_change_pct": -2.63,
       "top_keywords": [
-        "創薬",
         "再生医療",
+        "創薬",
         "drug discovery",
         "medical device",
         "iPS細胞"
@@ -189,7 +187,7 @@
       "top_titles": [
         "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
         "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews",
-        "Synthetic Biology Sheds Light on Microbial Evolution - asm.org"
+        "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology"
       ]
     },
     {
@@ -211,11 +209,11 @@
     {
       "sector_id": "fusion",
       "name_ja": "フュージョンエネルギー",
-      "article_count": 8,
+      "article_count": 6,
       "avg_change_pct": -0.68,
       "top_keywords": [
-        "ITER",
         "核融合",
+        "ITER",
         "fusion energy",
         "nuclear fusion"
       ],
@@ -236,7 +234,7 @@
       ],
       "top_titles": [
         "【災害から学ぶ】風化防ぎ 防災力維持へ 2009年８月、台風９号被害の美作市作東地域 - 山陽新聞",
-        "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - キャンプファイヤー",
+        "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - camp-fire.jp",
         "青森県防災士会八戸支部様へ ヴァンラーレ八戸オリジナルデザインキャップを寄贈いたしました。 - vanraure.net"
       ]
     },
@@ -257,15 +255,16 @@
     {
       "sector_id": "foodtech",
       "name_ja": "フードテック",
-      "article_count": 6,
+      "article_count": 7,
       "avg_change_pct": 3.82,
       "top_keywords": [
-        "陸上養殖"
+        "陸上養殖",
+        "植物工場"
       ],
       "top_titles": [
         "クルマエビ、三種町で陸上養殖へ 漁協主体で２７年度から - 秋田魁新報電子版",
         "ＨＡＮＥＲＵ葛尾 エビの陸上養殖停止 - 47NEWS",
-        "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - 北羽新報社"
+        "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - hokuu.co.jp"
       ]
     },
     {
@@ -281,8 +280,8 @@
       ],
       "top_titles": [
         "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。 - Nintendo",
-        "All Anime Expeditions Codes and How to Redeem - IGN",
-        "【被爆81年】ドラマ・アニメ・Nスペなど関連番組を一挙アンコール放送 - nhk.or.jp"
+        "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+        "All Anime Expeditions Codes and How to Redeem - IGN"
       ]
     }
   ]
