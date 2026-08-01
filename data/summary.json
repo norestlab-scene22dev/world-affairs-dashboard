@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T06:49:59.755867+00:00",
+  "generated_at": "2026-08-01T07:01:47.000592+00:00",
   "lookback_hours": 30,
   "total_articles": 189,
   "headline": "直近30時間で189件のニュースを検出。 報道量が多い分野はAI・半導体(31件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
@@ -40,8 +40,9 @@
       "top_keywords": [
         "data center",
         "データセンター",
+        "クラウド",
         "cybersecurity",
-        "クラウド"
+        "自動運転"
       ],
       "top_titles": [
         "鎌倉発！ いのちと星と龍の絵本出版プロジェクト。 絵本を通じて、「巡るいのち」の物語を世界に届けたい！ - motion-gallery.net",
@@ -60,7 +61,7 @@
         "光通信"
       ],
       "top_titles": [
-        "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - AKIBA PC Hotline!",
+        "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - akiba-pc.watch.impress.co.jp",
         "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - ｄメニューニュース",
         "次世代通信関連 世界株式戦略ファンド【6431117C】：基準価格・投資信託情報 - Yahoo!ファイナンス"
       ]
@@ -89,13 +90,13 @@
       "top_keywords": [
         "無人機",
         "warship",
+        "防衛装備",
         "unmanned aircraft",
-        "dual-use technology",
-        "防衛装備"
+        "dual-use technology"
       ],
       "top_titles": [
         "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water - Українські Національні Новини (УНН)",
-        "通知したという米軍、知らなかったという韓国軍…合同参謀本部が「無人機騒動」調査に着手（中央日報日本語版） - Yahoo!ニュース",
+        "通知したという米軍、知らなかったという韓国軍…合同参謀本部が「無人機騒動」調査に着手（中央日報日本語版） - news.yahoo.co.jp",
         "BEBが無人機メーカーから800万フリヴニャ超の未納税を回収 - Межа. Новини України."
       ]
     },
@@ -114,7 +115,7 @@
       "top_titles": [
         "北大ロケット研究30年 札幌で燃焼実験、宇宙産業の人材輩出の拠点 - 北海道新聞デジタル",
         "空飛ぶクルマ、「利用したくない」が過半数超え - 自動運転ラボ",
-        "8月5日 ロケット残骸が月に衝突へ - Yahoo!ニュース"
+        "8月5日 ロケット残骸が月に衝突へ - news.yahoo.co.jp"
       ]
     },
     {
@@ -137,13 +138,12 @@
       "top_keywords": [
         "造船",
         "shipbuilding",
-        "LNG carrier",
-        "LNG運搬船"
+        "LNG carrier"
       ],
       "top_titles": [
         "Beihai Shipbuilding Reaches 100-Vessel Orderbook Milestone with New COSCO Shipping Bulk Contract - imarinenews.com",
         "Former Maran Gas LNG carrier emerges under Russian flag - TradeWinds News",
-        "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - finance.yahoo.com"
+        "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - Yahoo Finance"
       ]
     },
     {
@@ -158,7 +158,7 @@
       ],
       "top_titles": [
         "中重レアアース5割超 - 毎日新聞",
-        "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly - Interesting Engineering",
+        "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly - interestingengineering.com",
         "Niron and ASPINA join forces to commercialize rare-earth-free electric motors at large scale - Energies Media"
       ]
     },
@@ -169,28 +169,29 @@
       "avg_change_pct": -2.63,
       "top_keywords": [
         "medical device",
-        "再生医療",
-        "drug discovery",
         "創薬",
+        "再生医療",
+        "バイオ医薬品",
         "regenerative medicine"
       ],
       "top_titles": [
+        "ピクテ･バイオ医薬品ファンド(毎月決算型)為替ヘッジなしコース【4231104A】：基準価格・投資信託情報 - Yahoo!ファイナンス",
         "KKR nearing deal to buy medical device firm Integer, WSJ reports By Reuters - Investing.com",
-        "Sensitive blood test detects pancreatic cancer recurrence early - Drug Discovery News",
-        "２病院に改善命令　自由診療細胞投与　不適切再生医療で｜四国新聞WEB朝刊 - 四国新聞"
+        "Sensitive blood test detects pancreatic cancer recurrence early - drugdiscoverynews.com"
       ]
     },
     {
       "sector_id": "biotech",
       "name_ja": "合成生物学・バイオ",
-      "article_count": 2,
+      "article_count": 3,
       "avg_change_pct": -1.97,
       "top_keywords": [
         "synthetic biology"
       ],
       "top_titles": [
+        "【新研究】酸化工程をなくすDNA合成法——5価リン（P-F）技術がバイオ産業を変える？ - newspicks.com",
         "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews",
-        "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology"
+        "Synthetic Biology Sheds Light on Microbial Evolution - asm.org"
       ]
     },
     {
@@ -215,8 +216,8 @@
       "article_count": 11,
       "avg_change_pct": -0.68,
       "top_keywords": [
-        "核融合",
         "ITER",
+        "核融合",
         "fusion energy",
         "nuclear fusion"
       ],
@@ -236,15 +237,15 @@
         "disaster prevention"
       ],
       "top_titles": [
-        "イッツコム、『レジリエンス認証』(国土強靭化貢献団体認証) 更新 - 電波タイムズ",
-        "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞（WEBザテレビジョン） - Yahoo!ニュース",
-        "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞ - ｄメニューニュース"
+        "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞（WEBザテレビジョン） - news.yahoo.co.jp",
+        "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞ - ｄメニューニュース",
+        "Kerala prepares disaster-prevention measures as heavy rains lash States - The Hindu"
       ]
     },
     {
       "sector_id": "port_logistics",
       "name_ja": "港湾ロジスティクス",
-      "article_count": 9,
+      "article_count": 8,
       "avg_change_pct": -1.16,
       "top_keywords": [
         "港湾",
@@ -262,13 +263,12 @@
       "article_count": 8,
       "avg_change_pct": 3.82,
       "top_keywords": [
-        "陸上養殖",
-        "植物工場"
+        "陸上養殖"
       ],
       "top_titles": [
         "クルマエビ、三種町で陸上養殖へ 漁協主体で２７年度から - 秋田魁新報電子版",
-        "ＨＡＮＥＲＵ葛尾 エビの陸上養殖停止 - 47NEWS",
-        "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - 北羽新報社"
+        "クルマエビ、三種町で陸上養殖へ 漁協主体で２７年度から - 47NEWS",
+        "ＨＡＮＥＲＵ葛尾 エビの陸上養殖停止 - 47NEWS"
       ]
     },
     {
@@ -283,9 +283,9 @@
         "アニメ"
       ],
       "top_titles": [
+        "「CODA presents 土岐隼一のあしたクリエイターになる君へ」第５回放送後記 - 文化放送",
         "ACTION 14｜「プレシーズンゲーム 群馬クレインサンダーズ戦」開催 - 東京サンロッカーズ",
-        "This RPG Brings Cosmic Horror to an Anime Pixel Art Style - 80 Level",
-        "アニメ『僕のヒーローアカデミア』 - アニメ『僕のヒーローアカデミア』"
+        "This RPG Brings Cosmic Horror to an Anime Pixel Art Style - 80 Level"
       ]
     }
   ]
