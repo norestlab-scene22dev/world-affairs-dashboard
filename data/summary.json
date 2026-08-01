@@ -1,0 +1,292 @@
+{
+  "generated_at": "2026-08-01T06:27:37.351537+00:00",
+  "lookback_hours": 30,
+  "total_articles": 188,
+  "headline": "直近30時間で188件のニュースを検出。 報道量が多い分野はAI・半導体(31件)、コンテンツ(13件)、デジタル・サイバーセキュリティ(12件)。 株価インパクトが大きい分野は海洋(+7.0%)、AI・半導体(+3.9%)、フードテック(+3.8%)。",
+  "top_count_sectors": [
+    "ai_semicon",
+    "content",
+    "digital_cyber"
+  ],
+  "top_impact_sectors": [
+    "ocean",
+    "ai_semicon",
+    "foodtech"
+  ],
+  "sectors": [
+    {
+      "sector_id": "ai_semicon",
+      "name_ja": "AI・半導体",
+      "article_count": 31,
+      "avg_change_pct": 3.88,
+      "top_keywords": [
+        "AI",
+        "chip",
+        "半導体",
+        "Nvidia",
+        "semiconductor"
+      ],
+      "top_titles": [
+        "Yen pares intervention gains as Asian tech shares surge",
+        "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
+        "Vietnam's Vingroup broadens empire with rail, energy expansion"
+      ]
+    },
+    {
+      "sector_id": "digital_cyber",
+      "name_ja": "デジタル・サイバーセキュリティ",
+      "article_count": 12,
+      "avg_change_pct": -1.51,
+      "top_keywords": [
+        "data center",
+        "データセンター",
+        "cybersecurity",
+        "クラウド"
+      ],
+      "top_titles": [
+        "鎌倉発！ いのちと星と龍の絵本出版プロジェクト。 絵本を通じて、「巡るいのち」の物語を世界に届けたい！ - motion-gallery.net",
+        "Sand weighs in on data center regulations during town hall at MCC Thursday - Times Republican -",
+        "Virginia senator calls for data center moratorium - WAVY.com"
+      ]
+    },
+    {
+      "sector_id": "telecom",
+      "name_ja": "情報通信",
+      "article_count": 11,
+      "avg_change_pct": -3.04,
+      "top_keywords": [
+        "5G",
+        "6G",
+        "光通信"
+      ],
+      "top_titles": [
+        "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - AKIBA PC Hotline!",
+        "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - ｄメニューニュース",
+        "次世代通信関連 世界株式戦略ファンド【6431117C】：基準価格・投資信託情報 - Yahoo!ファイナンス"
+      ]
+    },
+    {
+      "sector_id": "quantum",
+      "name_ja": "量子",
+      "article_count": 9,
+      "avg_change_pct": -0.72,
+      "top_keywords": [
+        "quantum computing",
+        "quantum encryption",
+        "量子コンピュータ"
+      ],
+      "top_titles": [
+        "NIST Finalizes Three Post-Quantum Encryption Standards For Secure Data - Quantum Zeitgeist",
+        "Quantum Computing EOs Create Immediate Compliance Deadlines, New Federal Partnership Opportunities - JD Supra",
+        "Ticker Take co-founders Jon Erlichmann and Caroline Lesley talk quantum computing - qz.com"
+      ]
+    },
+    {
+      "sector_id": "defense",
+      "name_ja": "防衛産業",
+      "article_count": 11,
+      "avg_change_pct": 1.41,
+      "top_keywords": [
+        "無人機",
+        "warship",
+        "unmanned aircraft",
+        "dual-use technology",
+        "防衛装備"
+      ],
+      "top_titles": [
+        "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water - Українські Національні Новини (УНН)",
+        "通知したという米軍、知らなかったという韓国軍…合同参謀本部が「無人機騒動」調査に着手（中央日報日本語版） - Yahoo!ニュース",
+        "BEBが無人機メーカーから800万フリヴニャ超の未納税を回収 - Межа. Новини України."
+      ]
+    },
+    {
+      "sector_id": "aerospace",
+      "name_ja": "航空・宇宙",
+      "article_count": 12,
+      "avg_change_pct": 0.16,
+      "top_keywords": [
+        "satellite",
+        "ロケット",
+        "空飛ぶクルマ",
+        "宇宙産業",
+        "人工衛星"
+      ],
+      "top_titles": [
+        "北大ロケット研究30年 札幌で燃焼実験、宇宙産業の人材輩出の拠点 - 北海道新聞デジタル",
+        "空飛ぶクルマ、「利用したくない」が過半数超え - 自動運転ラボ",
+        "8月5日 ロケット残骸が月に衝突へ - Yahoo!ニュース"
+      ]
+    },
+    {
+      "sector_id": "ocean",
+      "name_ja": "海洋",
+      "article_count": 4,
+      "avg_change_pct": 6.99,
+      "top_keywords": [],
+      "top_titles": [
+        "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - Inside Climate News",
+        "New Zealand launches long-range UAV acquisition programme - Janes",
+        "Trump administration took funding dedicated to fighting IUU fishing and used it for the World Cup - SeafoodSource"
+      ]
+    },
+    {
+      "sector_id": "shipbuilding",
+      "name_ja": "造船",
+      "article_count": 11,
+      "avg_change_pct": 2.63,
+      "top_keywords": [
+        "造船",
+        "shipbuilding",
+        "LNG carrier",
+        "LNG運搬船"
+      ],
+      "top_titles": [
+        "Beihai Shipbuilding Reaches 100-Vessel Orderbook Milestone with New COSCO Shipping Bulk Contract - imarinenews.com",
+        "Former Maran Gas LNG carrier emerges under Russian flag - TradeWinds News",
+        "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - Yahoo Finance"
+      ]
+    },
+    {
+      "sector_id": "materials",
+      "name_ja": "マテリアル(重要鉱物・部素材)",
+      "article_count": 11,
+      "avg_change_pct": 2.05,
+      "top_keywords": [
+        "レアアース",
+        "critical minerals",
+        "rare earth"
+      ],
+      "top_titles": [
+        "中重レアアース5割超 - 毎日新聞",
+        "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly - Interesting Engineering",
+        "Niron and ASPINA join forces to commercialize rare-earth-free electric motors at large scale - Energies Media"
+      ]
+    },
+    {
+      "sector_id": "pharma",
+      "name_ja": "創薬・先端医療",
+      "article_count": 12,
+      "avg_change_pct": -2.63,
+      "top_keywords": [
+        "medical device",
+        "再生医療",
+        "drug discovery",
+        "創薬",
+        "regenerative medicine"
+      ],
+      "top_titles": [
+        "KKR nearing deal to buy medical device firm Integer, WSJ reports By Reuters - Investing.com",
+        "Sensitive blood test detects pancreatic cancer recurrence early - Drug Discovery News",
+        "２病院に改善命令　自由診療細胞投与　不適切再生医療で｜四国新聞WEB朝刊 - 四国新聞"
+      ]
+    },
+    {
+      "sector_id": "biotech",
+      "name_ja": "合成生物学・バイオ",
+      "article_count": 2,
+      "avg_change_pct": -1.97,
+      "top_keywords": [
+        "synthetic biology"
+      ],
+      "top_titles": [
+        "Micropep kickstarts global regulatory registration of its peptide-based biofungicide - AgFunderNews",
+        "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology"
+      ]
+    },
+    {
+      "sector_id": "energy_gx",
+      "name_ja": "資源・エネルギー安全保障・GX",
+      "article_count": 12,
+      "avg_change_pct": 1.52,
+      "top_keywords": [
+        "offshore wind",
+        "洋上風力",
+        "水素"
+      ],
+      "top_titles": [
+        "Rising costs for VB offshore wind project - WAVY.com",
+        "政府・戦略産業クラスター計画第１弾 「洋上風力」に秋田など３県 - 秋田魁新報電子版",
+        "Largest US offshore wind array reaches 450MW as completion pushed into 2027 - Recharge News"
+      ]
+    },
+    {
+      "sector_id": "fusion",
+      "name_ja": "フュージョンエネルギー",
+      "article_count": 11,
+      "avg_change_pct": -0.68,
+      "top_keywords": [
+        "核融合",
+        "ITER",
+        "fusion energy",
+        "nuclear fusion"
+      ],
+      "top_titles": [
+        "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
+        "In pictures: ITER tokamak core assembly progressing - World Nuclear News",
+        "Fusion Energy: The Technology That Could Redefine India’s Energy Future - Carroll County Mirror-Democrat"
+      ]
+    },
+    {
+      "sector_id": "disaster_resilience",
+      "name_ja": "防災・国土強靱化",
+      "article_count": 9,
+      "avg_change_pct": -0.61,
+      "top_keywords": [
+        "防災",
+        "disaster prevention"
+      ],
+      "top_titles": [
+        "「もし災害が降りかかったら…」新しい防災の考え方“フェーズフリー”を学ぶ＜情熱！防災家族＞（WEBザテレビジョン） - Yahoo!ニュース",
+        "Kerala prepares disaster-prevention measures as heavy rains lash States - The Hindu",
+        "『レジリエンス認証』(国土強靭化貢献団体認証) 更新 - PR TIMES"
+      ]
+    },
+    {
+      "sector_id": "port_logistics",
+      "name_ja": "港湾ロジスティクス",
+      "article_count": 9,
+      "avg_change_pct": -1.16,
+      "top_keywords": [
+        "港湾",
+        "cargo handling"
+      ],
+      "top_titles": [
+        "報道資料｜《八代港》港湾の広域ネットワークを活用した被災地への給水車への船舶からの水の供給を開始～令和８年熊本地震における対応【清龍丸】 - mlit.go.jp",
+        "千葉港と木更津港 特定利用港湾候補に 自衛隊や海上保安庁 緊急時利用円滑化へ - 千葉日報オンライン",
+        "Chennai Port Authority Introduces New Cargo and Enhances Cargo Handling Capabilities - PIB"
+      ]
+    },
+    {
+      "sector_id": "foodtech",
+      "name_ja": "フードテック",
+      "article_count": 8,
+      "avg_change_pct": 3.82,
+      "top_keywords": [
+        "陸上養殖",
+        "植物工場"
+      ],
+      "top_titles": [
+        "クルマエビ、三種町で陸上養殖へ 漁協主体で２７年度から - 秋田魁新報電子版",
+        "ＨＡＮＥＲＵ葛尾 エビの陸上養殖停止 - 47NEWS",
+        "三種町、エビ陸上養殖事業に補助金 議員からは採算性、効果に疑問の声 - 北羽新報社"
+      ]
+    },
+    {
+      "sector_id": "content",
+      "name_ja": "コンテンツ",
+      "article_count": 13,
+      "avg_change_pct": -2.74,
+      "top_keywords": [
+        "ゲーム",
+        "anime",
+        "video game",
+        "アニメ"
+      ],
+      "top_titles": [
+        "ACTION 14｜「プレシーズンゲーム 群馬クレインサンダーズ戦」開催 - 東京サンロッカーズ",
+        "This RPG Brings Cosmic Horror to an Anime Pixel Art Style - 80 Level",
+        "Mika Nakashima Drops Mushoku Tensei: Jobless Reincarnation Season 3 Anime Ending Song Music Video - Crunchyroll"
+      ]
+    }
+  ]
+}
