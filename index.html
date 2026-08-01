@@ -312,6 +312,20 @@
 </div><!-- /#app -->
 
 <script>
+  const DATA_FILES = {
+  sectors: 'data/sectors.json',
+  news: 'data/news.json',
+  stocks: 'data/stocks.json',
+  summary: 'data/summary.json',
+};
+const STORAGE_KEY = 'growth_eval_v1';
+
+let sectorsDef = [];
+let newsData = { items: [] };
+let stocksData = { sectors: [] };
+let summaryData = null;
+let currentSort = 'impact';
+let activeSectorId = null;
 // ===== アクセス制限（簡易共通パスワード） =====
 // パスワードを変更したい場合は、ターミナルで以下を実行してハッシュ値を作り、
 // PASSWORD_HASH を書き換えてください（家族内共有用の簡易ゲートです。厳密なセキュリティ用途ではありません）。
@@ -359,20 +373,7 @@ function showApp() {
   input.addEventListener('keydown', (e) => { if (e.key === 'Enter') attempt(); });
 })();
 
-const DATA_FILES = {
-  sectors: 'data/sectors.json',
-  news: 'data/news.json',
-  stocks: 'data/stocks.json',
-  summary: 'data/summary.json',
-};
-const STORAGE_KEY = 'growth_eval_v1';
 
-let sectorsDef = [];
-let newsData = { items: [] };
-let stocksData = { sectors: [] };
-let summaryData = null;
-let currentSort = 'impact';
-let activeSectorId = null;
 
 function loadEvalStore() {
   try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
