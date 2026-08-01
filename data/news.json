@@ -1,106 +1,114 @@
 {
-  "generated_at": "2026-08-01T11:07:16.443325+00:00",
-  "count": 232,
+  "generated_at": "2026-08-01T11:08:58.591490+00:00",
+  "count": 231,
   "items": [
     {
       "sector_id": "ai_semicon",
       "title": "Yen pares intervention gains as Asian tech shares surge",
       "link": "https://asia.nikkei.com/business/markets/currencies/yen-pares-intervention-gains-as-asian-tech-shares-surge",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114551+00:00",
+      "published": "2026-08-01T11:08:57.554654+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "アジアのハイテク株が急騰する中、円は介入利益を割り込む"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "India's fuel retailers lose nearly $2bn shielding customers from energy shock",
       "link": "https://asia.nikkei.com/business/energy/india-s-fuel-retailers-lose-nearly-2bn-shielding-customers-from-energy-shock",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114515+00:00",
+      "published": "2026-08-01T11:08:57.554614+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "インドの燃料小売業者は顧客をエネルギーショックから守り、20億ドル近くの損失を被る"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "Vietnam's Vingroup broadens empire with rail, energy expansion",
       "link": "https://asia.nikkei.com/business/companies/vietnam-s-vingroup-broadens-empire-with-rail-energy-expansion",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114476+00:00",
+      "published": "2026-08-01T11:08:57.554573+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "ベトナムのビングループ、鉄道とエネルギー拡大で帝国を拡大"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "Canada's Couche-Tard to buy top Polish convenience store chain",
       "link": "https://asia.nikkei.com/business/business-deals/canada-s-couche-tard-to-buy-top-polish-convenience-store-chain",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114438+00:00",
+      "published": "2026-08-01T11:08:57.554530+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "カナダのクシュタールド、ポーランドのトップコンビニチェーンを買収へ"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "US wants Japan's top tech companies in AI-powered Genesis Mission: official",
       "link": "https://asia.nikkei.com/editor-s-picks/interview/us-wants-japan-s-top-tech-companies-in-ai-powered-genesis-mission-official",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114400+00:00",
+      "published": "2026-08-01T11:08:57.554468+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "米国は日本のトップテクノロジー企業にAIを活用したジェネシスミッションを望んでいる：公式"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "Four US tech giants bled $95bn in cash in Q2 on soaring AI investments",
       "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/four-us-tech-giants-bled-95bn-in-cash-in-q2-on-soaring-ai-investments",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114363+00:00",
+      "published": "2026-08-01T11:08:57.554425+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "米国のハイテク大手4社、AI投資の急増で第2四半期に950億ドルの現金を流出"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "Memory makers flush with $90bn cash flow on AI gold rush",
       "link": "https://asia.nikkei.com/business/tech/semiconductors/memory-makers-flush-with-90bn-cash-flow-on-ai-gold-rush",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114297+00:00",
+      "published": "2026-08-01T11:08:57.554351+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "メモリメーカー、AIゴールドラッシュで900億ドルのキャッシュフローを生み出す"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "LDP revolt grows in Japan over Takaichi plan to cut food tax to 1%",
       "link": "https://asia.nikkei.com/politics/ldp-revolt-grows-in-japan-over-takaichi-plan-to-cut-food-tax-to-1",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114233+00:00",
+      "published": "2026-08-01T11:08:57.554276+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "食品税を1%に引き下げる高市氏の計画を巡り、日本で自民党の反乱が拡大"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "Living between two worlds on Taiwan's Matsu Islands",
       "link": "https://asia.nikkei.com/life-arts/life/living-between-two-worlds-on-taiwan-s-matsu-islands",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.114025+00:00",
+      "published": "2026-08-01T11:08:57.554050+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "台湾の馬祖列島で 2 つの世界の狭間で暮らす"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
       "title": "Chinese trains packed with ACs speed into Europe to help with heat wave",
       "link": "https://asia.nikkei.com/business/transportation/chinese-trains-packed-with-acs-speed-into-europe-to-help-with-heat-wave",
       "source": "Nikkei Asia (Business)",
-      "published": "2026-08-01T11:05:08.113946+00:00",
+      "published": "2026-08-01T11:08:57.553958+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "熱波対策のためエアコンを満載した中国の列車が欧州へ猛スピードで乗り込む"
+      "lang": "en"
+    },
+    {
+      "sector_id": "digital_cyber",
+      "title": "Data center committee drafts recommendations for county, plans public input session - The Daily Reporter - Greenfield Indiana",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQWJhTjE2aGp6M0F1SlIzMXVsSG1jd2syNlN4d3drejNfYllVVXFkOXJsWkp3cHpOSTdrci16cnZtRktTb1MyNVF5NUpDS0VrQy1udWJObEdaZ3kyTnpqaUYwQmpOaUtCSHRaUDZ6dnBmQkxUbnMySHd1S29hT1VURVNfcXZoM205U0ROZTZyZ21sNGxUUjBvSHJMd1pldTVSTkRfcG1rR1ZZVEJSZWl6cTVjT3h2eldrZE8xalVpdm9DN3lSTEg5Mg?oc=5",
+      "source": "The Daily Reporter - Greenfield Indiana",
+      "published": "2026-08-01T11:01:59+00:00",
+      "summary": "Data center committee drafts recommendations for county, plans public input session&nbsp;&nbsp;The Daily Reporter - Greenfield Indiana",
+      "lang": "en"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in August - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTRrNFRUN3VEdEdmeXQ1SE5TOXBBVWpDMHplcnA1OWxjTEhFUmc2dDlEemFzZFlKdmo0Y1UxUThQX0hjZmllMEt0SmNtaUZTdXQtYXRzcm52MEN1WjR4NFNBTFFGXzlPNHcxaEs2YWhJaTg2cHNZU1hac1dhOFBMTXduZl9OejBvTl9qUDc1bmVjSWRJSW5nZGdJSDY5bDhTVWxWbVZyRmVtYUd4a2c?oc=5",
+      "source": "24/7 Wall St.",
+      "published": "2026-08-01T11:00:21+00:00",
+      "summary": "3 Semiconductor Stocks to Buy Before AI Demand Explodes in August&nbsp;&nbsp;24/7 Wall St.",
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -109,8 +117,7 @@
       "source": "MarketWatch (Top Stories)",
       "published": "2026-08-01T11:00:00+00:00",
       "summary": "The Organization of the Petroleum Exporting Countries and its allies may decide Sunday to lift their oil production quotas for a sixth straight month — but finding ways to export those extra barrels will be the real problem.",
-      "lang": "en",
-      "title_ja": "イラン戦争が拡大する中、OPEC+は原油生産枠を引き上げ続ける可能性がある。それがなぜ価格を下げるのに役立たないのか。"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -119,8 +126,16 @@
       "source": "MarketWatch (Top Stories)",
       "published": "2026-08-01T11:00:00+00:00",
       "summary": "Tech stocks struggled in July. Will the volatility around the AI trade continue in August?",
-      "lang": "en",
-      "title_ja": "均等加重のS&P 500は7月にナスダック100を吸収したばかりで、チップ株の激しい巻き戻しの中でアウトパフォームしている"
+      "lang": "en"
+    },
+    {
+      "sector_id": "aerospace",
+      "title": "ロケット・ラボ、イリジウム買収で2027年に黒字化・キャッシュフロー改善へ - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZ2U4bEtaZl9Sb1M5OFBSMWYwOThLZ25Ib2hDdERXQzBlM25Tb1JYWUpneEhNY0J5ektKVmxLbmg3bmFvWDZ5LWlNQm1JOGJnSXJOUlVGblZmOGc5Yk9yRmZqLTN0TjJjLXdFbXJDWE1wemZ6?oc=5",
+      "source": "BigGo ファイナンス",
+      "published": "2026-08-01T10:55:00+00:00",
+      "summary": "ロケット・ラボ、イリジウム買収で2027年に黒字化・キャッシュフロー改善へ&nbsp;&nbsp;BigGo ファイナンス",
+      "lang": "ja"
     },
     {
       "sector_id": "shipbuilding",
@@ -138,16 +153,15 @@
       "source": "The Independent",
       "published": "2026-08-01T10:44:00+00:00",
       "summary": "Sunken Nazi warship uncovered in shrinking river during heatwave&nbsp;&nbsp;The Independent",
-      "lang": "en",
-      "title_ja": "熱波で縮小した川で沈没したナチスの軍艦が発見される - The Independent"
+      "lang": "en"
     },
     {
       "sector_id": "content",
-      "title": "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。 - nintendo.com",
+      "title": "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。 - Nintendo",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXhVYTJFbTRpY2V3cVRSQ0p0eEVSc0RvbVZoN0c4Q1JXZ01wN1BlUi1rZnVFcTdMY3N3amFFcWpEVnNsalZjcEJEbDN2SnMzT2xmZFV6SkxvRXlsQnhzZ0pyMzJVWTlEMlJjX2RRWkNaWmVQZzdyX3VGcXBqbk5rZ25jdnlMQQ?oc=5",
-      "source": "nintendo.com",
+      "source": "Nintendo",
       "published": "2026-08-01T10:34:38+00:00",
-      "summary": "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。&nbsp;&nbsp;nintendo.com",
+      "summary": "「レゴ ドンキーコング アーケードゲーム」「レゴ どうぶつの森 まめきち＆つぶきち のんびりお散歩」が8月1日発売。&nbsp;&nbsp;Nintendo",
       "lang": "ja"
     },
     {
@@ -157,26 +171,7 @@
       "source": "Seatrade Maritime News",
       "published": "2026-08-01T10:07:13+00:00",
       "summary": "LNG carrier struck in Hormuz, tanker in near miss&nbsp;&nbsp;Seatrade Maritime News",
-      "lang": "en",
-      "title_ja": "ホルムズでLNG船が衝突、タンカーもニアミス - Seatrade Maritime News"
-    },
-    {
-      "sector_id": "content",
-      "title": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YelVWTXJLNjdMNWhYcVFCaWlsdmFIaDlaREZSMm5OM3FDVTVzdmc0RTdoUHpjN255Rm1tX2YxTkE1N2wwSF9NWUY1VQ?oc=5",
-      "source": "TVer",
-      "published": "2026-08-01T10:01:46+00:00",
-      "summary": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題&nbsp;&nbsp;TVer",
-      "lang": "ja"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報 - finance.yahoo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13U2tSeDgwM2x6NWhvM3FQd3VfcU94dTd0MFRoUFVUZVZGOGNpWDdXQ1FoQk5kSmkxWHpxNkZyWDJoWjVrcVNZNWh4WWlVMUkxMDZHRA?oc=5",
-      "source": "finance.yahoo.co.jp",
-      "published": "2026-08-01T09:58:00+00:00",
-      "summary": "野村 世界業種別投資シリーズ(世界半導体株投資)【01313098】：基準価格・投資信託情報&nbsp;&nbsp;finance.yahoo.co.jp",
-      "lang": "ja"
+      "lang": "en"
     },
     {
       "sector_id": "shipbuilding",
@@ -194,8 +189,7 @@
       "source": "The Daily Star",
       "published": "2026-08-01T09:25:57+00:00",
       "summary": "Is Bangladesh ready to build semiconductor chips?&nbsp;&nbsp;The Daily Star",
-      "lang": "en",
-      "title_ja": "バングラデシュは半導体チップを製造する準備ができていますか? - デイリースター"
+      "lang": "en"
     },
     {
       "sector_id": "quantum",
@@ -204,8 +198,7 @@
       "source": "Egypt Independent",
       "published": "2026-08-01T09:19:57+00:00",
       "summary": "Egypt wins chairmanship of AI governance, quantum computing working groups at Arab AI Committee&nbsp;&nbsp;Egypt Independent",
-      "lang": "en",
-      "title_ja": "エジプト、アラブAI委員会でAIガバナンス、量子コンピューティング作業部会の議長を獲得 - エジプト独立"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
@@ -214,8 +207,7 @@
       "source": "ACCESS Newswire",
       "published": "2026-08-01T09:15:19+00:00",
       "summary": "Why Industrial IoT Needs More Than Fast 5G&nbsp;&nbsp;ACCESS Newswire",
-      "lang": "en",
-      "title_ja": "産業用IoTに高速5G以上のものが必要な理由 - ACCESS Newswire"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
@@ -227,24 +219,13 @@
       "lang": "ja"
     },
     {
-      "sector_id": "ai_semicon",
-      "title": "Why many Connecticut school districts are turning to the same artificial intelligence platform - Stamford Advocate",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTlhbzhnbXVZcU56V2VtRkxqZFk1cElqSmRaa3kxdDA2cUF3bXpWaXM2d0dRcXR6UFlKRHV3TzFEQzl5ZXExQ0J0ZUlRYXhFekJ0eHFneGRWb0xrbkNpN0g1QXhtTGRJWEg2azZQQWxzZ0k2SzY2YTZCUnJZMVlHOG9DbmJfeVRGUlpNRjVReG1tVzNLbzZ2aXRjV2hhc2huWmxMdGxHalFnUGQ1QkFDY29kTjRoR2ZJYWNB?oc=5",
-      "source": "Stamford Advocate",
-      "published": "2026-08-01T09:03:36+00:00",
-      "summary": "Why many Connecticut school districts are turning to the same artificial intelligence platform&nbsp;&nbsp;Stamford Advocate",
-      "lang": "en",
-      "title_ja": "コネチカット州の多くの学区が同じ人工知能プラットフォームに注目している理由 - Stamford Advocate"
-    },
-    {
       "sector_id": "defense",
       "title": "Dumfries sailor is information systems tech aboard warship around Hawaii - Culpeper Star-Exponent",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVFZ1dEFSM05yRExIekRZX0VFT1VmOHA3Ym4wNFA2b1NubnEyMThseklJREpjY2ItdWZKZjlLS2owektsQW5hMld5MGtSV0hJRlhmZjBkd2VLVWtiMkduVXg4bldDeDRtMF80dW1Lb2lFaG1POFgzemR0dFI1MVY2c3B2cTJzMUlkOFNzcEtmY2oxVjVIa1gtczV3?oc=5",
       "source": "Culpeper Star-Exponent",
       "published": "2026-08-01T09:00:00+00:00",
       "summary": "Dumfries sailor is information systems tech aboard warship around Hawaii&nbsp;&nbsp;Culpeper Star-Exponent",
-      "lang": "en",
-      "title_ja": "ダンフリーズ船員はハワイ周辺の軍艦で情報システム技術者である - カルペパー・スター・エクスポネント"
+      "lang": "en"
     },
     {
       "sector_id": "pharma",
@@ -262,8 +243,7 @@
       "source": "The Tuscaloosa News",
       "published": "2026-08-01T08:45:00+00:00",
       "summary": "Build the data center. Just don't put it there. | CHARLES STEELE JR.&nbsp;&nbsp;The Tuscaloosa News",
-      "lang": "en",
-      "title_ja": "データセンターを構築します。そこには置かないでください。 |チャールズ・スティール・ジュニア- タスカルーサニュース"
+      "lang": "en"
     },
     {
       "sector_id": "content",
@@ -272,18 +252,7 @@
       "source": "IGN",
       "published": "2026-08-01T08:41:52+00:00",
       "summary": "All Anime Expeditions Codes and How to Redeem&nbsp;&nbsp;IGN",
-      "lang": "en",
-      "title_ja": "すべての Anime Expeditions コードと引き換え方法 - IGN"
-    },
-    {
-      "sector_id": "materials",
-      "title": "Argentina, South Korea announce critical minerals partnership - Buenos Aires Times",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTTBQTjhSY0JYLUQxZUhPclZ2UTVxOXpUUDNxZDhZc2JqNGVjcENYaU44ekNWNHh4ZzJkZFBTRDdGTEs4SWdSeWlDbWQyWE5sZkVvYU5JMUpoakM3UkkyVFNkQjNxX3hFWlZnQ1RYRTRPMFhHX084RS1VNElTTTBKTkM4TnpHc0hGalF1NHZyMVE3ZURSUUZFTFRIQ0xLb3ZLV3NTakQtR0gyVVdEZ2EyclpDVDTSAbQBQVVfeXFMTU0wUE44UmNCWC1EMWVIT3JWdlE1cTl6VFAzcWQ4WXNiajRlY3BDWGlOOHpDVjR4eGcyZGRQU0Q3RkxLOElnUnlpQ21kMlhObGZFb2FOSTFKaGpDN1JJMlRTZEIzcV94RVpWZ0NUWEU0TzBYR19POEUtVTRJU00wSk5DOE56R3NIRmpRdTR2cjFRN2VEUlFGRUxUSENMS292S1dzU2pELUdIMlVXRGdhMnJaQ1Q0?oc=5",
-      "source": "Buenos Aires Times",
-      "published": "2026-08-01T08:30:43+00:00",
-      "summary": "Argentina, South Korea announce critical minerals partnership&nbsp;&nbsp;Buenos Aires Times",
-      "lang": "en",
-      "title_ja": "アルゼンチンと韓国、重要な鉱物パートナーシップを発表 - Buenos Aires Times"
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -302,6 +271,15 @@
       "published": "2026-08-01T08:11:37+00:00",
       "summary": "思捷優達-KY、AI創薬による主力候補薬YA-101の多系統萎縮症（MSA）に対する国際第2相臨床試験において患者登録を完了&nbsp;&nbsp;北海道新聞デジタル",
       "lang": "ja"
+    },
+    {
+      "sector_id": "materials",
+      "title": "Argentina, South Korea announce critical minerals partnership - Buenos Aires Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2d3TTB2WTlsdFhnU2ZJeGxrSi1BMTVpZmQ2dFp3S1BQcmFfU0xscXBxTF9sWUxMajMtSVo1TnJMcWwwOFV3RThITDZQUUZtUUliczhOSVM3Tl9lRFduTkthLUw0VWhrU3l0R3RqTWgyZ3VVU1Q2Uk9hZnNJeE5vUVo3Q25wQlNLSHVNWEd0NlE0MWpfMGo0UmU4TG1ESzVTb01qSEltOFlsRjZNSnA40gG0AUFVX3lxTE1NMFBOOFJjQlgtRDFlSE9yVnZRNXE5elRQM3FkOFlzYmo0ZWNwQ1hpTjh6Q1Y0eHhnMmRkUFNEN0ZMSzhJZ1J5aUNtZDJYTmxmRW9hTkkxSmhqQzdSSTJUU2RCM3FfeEVaVmdDVFhFNE8wWEdfTzhFLVU0SVNNMEpOQzhOekdzSEZqUXU0dnIxUTdlRFJRRkVMVEhDTEtvdktXc1NqRC1HSDJVV0RnYTJyWkNUNA?oc=5",
+      "source": "Buenos Aires Times",
+      "published": "2026-08-01T07:58:21+00:00",
+      "summary": "Argentina, South Korea announce critical minerals partnership&nbsp;&nbsp;Buenos Aires Times",
+      "lang": "en"
     },
     {
       "sector_id": "disaster_resilience",
@@ -331,6 +309,24 @@
       "lang": "ja"
     },
     {
+      "sector_id": "port_logistics",
+      "title": "ロシア軍がミコラエフをドローン攻撃、倉庫や港湾施設を損壊 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yWXZ3cFJJU1FkOFJkd3RaaHYyX0NVM1d6bk5xVDZGeFlWcWw3VkFPa3FqQ19JRVhoS2Vkd0Jsc1hLWHdmU0pmN1hUUkVkcWRJbjNGRlYwc3l2RWE2VGJSenpEMGhxbkFXd1JhZw?oc=5",
+      "source": "Межа. Новини України.",
+      "published": "2026-08-01T07:39:24+00:00",
+      "summary": "ロシア軍がミコラエフをドローン攻撃、倉庫や港湾施設を損壊&nbsp;&nbsp;Межа. Новини України.",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "disaster_resilience",
+      "title": "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」 - キャンプファイヤー",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XaFM2cldJemhCXzd1R3lEVGNUaVhNM0FVOHV3aGg5cFJOVDdMaHdxSThPbWlzLXQxU0xKZ042TktVRjZNNUE5emVzLVRtcVFXNmJJ?oc=5",
+      "source": "キャンプファイヤー",
+      "published": "2026-08-01T07:35:49+00:00",
+      "summary": "元特殊部隊員が考案した防犯・防災バッグ「LIVORA」&nbsp;&nbsp;キャンプファイヤー",
+      "lang": "ja"
+    },
+    {
       "sector_id": "disaster_resilience",
       "title": "青森県防災士会八戸支部様へ ヴァンラーレ八戸オリジナルデザインキャップを寄贈いたしました。 - vanraure.net",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKNDhPWDV6bU9zeWRndkRPX0ZKUVBBZnN3YkdNLVJnNzFsZ21Sa0pVaVhpd2JSb0xkWV9KYXVlRVRYd1dMUGxPSF8wLWE?oc=5",
@@ -350,11 +346,11 @@
     },
     {
       "sector_id": "shipbuilding",
-      "title": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》 - 日テレNEWS NNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdktZeUJHN0NndEI0ekdXMzdHeXdxNDEycjhTaktRWFAybDFHN25xZ3pRMVliWWZ0aXFVQ0tpc2lPODNOcHRmVHYtRWxhdzhpWDBLdVk0TzYzeEVpejBtejd0T0owU0NIYTBMcklzZ0ZCeVVwMkgteFNWSndpS2IxQkNTTWJzUm8?oc=5",
-      "source": "日テレNEWS NNN",
+      "title": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》（長崎国際テレビ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TVBmSVE0UTlLcEJzdHVIMS1qSkJCcGlXYkUxY0JwTTlNYUJad3FORGJhUmpvQTRJQTNlSWFfM3NJUzdMbmVVTkZMdXdfZC1QcjJ2cENEVTZJLUVTcnF6NnkwTGxYX2JyV2E3YjZxMW1CWHVNWUNEUDBQY043Szg?oc=5",
+      "source": "Yahoo!ニュース",
       "published": "2026-08-01T07:08:00+00:00",
-      "summary": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》&nbsp;&nbsp;日テレNEWS NNN",
+      "summary": "AI分野での人材育成へ 長崎総合科学大学と造船・海事業界が連携 教育協議会発足《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース",
       "lang": "ja"
     },
     {
@@ -403,6 +399,15 @@
       "lang": "ja"
     },
     {
+      "sector_id": "content",
+      "title": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題 - TVer",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YelVWTXJLNjdMNWhYcVFCaWlsdmFIaDlaREZSMm5OM3FDVTVzdmc0RTdoUHpjN255Rm1tX2YxTkE1N2wwSF9NWUY1VQ?oc=5",
+      "source": "TVer",
+      "published": "2026-08-01T07:00:31+00:00",
+      "summary": "ちいかわ 第16話～第25話｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題&nbsp;&nbsp;TVer",
+      "lang": "ja"
+    },
+    {
       "sector_id": "ai_semicon",
       "title": "国内株式市場見通し：週末にかけて急反発したAI・半導体株のリバウンドの持続性が焦点に - 株探",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmN2JDWENwekZ5Q0paZDhHcnQxbTNLSjRlTXRUWGswRXA2VUpoVVg4TWRpM1lNaldGNDBsUHU3NGZsMFR4QW5EaG9BQ3ZOR1prbkFxRHhKQ1RNTkNFOTRmQw?oc=5",
@@ -418,8 +423,7 @@
       "source": "Quantum Zeitgeist",
       "published": "2026-08-01T06:21:55+00:00",
       "summary": "Finland Quantum Computing Companies, The Complete Vendor Guide&nbsp;&nbsp;Quantum Zeitgeist",
-      "lang": "en",
-      "title_ja": "フィンランドの量子コンピューティング企業、完全なベンダー ガイド - Quantum Zeitgeist"
+      "lang": "en"
     },
     {
       "sector_id": "content",
@@ -455,8 +459,7 @@
       "source": "imarinenews.com",
       "published": "2026-08-01T06:08:47+00:00",
       "summary": "Beihai Shipbuilding Reaches 100-Vessel Orderbook Milestone with New COSCO Shipping Bulk Contract&nbsp;&nbsp;imarinenews.com",
-      "lang": "en",
-      "title_ja": "北海造船、新たなCOSCO輸送一括契約で受注件数100隻のマイルストーンを達成 - imarinenews.com"
+      "lang": "en"
     },
     {
       "sector_id": "port_logistics",
@@ -474,18 +477,7 @@
       "source": "80 Level",
       "published": "2026-08-01T06:04:08+00:00",
       "summary": "This RPG Brings Cosmic Horror to an Anime Pixel Art Style&nbsp;&nbsp;80 Level",
-      "lang": "en",
-      "title_ja": "この RPG はアニメのピクセル アート スタイルにコズミック ホラーをもたらします - 80 レベル"
-    },
-    {
-      "sector_id": "digital_cyber",
-      "title": "Sand weighs in on data center regulations during town hall at MCC Thursday - Times Republican -",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm1aSTdZeGFvU2lsWUMwTHZGWWdPUDFRUXJWR2NkSVNEel94a3Zob29kSG51aUFMSzUtT0RLVDlnSnpWQkRRUzIxVG9FTWdIZFdueXk3ZmI3X0V2eVdfZURyMHlzczhHOVY4UlJoQy1nQlhUNFI1MEUxZ0IzWUZzejJxQ3N3Um1TOS1kXzV5VVJYMTZkeDVYSHAxNFJRSFczazJIX1htWXZMLVFIZDRGcExQQ29ZMjZuM3RVUmZEeGVTMGpCS2UxMGVWaHc?oc=5",
-      "source": "Times Republican -",
-      "published": "2026-08-01T06:01:08+00:00",
-      "summary": "Sand weighs in on data center regulations during town hall at MCC Thursday&nbsp;&nbsp;Times Republican -",
-      "lang": "en",
-      "title_ja": "サンド氏、木曜MCCでのタウンホールでデータセンター規制について意見を述べる - タイムズ・リパブリカン -"
+      "lang": "en"
     },
     {
       "sector_id": "energy_gx",
@@ -494,8 +486,7 @@
       "source": "WAVY.com",
       "published": "2026-08-01T05:57:11+00:00",
       "summary": "Rising costs for VB offshore wind project&nbsp;&nbsp;WAVY.com",
-      "lang": "en",
-      "title_ja": "VB洋上風力発電プロジェクトのコスト上昇 - WAVY.com"
+      "lang": "en"
     },
     {
       "sector_id": "digital_cyber",
@@ -513,16 +504,15 @@
       "source": "Kyiv Post",
       "published": "2026-08-01T05:36:26+00:00",
       "summary": "Trump Claims US Can Take ‘Whatever We Want’ from Ukraine Mines&nbsp;&nbsp;Kyiv Post",
-      "lang": "en",
-      "title_ja": "トランプ大統領、米国はウクライナ鉱山から「望むものは何でも」採取できると主張 - キエフ・ポスト"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "次世代通信関連 世界株式戦略ファンド【6431117C】：基準価格・投資信託情報 - finance.yahoo.co.jp",
+      "title": "次世代通信関連 世界株式戦略ファンド【6431117C】：基準価格・投資信託情報 - Yahoo!ファイナンス",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lakpvODY5YUYtYUxnTlBOTUhzTmE2dEh3STlzNVZYVTdXTVBlaEdfT0VxVWY2dkpQbTBGYTVJTWtaNkFwOG4zZms0YU92QnJLaWphcw?oc=5",
-      "source": "finance.yahoo.co.jp",
+      "source": "Yahoo!ファイナンス",
       "published": "2026-08-01T05:30:27+00:00",
-      "summary": "次世代通信関連 世界株式戦略ファンド【6431117C】：基準価格・投資信託情報&nbsp;&nbsp;finance.yahoo.co.jp",
+      "summary": "次世代通信関連 世界株式戦略ファンド【6431117C】：基準価格・投資信託情報&nbsp;&nbsp;Yahoo!ファイナンス",
       "lang": "ja"
     },
     {
@@ -532,15 +522,6 @@
       "source": "mlit.go.jp",
       "published": "2026-08-01T05:27:57+00:00",
       "summary": "《八代港》港湾の広域ネットワークを活用した被災地への給水車への船舶からの水の供給を開始 ～令和８年熊本地震における対応【清龍丸】～&nbsp;&nbsp;mlit.go.jp",
-      "lang": "ja"
-    },
-    {
-      "sector_id": "disaster_resilience",
-      "title": "イッツコム、『レジリエンス認証』(国土強靭化貢献団体認証) 更新 - 電波タイムズ",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lRjU4X1d4VTVxVVNZUnR4dEx3ODJ1OGpvdTRyVXZEUTgxQzJMRWtLdFYxaW8xeDNxMllKVVFpMWlMRjc0OTZTbElhVzVuNTBvRGw0?oc=5",
-      "source": "電波タイムズ",
-      "published": "2026-08-01T05:27:02+00:00",
-      "summary": "イッツコム、『レジリエンス認証』(国土強靭化貢献団体認証) 更新&nbsp;&nbsp;電波タイムズ",
       "lang": "ja"
     },
     {
@@ -562,24 +543,13 @@
       "lang": "ja"
     },
     {
-      "sector_id": "energy_gx",
-      "title": "Tien Li Offshore Wind Technology Co., Ltd. Revenue Breakdown – TPEX:6793 - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tQ29zTlF2NVVyb2tmamJlZ3R0blpiNnlWbENSaTNrcWRLbTV6eWZlcTZpbnN4QlZwUFVRbFc3ZEZWcURmNHI4bTZ4SXRacUJ4Z3ZqYkxDdkFkdVE2MjNjQ3FEOXN5bHE2U0lIZlBPaWE1Y042?oc=5",
-      "source": "TradingView",
-      "published": "2026-08-01T05:24:51+00:00",
-      "summary": "Tien Li Offshore Wind Technology Co., Ltd. Revenue Breakdown – TPEX:6793&nbsp;&nbsp;TradingView",
-      "lang": "en",
-      "title_ja": "Tien Li Offshore Wind Technology Co., Ltd.の収益内訳 – TPEX:6793 - TradingView"
-    },
-    {
       "sector_id": "disaster_resilience",
       "title": "Kerala prepares disaster-prevention measures as heavy rains lash States - The Hindu",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOXlZZHZjQjlFaU9mYjFKczVvdUxHazIxMGJoRVRjQkVCYUJFOTBiUVl0b0toUmZtZWVHZzY0VXNfNkNnejlfbnJJUVVLbGJ1ZXd1cTh4dVBrZzRjdF96MHRVTDRUbUtZZXp6bTNtYjh5eEtFc3U4NXRGRV83cndTdTh5QzVZc2JWdldYYkJ6T0YtUHVtZ3pCWUJXMVZTMFJCU09ZTzlSSmtkMm1mOHNIeFVxZWhLNDVPQllzOG96XzFFS1FnbkRuYnJvWTdWc2tydUtJ0gHaAUFVX3lxTFBTX3ZaVmVOY25BRnNjZElsb0lldXdxTVpUVjQ1cWpPMEQ1cTZXUUhKZVdobEJjQmxlbkJMQkNjUVE1UGdCUzYwN3FEQ2dhaTRzbzJwbFYtaTVwZGJISzJPVzJUd095bGZRLTNFQUdrOERwcGhia29MS0JzNlFaY3hHVnNmelY0R2RlV1hoT1NaeVUtYzQ0V2ZLbE02U3FiUENhbm03WnQza0w2UHFqNkY4emlvdmFMOW5uWGgzeTRWRFY2eHBrUjRNOEhjT3FGNVR2em93RTU0Qk53?oc=5",
       "source": "The Hindu",
       "published": "2026-08-01T05:10:45+00:00",
       "summary": "Kerala prepares disaster-prevention measures as heavy rains lash States&nbsp;&nbsp;The Hindu",
-      "lang": "en",
-      "title_ja": "ケーララ州、大雨が州を襲う中、災害防止策を準備中 - ザ・ヒンドゥー教"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -588,8 +558,7 @@
       "source": "Florida Hospital News and Healthcare Report",
       "published": "2026-08-01T05:09:46+00:00",
       "summary": "Artificial Intelligence in Healthcare: Physicians Must Lead the Conversation&nbsp;&nbsp;Florida Hospital News and Healthcare Report",
-      "lang": "en",
-      "title_ja": "医療における人工知能: 医師は会話を主導しなければなりません - フロリダ病院ニュースと医療レポート"
+      "lang": "en"
     },
     {
       "sector_id": "defense",
@@ -598,8 +567,7 @@
       "source": "Українські Національні Новини (УНН)",
       "published": "2026-08-01T04:58:36+00:00",
       "summary": "Due to drought on the Danube in Serbia, a sunken Nazi warship has reappeared from the water&nbsp;&nbsp;Українські Національні Новини (УНН)",
-      "lang": "en",
-      "title_ja": "セルビアのドナウ川の干ばつのため、沈没したナチスの軍艦が水中から再び現れた - Українські Національні Новини (УНН)"
+      "lang": "en"
     },
     {
       "sector_id": "aerospace",
@@ -635,17 +603,7 @@
       "source": "WAVY.com",
       "published": "2026-08-01T04:33:47+00:00",
       "summary": "Virginia senator calls for data center moratorium&nbsp;&nbsp;WAVY.com",
-      "lang": "en",
-      "title_ja": "バージニア州上院議員、データセンターの一時停止を要求 - WAVY.com"
-    },
-    {
-      "sector_id": "pharma",
-      "title": "ピクテ･バイオ医薬品ファンド(毎月決算型)為替ヘッジなしコース【4231104A】：基準価格・投資信託情報 - finance.yahoo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ickY0ZkxKaHd3VG9lSjZxTWdWZEZnYnNUTHRlcTlzVlYxWE9pLWh4dzdsOGM0MHV0TktFXzVrWlZyWjhnR1BFQVFWd0hxd2hJV3hBUg?oc=5",
-      "source": "finance.yahoo.co.jp",
-      "published": "2026-08-01T04:29:54+00:00",
-      "summary": "ピクテ･バイオ医薬品ファンド(毎月決算型)為替ヘッジなしコース【4231104A】：基準価格・投資信託情報&nbsp;&nbsp;finance.yahoo.co.jp",
-      "lang": "ja"
+      "lang": "en"
     },
     {
       "sector_id": "content",
@@ -654,8 +612,7 @@
       "source": "Animation Magazine",
       "published": "2026-08-01T04:15:23+00:00",
       "summary": "AnimEigo Announces Five New Anime Blu-rays Ahead of Otakon&nbsp;&nbsp;Animation Magazine",
-      "lang": "en",
-      "title_ja": "AnimEigo、Otakonに先駆けて5本の新作アニメBlu-rayを発表 - アニメーションマガジン"
+      "lang": "en"
     },
     {
       "sector_id": "digital_cyber",
@@ -682,8 +639,7 @@
       "source": "WMUR",
       "published": "2026-08-01T03:56:00+00:00",
       "summary": "'I was this close': NH teen's video game makes over $1 million overseas, but he can't keep it&nbsp;&nbsp;WMUR",
-      "lang": "en",
-      "title_ja": "「私はこんなに近づいていた」：NHのティーンエイジャーはビデオゲームで海外で100万ドル以上稼いだ、しかし彼はそれを維持できない - WMUR"
+      "lang": "en"
     },
     {
       "sector_id": "energy_gx",
@@ -746,8 +702,7 @@
       "source": "WLUK",
       "published": "2026-08-01T03:00:00+00:00",
       "summary": "Schutt Industries begins construction on new building as Clintonville expansion starts&nbsp;&nbsp;WLUK",
-      "lang": "en",
-      "title_ja": "シュット・インダストリーズ、クリントンビルの拡張工事開始に伴い、新しい建物の建設を開始 - WLUK"
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
@@ -756,8 +711,7 @@
       "source": "Greek City Times",
       "published": "2026-08-01T02:41:58+00:00",
       "summary": "Countries cooperate for strengthening of maritime security in the Indian Ocean region&nbsp;&nbsp;Greek City Times",
-      "lang": "en",
-      "title_ja": "インド洋地域の海洋安全保障強化で各国が協力 - Greek City Times"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -805,15 +759,6 @@
       "lang": "ja"
     },
     {
-      "sector_id": "telecom",
-      "title": "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得 - ｄメニューニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWGluTUdpRjhCbGlSanp6MnFzdkhYWXBFVlRCMU1XX09wTHpnTjJXSFdEeEhmanY1b21sdnZsZjhmQ2FFOXdSSVRPck9EdmdVTUczVXhVOWRCc2dIUEYwX3lUNnpJeGR5Q2g2ZE9PRVoyTzhVUkF5WGU1cDZaZXBXN3lXQ2c2X0ZEenR6V3l30gGOAUFVX3lxTE9YaW5NR2lGOEJsaVJqenoycXN2SFhZcEVWVEIxTVdfT3BMemdOMldIV0R4SGZqdjVvbWx2dmxmOGZDYUU5d1JJVE9yT0R2Z1VNRzNVeFU5ZEJzZ0hQRjBfeVQ2ekl4ZHlDaDZkT09FWjJPOFVSQXlYZTVwNlplcFc3eVdDZzZfRkR6dHpXeXc?oc=5",
-      "source": "ｄメニューニュース",
-      "published": "2026-08-01T02:05:00+00:00",
-      "summary": "「arrows 5G」が10,800円、「arrows Alpha M08」が64,800円など！秋葉原でarrowsシリーズの中古/未使用品がお買い得&nbsp;&nbsp;ｄメニューニュース",
-      "lang": "ja"
-    },
-    {
       "sector_id": "fusion",
       "title": "“地上の太陽”でエネルギー問題を根本解決!?「核融合」発電の最前線【放送版/円卓コンフィデンシャル】 - テレ東BIZ",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zQjB5Tk12eXhIUkZOdnZxbEhCSWhfWW5BUzJYeFpQWnRfMzBZUmJzZmxXZVF1TE94OUZVWF9pV3dWaXZ4YTE0OU5hbzJNbU9BWU1PYjJRV09oZlFaMVZ1SA?oc=5",
@@ -829,8 +774,7 @@
       "source": "Crunchyroll",
       "published": "2026-08-01T02:00:00+00:00",
       "summary": "Free Fire Daybreak Anime Releases New Trailer, Story Details&nbsp;&nbsp;Crunchyroll",
-      "lang": "en",
-      "title_ja": "無料の Fire Daybreak アニメが新しい予告編とストーリーの詳細を公開 - Crunchyroll"
+      "lang": "en"
     },
     {
       "sector_id": "shipbuilding",
@@ -839,8 +783,7 @@
       "source": "TradeWinds News",
       "published": "2026-08-01T01:53:10+00:00",
       "summary": "Former Maran Gas LNG carrier emerges under Russian flag&nbsp;&nbsp;TradeWinds News",
-      "lang": "en",
-      "title_ja": "元マラン・ガスのLNG船がロシア旗のもとに浮上 - TradeWinds News"
+      "lang": "en"
     },
     {
       "sector_id": "fusion",
@@ -849,8 +792,7 @@
       "source": "World Nuclear News",
       "published": "2026-08-01T01:37:54+00:00",
       "summary": "In pictures: ITER tokamak core assembly progressing&nbsp;&nbsp;World Nuclear News",
-      "lang": "en",
-      "title_ja": "写真で見る：ITERトカマク炉心組立が進行中 - 世界核ニュース"
+      "lang": "en"
     },
     {
       "sector_id": "energy_gx",
@@ -886,8 +828,7 @@
       "source": "SatellitePro ME",
       "published": "2026-08-01T01:00:30+00:00",
       "summary": "E& UAE and Khalifa University outline roadmap for 6G ISAC&nbsp;&nbsp;SatellitePro ME",
-      "lang": "en",
-      "title_ja": "E& UAE とハリファ大学が 6G ISAC のロードマップを概説 - SatellitePro ME"
+      "lang": "en"
     },
     {
       "sector_id": "aerospace",
@@ -897,16 +838,6 @@
       "published": "2026-08-01T00:48:00+00:00",
       "summary": "米スペースXのロケット残骸が8月5日に月面衝突へ 深さ5メートルのクレーター発生か&nbsp;&nbsp;産経ニュース",
       "lang": "ja"
-    },
-    {
-      "sector_id": "pharma",
-      "title": "AI in chemogenomics: Predicting drug-target interactions at scale - drugdiscoverynews.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR21xUGZzQzBtQU5DNVgxSEdGb25nZ0p6b1oybDdwUHptRkdMSm1KOWVTLXU4QW41RDZRZDNrWUhfTG5rb0F2S0JpenhrMEd5aFI4SXd2OGxBRHRGZHpURzA3RXpXMXpKeE84bkJGVEprVFVyQkRVLW5zN2F0RUpPVktfZlc1emJ6OWJKeEc5QkJmSmJxZkYwUWIyNWlaWGNib2VkQk9ZUQ?oc=5",
-      "source": "drugdiscoverynews.com",
-      "published": "2026-08-01T00:46:20+00:00",
-      "summary": "AI in chemogenomics: Predicting drug-target interactions at scale&nbsp;&nbsp;drugdiscoverynews.com",
-      "lang": "en",
-      "title_ja": "ケモゲノミクスにおける AI: 薬物と標的の相互作用を大規模に予測 - Drugdiscoverynews.com"
     },
     {
       "sector_id": "content",
@@ -927,14 +858,31 @@
       "lang": "ja"
     },
     {
-      "sector_id": "ocean",
-      "title": "Clean Opening Ceremony Video CE21 - ssc.spaceforce.mil",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTmRJUGRPTVdjcXdWaFBGRGJUbzJFQUZYVFNJSEF4N3lUZ1FiMUh1SHlOSlJaYmI2cFcxR3BvUUlvN1NFTlI3VHJubnQ3SGJ2Qnc4Um5SMlJBOEtfblBfOWpWTDk5TjdjUFNPZnFFTjFPN3VHUjliSEZuV3p4ajNpWDVJQXlsR1N5eTR0c2xGTUl2Y2Vvel9OMGswSQ?oc=5",
-      "source": "ssc.spaceforce.mil",
-      "published": "2026-07-31T23:56:11+00:00",
-      "summary": "Clean Opening Ceremony Video CE21&nbsp;&nbsp;ssc.spaceforce.mil",
-      "lang": "en",
-      "title_ja": "クリーンオープニングセレモニービデオ CE21 - ssc.spaceforce.mil"
+      "sector_id": "pharma",
+      "title": "Sensitive blood test detects pancreatic cancer recurrence early - Drug Discovery News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVy1HenFiTVlROXJ2cENZdV84RDV5Ykd4NGZ1bk9EMmxEZHdaNmNFS2tIUjR1OVVqYnRSVDhNaUVZclJuR0ZxOG5JbGNXOWZ1YmYzdlU2TFZwMi1pZUxyb0h0SDlFX0ZiNWQ1YXVyLUlQRXBDdUNFUzJYNGpMRHdVa2NZd1VyYjg4ZVVzLVlPYjJDdl9tRXBBeWFIZFFYTXh4bk5ibGdn?oc=5",
+      "source": "Drug Discovery News",
+      "published": "2026-08-01T00:16:17+00:00",
+      "summary": "Sensitive blood test detects pancreatic cancer recurrence early&nbsp;&nbsp;Drug Discovery News",
+      "lang": "en"
+    },
+    {
+      "sector_id": "ai_semicon",
+      "title": "中国AI『Kimi K3』がGPT超え…米AI株急落 研究者「ムーンショットが非常に頑張った」米中覇権争いの中、サイバー攻撃を「中国AIで防御する」事態も（ABEMA TIMES） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YZzdBb3djd2VwSlNzTlcyX0ZuRVN2dmdzV29kS3F3YzB5blZtaUJvRS1TeUtZUDUzaExxWDdOYjN6cHNaMk13QmdKODR5TTEtTnJDN0s5QzVINk02OWV5VjZwbHZCWWVRbUd1cUduSDNxc3JKVDIzVWY0ZGFrT0k?oc=5",
+      "source": "Yahoo!ニュース",
+      "published": "2026-08-01T00:00:37+00:00",
+      "summary": "中国AI『Kimi K3』がGPT超え…米AI株急落 研究者「ムーンショットが非常に頑張った」米中覇権争いの中、サイバー攻撃を「中国AIで防御する」事態も（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
+      "lang": "ja"
+    },
+    {
+      "sector_id": "energy_gx",
+      "title": "Cadeler incorporates Wind Ace for offshore wind projects - inspenet.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXoxa2ZucGNiS1B2Y1V0WU9EMkVsZFZWenoyZHAtbHVzMXRMSHNKTUEtMW03QlVPalFKU1d2bVJEdWlvdG9renFJOTZjZ052Q0ZkcGUyWEc1eGZOTmIzdmQ2by1YM2k5MTJnRkZKUVQzOUxlZGNEdWlJanZRMTF4VA?oc=5",
+      "source": "inspenet.com",
+      "published": "2026-08-01T00:00:00+00:00",
+      "summary": "Cadeler incorporates Wind Ace for offshore wind projects&nbsp;&nbsp;inspenet.com",
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -943,8 +891,7 @@
       "source": "Interesting Engineering",
       "published": "2026-07-31T23:44:00+00:00",
       "summary": "$104M Utah heavy rare earth expansion targets materials for six million EVs yearly&nbsp;&nbsp;Interesting Engineering",
-      "lang": "en",
-      "title_ja": "1億400万ドルのユタ州重希土類拡張は年間600万台のEV用材料をターゲットに - 興味深いエンジニアリング"
+      "lang": "en"
     },
     {
       "sector_id": "aerospace",
@@ -953,8 +900,7 @@
       "source": "space.com",
       "published": "2026-07-31T23:27:19+00:00",
       "summary": "SpaceX's Starship seen in space by next-gen Starlink satellite (video)&nbsp;&nbsp;space.com",
-      "lang": "en",
-      "title_ja": "次世代スターリンク衛星が宇宙で見たSpaceXのスターシップ（ビデオ） - space.com"
+      "lang": "en"
     },
     {
       "sector_id": "fusion",
@@ -963,8 +909,7 @@
       "source": "The Berkshire Eagle",
       "published": "2026-07-31T23:25:03+00:00",
       "summary": "Fusion Energy: The Technology That Could Redefine India’s Energy Future&nbsp;&nbsp;The Berkshire Eagle",
-      "lang": "en",
-      "title_ja": "核融合エネルギー: インドのエネルギーの未来を再定義できる技術 - バークシャー イーグル"
+      "lang": "en"
     },
     {
       "sector_id": "content",
@@ -973,8 +918,7 @@
       "source": "The Guardian",
       "published": "2026-07-31T23:16:00+00:00",
       "summary": "My family is coming apart – so it’s time for one last video game session | Dominik Diamond&nbsp;&nbsp;The Guardian",
-      "lang": "en",
-      "title_ja": "家族がバラバラになりつつある – だから、最後のビデオ ゲーム セッションの時間です |ドミニク・ダイアモンド - ガーディアン紙"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -992,8 +936,16 @@
       "source": "KFF",
       "published": "2026-07-31T22:39:53+00:00",
       "summary": "Medicaid/CHIP Monthly Enrollment Tracker&nbsp;&nbsp;KFF",
-      "lang": "en",
-      "title_ja": "メディケイド/CHIP 月次登録トラッカー - KFF"
+      "lang": "en"
+    },
+    {
+      "sector_id": "fusion",
+      "title": "未来のエネルギーを支える技術に触れて - 公明党",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPTkVOaDBkNVJhV01GYTBPWFc5OGU4MmtDQlRycUJTdnhUa2Z5NHhZeFo5ZmZFTDBUalZLRVZSd0Fnc2dPcnpBNE9SX0V4RWZWV0MwQWN2dHduVVpYRXpxMlp0dkZwRDlJNFREWjR0VVkxUHFBdkZ6X1hFOTlEdjJUUUJHY1I4SmZpNlBkWkV5R3QtS05TMi0weUVVQXdGVWpfNjAtNHJ1NDlBMTRWQ2M2TllvX2tGZzBjX0VjQXhTeE5Qam5PNFA1QmVMdXNiM2Z0VnBLd2NHak85eTlHdG5QMFdBTktNWGFCeVRNelNmc1doSHgzNS11ZDFyNWF4d0plVmVzVDJQZjV2aFJTcWpYcEpWNUJmZ3JpN2hGQjREVkh4M2pac25nMnBUVlNveFhsSEV5OXozUmt1aFI5V2dicTZrUVJCUQ?oc=5",
+      "source": "公明党",
+      "published": "2026-07-31T22:32:16+00:00",
+      "summary": "未来のエネルギーを支える技術に触れて&nbsp;&nbsp;公明党",
+      "lang": "ja"
     },
     {
       "sector_id": "quantum",
@@ -1005,16 +957,6 @@
       "lang": "ja"
     },
     {
-      "sector_id": "shipbuilding",
-      "title": "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2lwZmVxZk81NUhoOVNYcWdXVWpLV1l3blVQUTF3ZmZYdXlXVGtZMHFZTG5CSkcwa1FPd2RYMWJ5OXU1Ynlic1B0ZEl1ci1sT09kSW5MVDZWcXhrdkx4WXdDUUJ3VXJTVExnNVhNa1VXaU1BUjRMMG5kYkJKYUFsQXZhRVFhcE5DSm1Nb3kwWlpVbkMwLWpORlhR?oc=5",
-      "source": "Yahoo Finance",
-      "published": "2026-07-31T22:11:57+00:00",
-      "summary": "HII Q2 Deep Dive: Shipbuilding Throughput and Submarine Contracts Drive Outperformance&nbsp;&nbsp;Yahoo Finance",
-      "lang": "en",
-      "title_ja": "HII 第 2 四半期の詳細: 造船処理量と潜水艦契約が業績を牽引 - Yahoo Finance"
-    },
-    {
       "sector_id": "ai_semicon",
       "title": "なぜ熊本に半導体産業が集まるのか――地震で工場稼働停止相次ぐ：1週間を凝縮！ 今週の製造業ニュース - MONOist",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90N0FsZEk0dTNtUEMxMk1UYWd4QmhlVTNENW5BQmt0UnZwN2tpNTVxcGRqSVJVZkl1OVp5cFFoVS16U3N2LVRPYmdrU1VkR2MtZEViZHBIQzJJUU9zQnVpLUFoUjJGOGNCMkN5YS1DUQ?oc=5",
@@ -1024,18 +966,9 @@
       "lang": "ja"
     },
     {
-      "sector_id": "aerospace",
-      "title": "日本政府が2040年に向け半導体、空飛ぶクルマなどに集中投資、戦略産業クラスター策定 - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5helRGakgtdXhVWERKUHNJbUpobk80Z0RyQlplUzlSdnlyb1dMcVl5aGE2SWtHMHJVeUluSTBJZEVmelFpWlVVa1IyMU1FWFp3RG5J?oc=5",
-      "source": "ビジネス+IT",
-      "published": "2026-07-31T22:00:00+00:00",
-      "summary": "日本政府が2040年に向け半導体、空飛ぶクルマなどに集中投資、戦略産業クラスター策定&nbsp;&nbsp;ビジネス+IT",
-      "lang": "ja"
-    },
-    {
       "sector_id": "energy_gx",
       "title": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道] - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxRnU0YnFSVDFxbEVDa3h5VlIxb3poMFpEcnhVdTdzRDBGM0VoOVZKZmotRE9iZWZEc0pNZTNTSXpYem42UDF5bUZ5OXVWU1Rjb3RLeDM3VWFNckNQLW5FWDdvd2gyTFU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV2F5cEpsRHpWaExybDNJdEFGRzVsVmRPcFNjWmVVV083cUNhSGdfOVMyUWdIajYzUHQzbC00ckdJWnhMVDdfM3FjSjNhUE4tMkhZcVlldlBxX05Nb2ZPRDQ4Q2Ytbmk2bEdLM3M2SUxWenR4Q0VsWEt6OVNoS3lhTw?oc=5",
       "source": "朝日新聞",
       "published": "2026-07-31T22:00:00+00:00",
       "summary": "水素を固体化しトラック輸送 北海道で構想、物流問題も解決へ [北海道]&nbsp;&nbsp;朝日新聞",
@@ -1057,8 +990,7 @@
       "source": "The Atlantic",
       "published": "2026-07-31T21:36:50+00:00",
       "summary": "Google Just Ruined One of Its Most Important Tools&nbsp;&nbsp;The Atlantic",
-      "lang": "en",
-      "title_ja": "Google、最も重要なツールの 1 つを台無しにした - The Atlantic"
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -1076,8 +1008,7 @@
       "source": "The Boston Globe",
       "published": "2026-07-31T21:28:26+00:00",
       "summary": "Eversource reports another big financial hit from its foray into offshore wind&nbsp;&nbsp;The Boston Globe",
-      "lang": "en",
-      "title_ja": "エバーソース、洋上風力発電への進出でまた大きな財務的打撃を受けたと報告 - ボストン・グローブ紙"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -1086,8 +1017,7 @@
       "source": "MarketWatch (Top Stories)",
       "published": "2026-07-31T21:28:00+00:00",
       "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
-      "lang": "en",
-      "title_ja": "あなたが健康または裕福であれば、健康貯蓄口座は退職後の素晴らしいツールとなり得ます"
+      "lang": "en"
     },
     {
       "sector_id": "fusion",
@@ -1105,8 +1035,16 @@
       "source": "South China Morning Post",
       "published": "2026-07-31T21:16:08+00:00",
       "summary": "Google rolls back new satellite image AI tool after backlash&nbsp;&nbsp;South China Morning Post",
-      "lang": "en",
-      "title_ja": "Google、反発を受けて新しい衛星画像AIツールをロールバック - South China Morning Post"
+      "lang": "en"
+    },
+    {
+      "sector_id": "pharma",
+      "title": "SCORT-Cas13dナノセラピーによる、転移性前立腺がんにおける「創薬困難な」転写因子HoxB13の生体内での精密標的化 - crisp_bio",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRkN3ZlJ5TzFmakF4VWxJMWstTkl2VS1oaHlKLVNIa1Z3cVBqbzN5Umw0QXQyVmEzVUdoSk00QkczcEotTVFMRTQtYmVVY0RhcGtESVUyeWVpak94?oc=5",
+      "source": "crisp_bio",
+      "published": "2026-07-31T21:02:33+00:00",
+      "summary": "SCORT-Cas13dナノセラピーによる、転移性前立腺がんにおける「創薬困難な」転写因子HoxB13の生体内での精密標的化&nbsp;&nbsp;crisp_bio",
+      "lang": "ja"
     },
     {
       "sector_id": "energy_gx",
@@ -1151,8 +1089,7 @@
       "source": "WKRN News 2",
       "published": "2026-07-31T20:56:45+00:00",
       "summary": "Medical device manufacturer expanding operations in Maury County&nbsp;&nbsp;WKRN News 2",
-      "lang": "en",
-      "title_ja": "医療機器メーカー、モーリー郡で事業を拡大 - WKRNニュース2"
+      "lang": "en"
     },
     {
       "sector_id": "pharma",
@@ -1161,8 +1098,16 @@
       "source": "Reuters",
       "published": "2026-07-31T20:41:07+00:00",
       "summary": "KKR nearing deal to buy medical device firm Integer, WSJ reports&nbsp;&nbsp;Reuters",
-      "lang": "en",
-      "title_ja": "KKR、医療機器会社インテジャー買収で合意間近、WSJ報道 - ロイター"
+      "lang": "en"
+    },
+    {
+      "sector_id": "telecom",
+      "title": "「グローバルWiFi(R)」５Ｇ無制限プランを９か国で新たに提供開始！ - 朝日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BME1feVZSaG41LU81YWhPTEx6VmptbktHYzVZZlFQdk5RY0RFeHp6eEoweTlEZjJwaEtZbU5OVDFSVlZJNW5IbjhhWnlnY2lmOXdOSktrSExSU2M?oc=5",
+      "source": "朝日新聞",
+      "published": "2026-07-31T20:27:55+00:00",
+      "summary": "「グローバルWiFi(R)」５Ｇ無制限プランを９か国で新たに提供開始！&nbsp;&nbsp;朝日新聞",
+      "lang": "ja"
     },
     {
       "sector_id": "shipbuilding",
@@ -1171,28 +1116,25 @@
       "source": "U.S. Naval Institute",
       "published": "2026-07-31T20:26:22+00:00",
       "summary": "Shipbuilding: Train Them, Pay Them, Protect Them&nbsp;&nbsp;U.S. Naval Institute",
-      "lang": "en",
-      "title_ja": "造船: 訓練し、給与を支払い、保護する - 米国海軍研究所"
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
-      "title": "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - insideclimatenews.org",
+      "title": "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia - Inside Climate News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWDBTUWlSSmhPc0w4YmhQbkExUGlSRlJqdWN2c3czc2pzYV9BTWlJaEhUM3BUQWFXZ1E4Qno0akRDTGJiSjBES0J4MlMzaHFGX19LT2htMDFsZ3I5QUZBVG5kRms3bzN5V3JSeDV6Tl8zRWl3QTRyWHRJdmFjd1Q5NkJn?oc=5",
-      "source": "insideclimatenews.org",
+      "source": "Inside Climate News",
       "published": "2026-07-31T20:23:41+00:00",
-      "summary": "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia&nbsp;&nbsp;insideclimatenews.org",
-      "lang": "en",
-      "title_ja": "トランプ大統領が重要鉱物採掘を推進する中、ある企業がバージニア沿岸部の海底に注目 - insideclimatenews.org"
+      "summary": "As Trump Promotes Critical Mineral Mining, a Company Eyes the Seafloor in Coastal Virginia&nbsp;&nbsp;Inside Climate News",
+      "lang": "en"
     },
     {
       "sector_id": "aerospace",
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics - arstechnica.com",
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV28zWE1zbUJVRElfc0g1SERXYTR4RHZYby1IYVpOSkhMSU82U2xKckdadmFXRC1vbG5VeWQ1dFc2Z2VVVThVZ2liWFQ3QUY1b3FRM2NLWHVxOHRYb2JiNHc0bG9aZ1RyTUZvbERmWXlfNUNsSDF1bEg1eF9IY2RLM3NhdkE5MkpHcE9ncUhVeUlVVzU2SFRWYUNFRjNjWXhvZ3FoRHRSRHhDNmtMZ3kydXRieF9VUQ?oc=5",
-      "source": "arstechnica.com",
+      "source": "Ars Technica",
       "published": "2026-07-31T20:21:05+00:00",
-      "summary": "Google Earth risked ruin with retracted AI tool for making fake satellite pics&nbsp;&nbsp;arstechnica.com",
-      "lang": "en",
-      "title_ja": "Google Earthは偽の衛星写真を作成するAIツールの撤回で破滅の危険にさらされた - arstechnica.com"
+      "summary": "Google Earth risked ruin with retracted AI tool for making fake satellite pics&nbsp;&nbsp;Ars Technica",
+      "lang": "en"
     },
     {
       "sector_id": "shipbuilding",
@@ -1201,8 +1143,7 @@
       "source": "Punchbowl News",
       "published": "2026-07-31T20:19:51+00:00",
       "summary": "Defense: Lawmakers clamor for more shipbuilding progress&nbsp;&nbsp;Punchbowl News",
-      "lang": "en",
-      "title_ja": "防衛：議員ら造船の更なる進歩を求める - パンチボウルニュース"
+      "lang": "en"
     },
     {
       "sector_id": "port_logistics",
@@ -1220,8 +1161,7 @@
       "source": "San Diego Union-Tribune",
       "published": "2026-07-31T20:09:16+00:00",
       "summary": "Big nuclear fusion project makes progress with components from San Diego’s General Atomics&nbsp;&nbsp;San Diego Union-Tribune",
-      "lang": "en",
-      "title_ja": "サンディエゴのゼネラル・アトミックス社のコンポーネントで大規模な核融合プロジェクトが進展 - サンディエゴ・ユニオン・トリビューン"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -1230,8 +1170,7 @@
       "source": "About Amazon",
       "published": "2026-07-31T20:07:13+00:00",
       "summary": "How Amazon became one of the world’s top chip companies in a decade&nbsp;&nbsp;About Amazon",
-      "lang": "en",
-      "title_ja": "Amazon はどのようにして 10 年で世界トップのチップ企業の 1 つになったのか - Amazon について"
+      "lang": "en"
     },
     {
       "sector_id": "quantum",
@@ -1240,8 +1179,7 @@
       "source": "JD Supra",
       "published": "2026-07-31T20:04:33+00:00",
       "summary": "Quantum Computing EOs Create Immediate Compliance Deadlines, New Federal Partnership Opportunities&nbsp;&nbsp;JD Supra",
-      "lang": "en",
-      "title_ja": "量子コンピューティングの EO が直ちにコンプライアンス期限を設け、新たな連邦パートナーシップの機会を生み出す - JD Supra"
+      "lang": "en"
     },
     {
       "sector_id": "quantum",
@@ -1250,8 +1188,7 @@
       "source": "qz.com",
       "published": "2026-07-31T20:01:59+00:00",
       "summary": "Ticker Take co-founders Jon Erlichmann and Caroline Lesley talk quantum computing&nbsp;&nbsp;qz.com",
-      "lang": "en",
-      "title_ja": "Ticker Take の共同創設者 Jon Erlichmann 氏と Caroline Lesley 氏が量子コンピューティングについて語る - qz.com"
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -1269,8 +1206,7 @@
       "source": "WSJ",
       "published": "2026-07-31T19:47:31+00:00",
       "summary": "Chinese IPO Rattles Chip Stocks&nbsp;&nbsp;WSJ",
-      "lang": "en",
-      "title_ja": "中国のIPOでチップ株がガタガタ - WSJ"
+      "lang": "en"
     },
     {
       "sector_id": "shipbuilding",
@@ -1297,8 +1233,7 @@
       "source": "Scripps Research",
       "published": "2026-07-31T19:25:02+00:00",
       "summary": "How scientists are trying to repair the body from within: Regenerative medicine and anti-aging&nbsp;&nbsp;Scripps Research",
-      "lang": "en",
-      "title_ja": "科学者たちはどのように身体を内側から修復しようとしているか: 再生医療とアンチエイジング - スクリップス研究"
+      "lang": "en"
     },
     {
       "sector_id": "digital_cyber",
@@ -1307,8 +1242,7 @@
       "source": "Snowflake",
       "published": "2026-07-31T19:18:45+00:00",
       "summary": "AI in Cybersecurity: How It Works, Key Use Cases & Benefits&nbsp;&nbsp;Snowflake",
-      "lang": "en",
-      "title_ja": "サイバーセキュリティにおける AI: その仕組み、主な使用例、利点 - Snowflake"
+      "lang": "en"
     },
     {
       "sector_id": "aerospace",
@@ -1317,18 +1251,16 @@
       "source": "Federal News Network",
       "published": "2026-07-31T19:14:21+00:00",
       "summary": "Space & Satellite Exchange 2026: Wind RiverX’s Jim Keenan, Hans Weggeman on operating satellite comms at scale&nbsp;&nbsp;Federal News Network",
-      "lang": "en",
-      "title_ja": "Space & Satellite Exchange 2026: Wind RiverX の Jim Keenan 氏、Hans Weggeman 氏が衛星通信の大規模運用について語る - 連邦ニュース ネットワーク"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "How private 5G networks are evolving into a US$700mn market by 2029 - bnamericas.com",
+      "title": "How private 5G networks are evolving into a US$700mn market by 2029 - BNamericas",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEducW5sYUw1QVFLR1dldXpZSWx0OEYtQ28xVnBXaHM3Ri1LZ09Cb0ZHTmdUZ0lkcFZrdkM1eGFxbkN4U1BCc29zbHNKVmlLT19vS2N0MHA1YzlweTRsajRLbml0cDU3bmxTOV91Vkl0a3dKRldoTFNDUkdRZ19sTk1Xek5SMVVPcWxnVW14T0VQSzhuRVVoWGdGU0ZGNW1DM24xLW5IRXE?oc=5",
-      "source": "bnamericas.com",
+      "source": "BNamericas",
       "published": "2026-07-31T19:04:11+00:00",
-      "summary": "How private 5G networks are evolving into a US$700mn market by 2029&nbsp;&nbsp;bnamericas.com",
-      "lang": "en",
-      "title_ja": "プライベート 5G ネットワークが 2029 年までに 7 億米ドルの市場にどのように進化するか - bnamericas.com"
+      "summary": "How private 5G networks are evolving into a US$700mn market by 2029&nbsp;&nbsp;BNamericas",
+      "lang": "en"
     },
     {
       "sector_id": "defense",
@@ -1337,8 +1269,7 @@
       "source": "Foundation for Defense of Democracies",
       "published": "2026-07-31T19:02:47+00:00",
       "summary": "Designation-Restrict the Operation of Unmanned Aircraft in Close Proximity to a Fixed Site Facility&nbsp;&nbsp;Foundation for Defense of Democracies",
-      "lang": "en",
-      "title_ja": "指定 - 固定施設施設に近接した無人航空機の運用を制限する - 民主主義防衛財団"
+      "lang": "en"
     },
     {
       "sector_id": "defense",
@@ -1347,8 +1278,7 @@
       "source": "The Aviationist",
       "published": "2026-07-31T18:36:00+00:00",
       "summary": "Japanese Warship Launches First Ever Tomahawk Missile&nbsp;&nbsp;The Aviationist",
-      "lang": "en",
-      "title_ja": "日本の軍艦が史上初のトマホークミサイルを発射 - 航空学者"
+      "lang": "en"
     },
     {
       "sector_id": "biotech",
@@ -1357,8 +1287,7 @@
       "source": "AgFunderNews",
       "published": "2026-07-31T18:33:48+00:00",
       "summary": "Micropep kickstarts global regulatory registration of its peptide-based biofungicide&nbsp;&nbsp;AgFunderNews",
-      "lang": "en",
-      "title_ja": "Micropep、ペプチドベースの生物殺菌剤の世界的な規制登録を開始 - AgFunderNews"
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -1367,8 +1296,7 @@
       "source": "Bitterroot Star",
       "published": "2026-07-31T18:30:41+00:00",
       "summary": "DEQ disputes U.S. Critical Minerals&nbsp;&nbsp;Bitterroot Star",
-      "lang": "en",
-      "title_ja": "DEQ、米国の重要鉱物に異議を唱える - Bitterroot Star"
+      "lang": "en"
     },
     {
       "sector_id": "foodtech",
@@ -1377,8 +1305,7 @@
       "source": "newscentermaine.com",
       "published": "2026-07-31T18:13:00+00:00",
       "summary": "After years of legal challenges, Kingfish Maine is pushing for help to proceed with 22-acre aquaculture project in Jonesport&nbsp;&nbsp;newscentermaine.com",
-      "lang": "en",
-      "title_ja": "長年にわたる法的異議申し立てを経て、キングフィッシュ・メイン州はジョーンズポートの22エーカーの水産養殖プロジェクトを進めるための支援を求めている - newscentermaine.com"
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -1387,28 +1314,25 @@
       "source": "Crux Investor",
       "published": "2026-07-31T18:10:50+00:00",
       "summary": "Energy Fuels Begins Heavy Rare Earth Plant Construction in Utah: 7 Things You Need to Know&nbsp;&nbsp;Crux Investor",
-      "lang": "en",
-      "title_ja": "Energy Fuels がユタ州で重希土類プラントの建設を開始: 知っておくべき 7 つのこと - Crux Investor"
+      "lang": "en"
     },
     {
       "sector_id": "biotech",
-      "title": "Synthetic Biology Sheds Light on Microbial Evolution - American Society for Microbiology",
+      "title": "Synthetic Biology Sheds Light on Microbial Evolution - asm.org",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTRJTlkxMVVlY1l2U1lyX2RjSS1ZV251TnhTWkVHZnYzN3IzTXhVQ2dLNTNrTjlKUk9IcmFUbGVYZVYyS2hQOUo0ejh5dDBwellaVXZaZnlJdGR2bUZCekxiQzhab09PYnE1UldicUlGaUxHRXhrMkM4SmI1alNXS0ZIMEJwbHg0Z3VxdVZ3?oc=5",
-      "source": "American Society for Microbiology",
+      "source": "asm.org",
       "published": "2026-07-31T17:50:37+00:00",
-      "summary": "Synthetic Biology Sheds Light on Microbial Evolution&nbsp;&nbsp;American Society for Microbiology",
-      "lang": "en",
-      "title_ja": "合成生物学が微生物の進化に光を当てる - 米国微生物学会"
+      "summary": "Synthetic Biology Sheds Light on Microbial Evolution&nbsp;&nbsp;asm.org",
+      "lang": "en"
     },
     {
       "sector_id": "aerospace",
-      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky - NPR",
+      "title": "Google pauses AI satellite images, after fears of deepfakes in the sky - npr.org",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTNrVDk0NTVFVFRNSlVEU2UxNExON1I0WDhqTzV1aDJLdHo1eWc3QnE4TkRzNjFqZGtNbFFsVEhjNnBxT09UdTAya2pSMi02bWN1SnpaTl9KMWh2MWdCY1ZlWHJuVFJSYkZ3bGpFVWRHTk9aSnRPcGN4NVBNNVdES1VJSlp0U1F0R3VFak5xdldCTTNpVWtLblE1dnpNdlI4X3pTSHhnSWozOGhYamFrdHlIMG1QbkVT?oc=5",
-      "source": "NPR",
+      "source": "npr.org",
       "published": "2026-07-31T17:48:26+00:00",
-      "summary": "Google pauses AI satellite images, after fears of deepfakes in the sky&nbsp;&nbsp;NPR",
-      "lang": "en",
-      "title_ja": "Google、空のディープフェイクの懸念を受けて AI 衛星画像を一時停止 - NPR"
+      "summary": "Google pauses AI satellite images, after fears of deepfakes in the sky&nbsp;&nbsp;npr.org",
+      "lang": "en"
     },
     {
       "sector_id": "energy_gx",
@@ -1417,8 +1341,7 @@
       "source": "WVTF",
       "published": "2026-07-31T17:47:00+00:00",
       "summary": "Trump tariffs added over $800 million to Dominion Energy’s offshore wind project&nbsp;&nbsp;WVTF",
-      "lang": "en",
-      "title_ja": "トランプ大統領の関税でドミニオン・エナジーの洋上風力発電プロジェクトに8億ドル以上追加 - WVTF"
+      "lang": "en"
     },
     {
       "sector_id": "quantum",
@@ -1427,8 +1350,7 @@
       "source": "D-Wave Quantum",
       "published": "2026-07-31T17:39:28+00:00",
       "summary": "D-Wave Named a Leader in the 2026 IDC MarketScape for Quantum Computing&nbsp;&nbsp;D-Wave Quantum",
-      "lang": "en",
-      "title_ja": "D-Wave が 2026 年の量子コンピューティング IDC MarketScape のリーダーに選出 - D-Wave Quantum"
+      "lang": "en"
     },
     {
       "sector_id": "fusion",
@@ -1437,8 +1359,7 @@
       "source": "ESG Today",
       "published": "2026-07-31T17:11:46+00:00",
       "summary": "Commonwealth Raises $1 Billion to Accelerate Path to Commercial Fusion Energy&nbsp;&nbsp;ESG Today",
-      "lang": "en",
-      "title_ja": "コモンウェルス、商業用核融合エネルギーへの道を加速するために10億ドルを調達 - ESG Today"
+      "lang": "en"
     },
     {
       "sector_id": "energy_gx",
@@ -1447,8 +1368,7 @@
       "source": "Baird Maritime",
       "published": "2026-07-31T17:07:19+00:00",
       "summary": "Fugro says offshore wind slump has worsened, recovery may take until 2027&nbsp;&nbsp;Baird Maritime",
-      "lang": "en",
-      "title_ja": "フグロ、洋上風力発電の低迷が悪化、回復は2027年までかかる可能性があると語る - ベアード・マリタイム"
+      "lang": "en"
     },
     {
       "sector_id": "disaster_resilience",
@@ -1457,28 +1377,25 @@
       "source": "Dayton Daily News",
       "published": "2026-07-31T17:05:17+00:00",
       "summary": "400 jobs coming to West Chester Twp. through $750M Resilience-Lilly expansion&nbsp;&nbsp;Dayton Daily News",
-      "lang": "en",
-      "title_ja": "West Chester Twp には 400 件の仕事が来ています。 7 億 5,000 万ドルの Resilience-Lilly 拡張を通じて - Dayton Daily News"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "AT&T’s FirstNet gains 5G SA access - SDxCentral",
+      "title": "AT&T’s FirstNet gains 5G SA access - sdxcentral.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1USC1Sb1ZEbWdiZkxGSHBGQWtSb25ST19SYWY1NnVXQzRMWW5TZXNTcDdTaWtGUjh5cURhcVMtcU5ldXNVTTJxalZFbEtpTUNmc0ZLTEQ1bzQyZDVkckdpUEJySVJhVnI0OHRYZHNGZW5Wb0E?oc=5",
-      "source": "SDxCentral",
+      "source": "sdxcentral.com",
       "published": "2026-07-31T16:58:44+00:00",
-      "summary": "AT&amp;T’s FirstNet gains 5G SA access&nbsp;&nbsp;SDxCentral",
-      "lang": "en",
-      "title_ja": "AT&T の FirstNet が 5G SA アクセスを取得 - SDxCentral"
+      "summary": "AT&amp;T’s FirstNet gains 5G SA access&nbsp;&nbsp;sdxcentral.com",
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "NTIA tees up 4.4 GHz band for 6G study - Fierce Network",
+      "title": "NTIA tees up 4.4 GHz band for 6G study - fiercewireless.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpcFY4RlJ5aURobTdxRTUtcmdzQkhrb20yVUNYRVlRX3BtVGh4R2VLeVBaYWhFZ2VnaU8zV0daRFYtZVJNY3d4dlJ4NUFwMVBoX0dxZHhYM000THpGVUMxajlRYzktR0tqeVVfM25LWkd3cEk1ejhXeV93?oc=5",
-      "source": "Fierce Network",
+      "source": "fiercewireless.com",
       "published": "2026-07-31T16:56:30+00:00",
-      "summary": "NTIA tees up 4.4 GHz band for 6G study&nbsp;&nbsp;Fierce Network",
-      "lang": "en",
-      "title_ja": "NTIA、6G 研究のために 4.4 GHz 帯域を準備 - Fierce Network"
+      "summary": "NTIA tees up 4.4 GHz band for 6G study&nbsp;&nbsp;fiercewireless.com",
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -1487,8 +1404,7 @@
       "source": "CNBC (Markets)",
       "published": "2026-07-31T16:51:30+00:00",
       "summary": "Trimmed mean measures are painting a different picture than the headline numbers.",
-      "lang": "en",
-      "title_ja": "ウォーシュ率いるFRBはインフレ対策の圧力に直面しているが、これらの指標はインフレ率がここ数年で最低であることを示している"
+      "lang": "en"
     },
     {
       "sector_id": "digital_cyber",
@@ -1497,8 +1413,7 @@
       "source": "Forbes",
       "published": "2026-07-31T16:24:39+00:00",
       "summary": "A Mid-2026 Primer On Cybersecurity And Addressing New Threats&nbsp;&nbsp;Forbes",
-      "lang": "en",
-      "title_ja": "2026 年半ばのサイバーセキュリティと新たな脅威への対処に関する入門書 - フォーブス"
+      "lang": "en"
     },
     {
       "sector_id": "digital_cyber",
@@ -1507,8 +1422,7 @@
       "source": "California State Portal | CA.gov",
       "published": "2026-07-31T16:10:31+00:00",
       "summary": "California launches next phase of state cybersecurity plan as AI changes threat landscape&nbsp;&nbsp;California State Portal | CA.gov",
-      "lang": "en",
-      "title_ja": "AI が脅威の状況を変える中、カリフォルニア州は州サイバーセキュリティ計画の次の段階を開始 - カリフォルニア州ポータル | CA.gov"
+      "lang": "en"
     },
     {
       "sector_id": "pharma",
@@ -1520,24 +1434,13 @@
       "lang": "ja"
     },
     {
-      "sector_id": "port_logistics",
-      "title": "Chennai Port Authority Introduces New Cargo and Enhances Cargo Handling Capabilities - PIB",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MWpvNUJlel81ajRLcTlDaWtXMEU2d0tFa0xpR1dYOFFOVU1ObGEzbi1VMFhxOEt1SHctVVg3bndrZjVjZXFUdXFjQVF5VC1ycWtDVjFhWXFwMDFOOEc4QzFwWHpEMUI0dGdRNWl0SEtjSDRVSGd1NXZn?oc=5",
-      "source": "PIB",
-      "published": "2026-07-31T16:04:00+00:00",
-      "summary": "Chennai Port Authority Introduces New Cargo and Enhances Cargo Handling Capabilities&nbsp;&nbsp;PIB",
-      "lang": "en",
-      "title_ja": "チェンナイ港湾局、新たな貨物を導入し、貨物取り扱い能力を強化 - PIB"
-    },
-    {
       "sector_id": "quantum",
       "title": "Quantum computing nears commercial breakthrough, IBM CEO says - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUpRS0NqcExHbUNwNjFzeWFHOWg1cmNYMVRIc09JNkhJYnJuVnFFc2FXZFhCdGl3b2tFMXVJcWxrOFk5REZUeFpCWEVtSFA0ckt6dW1NTWl6U2tRMXVoVllCQmdLVUpONUY4TTd1VE01cEhaMHZzZlZObGxoNFNhNF9mNy1uLVk4Vy1VaGFqdGFRVG1RR1IyckRPYWZGV3RyWkNDaFY4NA?oc=5",
       "source": "CoinDesk",
       "published": "2026-07-31T15:43:48+00:00",
       "summary": "Quantum computing nears commercial breakthrough, IBM CEO says&nbsp;&nbsp;CoinDesk",
-      "lang": "en",
-      "title_ja": "量子コンピューティングは商業的ブレークスルーに近づいている、IBM CEOが語る - CoinDesk"
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -1546,16 +1449,15 @@
       "source": "EXIM.GOV (.gov)",
       "published": "2026-07-31T15:10:08+00:00",
       "summary": "Factory Floor Fridays: EXIM Tours 6K Additive to See Critical Minerals Development in Pennsylvania&nbsp;&nbsp;EXIM.GOV (.gov)",
-      "lang": "en",
-      "title_ja": "金曜日の工場現場: EXIM ツアー 6K Additive でペンシルベニア州の重要な鉱物開発を見学 - EXIM.GOV (.gov)"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "Redmi 15 5Gが一括1円＋15,000円キャッシュバック！乗り換えキャンペーンの条件・受取方法を解説 - chibimegane.jp",
+      "title": "Redmi 15 5Gが一括1円＋15,000円キャッシュバック！乗り換えキャンペーンの条件・受取方法を解説 - ちびめがねアンテナ",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ocHQ2a1pSTEJ0dUFHTjNGNzI4RmJTNUVwTC0wcENwY1RBcnB6Si1vNzQyZmVlVk1vOU1CZ1ZFTGJXak1GTkxCXzdqOS1LZzdvaWRYYVdGSmN1TG5PZ293?oc=5",
-      "source": "chibimegane.jp",
+      "source": "ちびめがねアンテナ",
       "published": "2026-07-31T14:18:32+00:00",
-      "summary": "Redmi 15 5Gが一括1円＋15,000円キャッシュバック！乗り換えキャンペーンの条件・受取方法を解説&nbsp;&nbsp;chibimegane.jp",
+      "summary": "Redmi 15 5Gが一括1円＋15,000円キャッシュバック！乗り換えキャンペーンの条件・受取方法を解説&nbsp;&nbsp;ちびめがねアンテナ",
       "lang": "ja"
     },
     {
@@ -1565,8 +1467,7 @@
       "source": "WorkBoat",
       "published": "2026-07-31T13:53:12+00:00",
       "summary": "Tropical Shipping orders four mobile harbor cranes for Florida, US Virgin Islands&nbsp;&nbsp;WorkBoat",
-      "lang": "en",
-      "title_ja": "Tropical Shipping、フロリダ州、米領ヴァージン諸島向けに移動式港湾クレーン 4 台を発注 - WorkBoat"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
@@ -1584,8 +1485,7 @@
       "source": "Drug Target Review",
       "published": "2026-07-31T12:44:51+00:00",
       "summary": "Insilico Medicine launches AI drug discovery benchmarking platform&nbsp;&nbsp;Drug Target Review",
-      "lang": "en",
-      "title_ja": "Insilico Medicine が AI 創薬ベンチマーク プラットフォームを開始 - Drug Target Review"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -1594,8 +1494,7 @@
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T12:44:19+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "今日、2026年7月31日金曜日の銀価格：米国が空爆を一時停止した後、銀は一時59ドルを超えて上昇"
+      "lang": "en"
     },
     {
       "sector_id": "disaster_resilience",
@@ -1604,16 +1503,15 @@
       "source": "newtimes.co.rw",
       "published": "2026-07-31T12:37:13+00:00",
       "summary": "Gaps in disaster prevention leave Rwf49bn repair bill: Senate report| The New Times&nbsp;&nbsp;newtimes.co.rw",
-      "lang": "en",
-      "title_ja": "防災休暇のギャップ 490億ランドの修理法案：上院報告書|ニュータイムズ - newtimes.co.rw"
+      "lang": "en"
     },
     {
       "sector_id": "port_logistics",
-      "title": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport - WorldCargo News",
+      "title": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport - worldcargonews.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdEZnVkw1M3ZVdHBXSjN5VkZHX2JocE9RX0MwSXhKNXZvekxWTGlXS2hhdGdYXzFFakxyODRhbkJCdlVyTW8xbzlmS0t2N1kxbFQ3T3IyZU5tTWx2aUtObG5NV0dkMVdUZEtvVUVyWlpFRlZfMDZEV2lGcElyMnlsT0wzdVdKN0gyNzJwZ0I0U3JNQy1XTHJlemZIRDB2Wmo1MlRSUkxPWm5kOGlMMGVzVWFWY0IxX2NyUDNMa29RSQ?oc=5",
-      "source": "WorldCargo News",
+      "source": "worldcargonews.com",
       "published": "2026-07-31T12:36:44+00:00",
-      "summary": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport&nbsp;&nbsp;WorldCargo News",
+      "summary": "SSA Marine adds Liebherr LHM 550 hybrid crane at Gulfport&nbsp;&nbsp;worldcargonews.com",
       "lang": "en"
     },
     {
@@ -1623,8 +1521,7 @@
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T12:34:36+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "今日、2026年7月31日金曜日の金価格：米国が一晩で空爆を一時停止したため、金価格はついに4,100ドルを突破"
+      "lang": "en"
     },
     {
       "sector_id": "port_logistics",
@@ -1633,8 +1530,7 @@
       "source": "Report.az",
       "published": "2026-07-31T12:01:21+00:00",
       "summary": "Zelenskyy claims strikes on Russian port, logistics centers&nbsp;&nbsp;Report.az",
-      "lang": "en",
-      "title_ja": "ゼレンスキー大統領、ロシアの港湾と物流センターへの攻撃を主張 - Report.az"
+      "lang": "en"
     },
     {
       "sector_id": "energy_gx",
@@ -1643,8 +1539,7 @@
       "source": "Global Market Insights Inc.",
       "published": "2026-07-31T11:53:55+00:00",
       "summary": "Offshore Wind Installation Vessel Market Size, Forecast 2026-2035&nbsp;&nbsp;Global Market Insights Inc.",
-      "lang": "en",
-      "title_ja": "洋上風力発電設備市場規模、2026～2035年予測 - Global Market Insights Inc."
+      "lang": "en"
     },
     {
       "sector_id": "shipbuilding",
@@ -1671,8 +1566,7 @@
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T10:00:00+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "AI 支出ブームにより自社株買いの再考が迫られている: 1 つの大きな投資アイデア"
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
@@ -1681,8 +1575,7 @@
       "source": "Janes",
       "published": "2026-07-31T09:38:03+00:00",
       "summary": "New Zealand launches long-range UAV acquisition programme&nbsp;&nbsp;Janes",
-      "lang": "en",
-      "title_ja": "ニュージーランド、長距離無人航空機捕捉プログラムを開始 - ジェーンズ"
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
@@ -1691,18 +1584,7 @@
       "source": "SeafoodSource",
       "published": "2026-07-31T09:35:13+00:00",
       "summary": "Trump administration took funding dedicated to fighting IUU fishing and used it for the World Cup&nbsp;&nbsp;SeafoodSource",
-      "lang": "en",
-      "title_ja": "トランプ政権はIUU漁業との戦いに特化した資金を受け取り、それをワールドカップに使用した - SeafoodSource"
-    },
-    {
-      "sector_id": "ai_semicon",
-      "title": "Coca-Cola Just Raised Its Full-Year Guidance. Here's How Much $30,000 Invested Pays in Quarterly Dividends.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-just-raised-full-093200282.html",
-      "source": "Yahoo Finance (Top News)",
-      "published": "2026-07-31T09:32:00+00:00",
-      "summary": "",
-      "lang": "en",
-      "title_ja": "コカ・コーラは通期業績見通しを引き上げたばかり。投資した 30,000 ドルが四半期配当でいくらになるかは次のとおりです。"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -1711,8 +1593,7 @@
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T09:30:00+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "この中国のコンピューター チップ メーカーは 10 年間で 50 億ドルを使い果たしましたが、その後 1 四半期で全額を取り戻しました"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -1721,8 +1602,16 @@
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T09:30:00+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "AI による雇用喪失に対するシンプルな答え: 労働力ではなく税金資本"
+      "lang": "en"
+    },
+    {
+      "sector_id": "shipbuilding",
+      "title": "長崎総合科学大学、今治造船や名村造船所などと教育協議会発足 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oNTQwb1lubG5ZS3c3UklET1dMcVBXX0RpMWlHUkRRcE5XdUZOYjhyYzUxeWV5ZHRyMUdIaGYtSVAxOGhEWEpPN0VqbEV6ck5UcW02Mkh3aGFmU0dvVzhtd1o3SDdnRVR3Z0pVdw?oc=5",
+      "source": "日本経済新聞",
+      "published": "2026-07-31T09:26:50+00:00",
+      "summary": "長崎総合科学大学、今治造船や名村造船所などと教育協議会発足&nbsp;&nbsp;日本経済新聞",
+      "lang": "ja"
     },
     {
       "sector_id": "ai_semicon",
@@ -1731,8 +1620,7 @@
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T09:14:07+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "クラウド収益の急増でアマゾンが急上昇、膨らむAIへの投資への懸念が和らぐ"
+      "lang": "en"
     },
     {
       "sector_id": "port_logistics",
@@ -1744,14 +1632,22 @@
       "lang": "ja"
     },
     {
+      "sector_id": "ocean",
+      "title": "AFN InFocus- USV OPS - ssc.spaceforce.mil",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMlBJY3FjWmdaYUc3U25jZmFrT0FWSXJydVRoalFFOG1sX3ZabmRGLXltN09WSC1SdXBpRjJ6U055WkI3eWRBbDVNUlNWVVVxdzBRMzZadGo0cFVjMHk3TzF3cXVHNnQ3WWNvRE9jMzhHUUFuQVk4LVVKUGV5ZzlMeDYtT1gzT25QbkdKVDdmcVk5dWZGMzFCWXhFZmpqNm5qTmc?oc=5",
+      "source": "ssc.spaceforce.mil",
+      "published": "2026-07-31T09:06:11+00:00",
+      "summary": "AFN InFocus- USV OPS&nbsp;&nbsp;ssc.spaceforce.mil",
+      "lang": "en"
+    },
+    {
       "sector_id": "ai_semicon",
       "title": "Apple tumbles as supply chain snarls mar forecast in Cook's last earnings as CEO",
       "link": "https://finance.yahoo.com/markets/stocks/articles/apple-slides-supply-snags-cloud-082812003.html",
       "source": "Yahoo Finance (Top News)",
       "published": "2026-07-31T08:28:12+00:00",
       "summary": "",
-      "lang": "en",
-      "title_ja": "サプライチェーンがクック氏のCEOとしての最後の利益見通しを狂わせ、アップルが低迷"
+      "lang": "en"
     },
     {
       "sector_id": "defense",
@@ -1769,17 +1665,7 @@
       "source": "TradingKey",
       "published": "2026-07-31T07:58:40+00:00",
       "summary": "JBTM|JBT Marel Corp|Price:140.335|Chg%:-0.825&nbsp;&nbsp;TradingKey",
-      "lang": "en",
-      "title_ja": "JBTM|JBTマレル社|価格:140.335|変化率:-0.825 - TradingKey"
-    },
-    {
-      "sector_id": "shipbuilding",
-      "title": "(株)名村造船所【7014】：今の株価の理由は？値動きの背景をAIが解説 - finance.yahoo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJNTVLYm10X2lrSmZaQmNHVVNGZEZibDhtSnlZUW5kN0VVbEZwVTF0MXlEbGMtSDVTcVJaaXJvakZIQ0VuQVRXZHFvcmpJZDY0N0xhT1JJMHlsUUN2M2ZN?oc=5",
-      "source": "finance.yahoo.co.jp",
-      "published": "2026-07-31T07:01:43+00:00",
-      "summary": "(株)名村造船所【7014】：今の株価の理由は？値動きの背景をAIが解説&nbsp;&nbsp;finance.yahoo.co.jp",
-      "lang": "ja"
+      "lang": "en"
     },
     {
       "sector_id": "quantum",
@@ -1833,8 +1719,7 @@
       "source": "Insilico Medicine",
       "published": "2026-07-31T03:50:55+00:00",
       "summary": "Insilico Medicine Launches the Industry's First Drug Discovery and Development (DDD) Benchmark as a Service, to Evaluate Frontier AI and Foundation Models on Real-World Science&nbsp;&nbsp;Insilico Medicine",
-      "lang": "en",
-      "title_ja": "Insilico Medicine が、現実世界の科学におけるフロンティア AI と基盤モデルを評価するため、業界初の創薬開発 (DDD) ベンチマークをサービスとして開始 - Insilico Medicine"
+      "lang": "en"
     },
     {
       "sector_id": "foodtech",
@@ -1847,12 +1732,12 @@
     },
     {
       "sector_id": "port_logistics",
-      "title": "中国：大湾区の家電輸出が加速、工場・鉄道・港湾がシームレス連携(サーチナ) - finance.yahoo.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ1RKTWUtdTJKUzdyRWRTRGVWNURJRWwwTHdNYVEzYjNncF82VXY2dFJIU3ZwdXBJbVgyQjJnNG16NlF4UW5kTy16REtDYUpWR2FGWFhXV0tPeDNnaG5YaU4wS25LZVRZM3Vmdk01V0Rtc3hVZmw0bUo0aGtQMTZxODdoMVp2UG8?oc=5",
-      "source": "finance.yahoo.co.jp",
-      "published": "2026-07-31T02:26:00+00:00",
-      "summary": "中国：大湾区の家電輸出が加速、工場・鉄道・港湾がシームレス連携(サーチナ)&nbsp;&nbsp;finance.yahoo.co.jp",
-      "lang": "ja"
+      "title": "Gulfport adds second hybrid crane to boost bulk handling - Splash247",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdExqRnMzbk5ZcXI4U1NmQVBXVURCeUYwUlFadmFzRTFrQXJmM1BCSW1BWjlSRGlqY0ZpcnpjeEFzbE5RMDJNdUY4b2hHeHBKUEo4V2RYMW1CNU9pZHEwYVJ2cHdLN0sxcmxvWVhVMHFMbUVGd3UyMVNwMXVGM3lJaVBmQUtUdw?oc=5",
+      "source": "Splash247",
+      "published": "2026-07-31T02:55:48+00:00",
+      "summary": "Gulfport adds second hybrid crane to boost bulk handling&nbsp;&nbsp;Splash247",
+      "lang": "en"
     },
     {
       "sector_id": "materials",
@@ -1879,8 +1764,7 @@
       "source": "EurekAlert!",
       "published": "2026-07-31T01:43:47+00:00",
       "summary": "Smarter fish farms could cut electricity use and CO₂ while keeping fish safe&nbsp;&nbsp;EurekAlert!",
-      "lang": "en",
-      "title_ja": "よりスマートな養殖場は、魚の安全を保ちながら電力使用量と CO₂ を削減できる - EurekAlert!"
+      "lang": "en"
     },
     {
       "sector_id": "fusion",
@@ -1898,15 +1782,6 @@
       "source": "city.murakami.lg.jp",
       "published": "2026-07-31T01:00:30+00:00",
       "summary": "特定地域振興重要港湾活性化協議会総会&nbsp;&nbsp;city.murakami.lg.jp",
-      "lang": "ja"
-    },
-    {
-      "sector_id": "fusion",
-      "title": "スターライトエンジン、核融合発電60億円調達 出資先と連携強化 - 日刊工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNXNmNFRCQ2ZZZ3UwNWdzT25SUFBTVU9MUERlWDFiWmV6NVpfbFlMTmFtNjJWZ3RqSmRNQjRqeFNIUXlaWjVTaGhFaWRlcHNyQlBaU1VlSTlsQlk?oc=5",
-      "source": "日刊工業新聞",
-      "published": "2026-07-31T00:20:17+00:00",
-      "summary": "スターライトエンジン、核融合発電60億円調達 出資先と連携強化&nbsp;&nbsp;日刊工業新聞",
       "lang": "ja"
     },
     {
@@ -1965,13 +1840,21 @@
     },
     {
       "sector_id": "fusion",
-      "title": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest - WEDC",
+      "title": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest - wedc.org",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZmdXT3dvMW01cHNoQ0dvVjhveEI1VVFCRnhfdnp3cmZJV1BxMzB5SVE2NUpGTjVKOWM0Q003cnNSRkZSempka0dFZ19QUWxFRmI0R0lubzlyQW9YamJlZVk0ZzFJN0I5c0NDOUFZTl9YVUlXY2JhUWNuMk1ZZzg2SVJyVm4yeTlGMlowaG1XZTJUYjB5V0ZPMVVzdzZ2c1VKRjhkU2pn?oc=5",
-      "source": "WEDC",
+      "source": "wedc.org",
       "published": "2026-07-30T20:40:34+00:00",
-      "summary": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest&nbsp;&nbsp;WEDC",
-      "lang": "en",
-      "title_ja": "イタリアからミルウォーキーへ: ITER IDEA がどのように AI リソース プランニングを中西部にもたらしているか - WEDC"
+      "summary": "From Italy to Milwaukee: How ITER IDEA Is Bringing AI Resource Planning to the Midwest&nbsp;&nbsp;wedc.org",
+      "lang": "en"
+    },
+    {
+      "sector_id": "shipbuilding",
+      "title": "Electric Boat lands largest shipbuilding contract in modern history - WFSB",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPazBnYUpXMTVucC1mb0RfX0VYSW5ORzY1VWZubjBfaGVMd0hzc2FGbHdfSFh1MGhpVWpwbF9PbFN1Wnl6ZUIxVHBLQW9GNUJNdzB1VlpmSGtkQlRnUHZSTkZEeGc1TEEzdDB5ZVk5M3MzRXZQT3FuWnZMc1E5Vm9Oc09pNHVDRGp5SlhPa0FwSl9WeTZ4TDVKZ3p3U3I1UdIBsgFBVV95cUxPR001WVJSV2d0SzFtMkM5a25mWUtESUMzNno4SzZUYTQtUmxWbEFNN1pyM21FdkRSVDA4T3pZOWRyOEtqV2pyWTdxN1J6SjFKRGItZ0QyS0FFU09nSzBzUk5pNXc1d3ozNllvTy05YWthMXVDZnVaQ1ZIZzVTcDREdU91ckU4OWVlbEFQejFkTG9TOVdMWFh1cWY0S2NBdFZyd19mLTRsNmlEYjB0VFBGRHNn?oc=5",
+      "source": "WFSB",
+      "published": "2026-07-30T20:22:00+00:00",
+      "summary": "Electric Boat lands largest shipbuilding contract in modern history&nbsp;&nbsp;WFSB",
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
@@ -1989,8 +1872,7 @@
       "source": "AgFunderNews",
       "published": "2026-07-30T20:03:46+00:00",
       "summary": "AgriFood Signals: Wild Bio acquires F1 Seed, ADM Capital raises $48m&nbsp;&nbsp;AgFunderNews",
-      "lang": "en",
-      "title_ja": "アグリフードシグナル：Wild Bio が F1 Seed を買収、ADM Capital が 4,800 万ドルを調達 - AgFunderNews"
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
@@ -1999,15 +1881,6 @@
       "source": "tv-tokyo.co.jp",
       "published": "2026-07-30T20:03:35+00:00",
       "summary": "いまからサイエンス【海底資源発見？】水深1000ｍを無人で探査する最新技術&nbsp;&nbsp;tv-tokyo.co.jp",
-      "lang": "ja"
-    },
-    {
-      "sector_id": "quantum",
-      "title": "自信を砕いた「極低温の壁」、冷凍機開発に4年 - 日経クロステック",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DeDByamlobVdCUlU5Z2NaSlNwX25KdEU1MkExak96UkVwcFY3dW1wTzNCXzI5UHFFOXVOR2JoLWp0ZmtWck00UTVOUi0tS0NXbDZ1Mk1BVkdlNEF0QWlYbERVSjlCdFhW?oc=5",
-      "source": "日経クロステック",
-      "published": "2026-07-30T20:00:00+00:00",
-      "summary": "自信を砕いた「極低温の壁」、冷凍機開発に4年&nbsp;&nbsp;日経クロステック",
       "lang": "ja"
     },
     {
@@ -2026,8 +1899,7 @@
       "source": "Marine News Magazine",
       "published": "2026-07-30T19:58:45+00:00",
       "summary": "Boskalis Windpiper Converted into Subsea Rock Installation Vessel&nbsp;&nbsp;Marine News Magazine",
-      "lang": "en",
-      "title_ja": "ボスカリス・ウィンドパイパーが海底岩石設置船に改造される - 海洋ニュースマガジン"
+      "lang": "en"
     },
     {
       "sector_id": "quantum",
@@ -2040,13 +1912,12 @@
     },
     {
       "sector_id": "defense",
-      "title": "Video: This drone found an ‘invisible’ Chinese warship - cnn.com",
+      "title": "Video: This drone found an ‘invisible’ Chinese warship - CNN",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOWI1VUtpb0h1VWNVSDBEN1pmdGRrRGM5NGlsNUJhbkVpRkNFQVQyTThaMjhwSEtCdlZOc050ZWN1NXM0aUlLZXBXWHp6Y3QtVGhZNGx4V3VOTXpMRFdfTUk4OUFHdzFjR2c4V1o2T1ZxbUVaVl9sSDd1YUNoSm5vSUJTX3ByNkUzZjRnSA?oc=5",
-      "source": "cnn.com",
+      "source": "CNN",
       "published": "2026-07-30T18:13:26+00:00",
-      "summary": "Video: This drone found an ‘invisible’ Chinese warship&nbsp;&nbsp;cnn.com",
-      "lang": "en",
-      "title_ja": "ビデオ: このドローンは「見えない」中国軍艦を発見 - cnn.com"
+      "summary": "Video: This drone found an ‘invisible’ Chinese warship&nbsp;&nbsp;CNN",
+      "lang": "en"
     },
     {
       "sector_id": "foodtech",
@@ -2055,8 +1926,7 @@
       "source": "farmforum.net",
       "published": "2026-07-30T18:02:00+00:00",
       "summary": "NDSU to host 3rd annual North Dakota Controlled Environment Agriculture Conference&nbsp;&nbsp;farmforum.net",
-      "lang": "en",
-      "title_ja": "NDSU、第 3 回ノースダコタ管理環境農業会議を主催 - farmforum.net"
+      "lang": "en"
     },
     {
       "sector_id": "fusion",
@@ -2065,28 +1935,34 @@
       "source": "Interesting Engineering",
       "published": "2026-07-30T17:32:00+00:00",
       "summary": "World’s largest tokamak ITER installs 1,100-ton core module to confine fusion plasma&nbsp;&nbsp;Interesting Engineering",
-      "lang": "en",
-      "title_ja": "世界最大のトカマク型ITERは、核融合プラズマを閉じ込めるために1,100トンのコアモジュールを設置 - 興味深い工学"
+      "lang": "en"
     },
     {
       "sector_id": "biotech",
-      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - DVIDS",
+      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - dvidshub.net",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWJDYU4wYXMzektGcXo3YWZtN1gzWVI5bmtENHg4bmdZWFpEbFkwZnk0VUc1YU56REtwY2VvVFlIOW0yRDlVRDZIb1ZVOHM5dmxMbzFNdnd1OGVFblpkNGh4QlRRQjdIUHcycGY2YXM2MUluNUx3MVY4dlRzMEs5eEZLRHQ1VTdOXzJyVE9JTmpYMGhoaFNNcHF4cDZGWGRBSW85WElOWHF0OElhNnZFNjNXMlZXOTEzZlNCZ3lSUFdGbGViWmZnemlUOXg?oc=5",
-      "source": "DVIDS",
+      "source": "dvidshub.net",
       "published": "2026-07-30T16:33:00+00:00",
-      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;DVIDS",
-      "lang": "en",
-      "title_ja": "米国海軍研究所、重要物質のオンデマンド生産のための連続バイオマニュファクチャリングを推進 - DVIDS"
+      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;dvidshub.net",
+      "lang": "en"
     },
     {
       "sector_id": "biotech",
-      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - DVIDS",
+      "title": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials - dvidshub.net",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLWlJRmVPMnF0b3JZUjRRS21NdnpidFpLZ1pqaW05OTBKSDhna1gtRmNKMnd2WEhjdFljV245UVM1LU5LTG1WM1hFaVBJZFhfRU96bkZnSTNPRHFGRnBXUDBwMWlFWHp4eUU0Yks3RzlHOG9za0tGbzkxVlZySjN5aE5hY1psd09DclkxWXRsZm1JeXBZd2lsZ0M5OHVpYlYzU2N1a3JUUXlZTjZ1MGVBNTF3WDh3NnA2LWtVbFNCaHZyX1l3dUNKLWZibTFBSUE?oc=5",
-      "source": "DVIDS",
+      "source": "dvidshub.net",
       "published": "2026-07-30T16:32:00+00:00",
-      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;DVIDS",
-      "lang": "en",
-      "title_ja": "米国海軍研究所、重要物質のオンデマンド生産のための連続バイオマニュファクチャリングを推進 - DVIDS"
+      "summary": "U.S. Naval Research Lab Advances Continuous Biomanufacturing for On-Demand Production of Critical Materials&nbsp;&nbsp;dvidshub.net",
+      "lang": "en"
+    },
+    {
+      "sector_id": "quantum",
+      "title": "人気テーマ株速報：量子コンピュータ大幅高 マイクロソフトなどが注目＝米株ザラ場 - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGhHcjdLZ1JRbmR1cm5JV3VFaHhtcDR6S244aXdMa1FtLWdtYU9oT0c3dDk0TGxoZlFOQzhUM0VXd1RuempmLU52aGZ5SFl4YXgtMjdmVjYzQXJjYzRtZzd3NlBQRzBUSFdmc080ekp1T2dqa2dKa3BMWkJMOEpPUWVKY0lMSG1nZldwdG85QUptM0JnWENocEpPQXdGbENLTGJLRUVHa296Q3hRa1JVdW0wVjNpdHR0VWc?oc=5",
+      "source": "Moomoo",
+      "published": "2026-07-30T16:05:34+00:00",
+      "summary": "人気テーマ株速報：量子コンピュータ大幅高 マイクロソフトなどが注目＝米株ザラ場&nbsp;&nbsp;Moomoo",
+      "lang": "ja"
     },
     {
       "sector_id": "disaster_resilience",
@@ -2095,8 +1971,7 @@
       "source": "The Conversation",
       "published": "2026-07-30T15:51:30+00:00",
       "summary": "Canada’s government needs a better role in disaster preparedness&nbsp;&nbsp;The Conversation",
-      "lang": "en",
-      "title_ja": "カナダ政府は災害対策においてより良い役割を必要としている - 会話"
+      "lang": "en"
     },
     {
       "sector_id": "biotech",
@@ -2105,8 +1980,7 @@
       "source": "Cultivated X",
       "published": "2026-07-30T14:32:09+00:00",
       "summary": "China’s Fermentation Giants Turn to Mycoprotein as Pharma Margins Shrink&nbsp;&nbsp;Cultivated X",
-      "lang": "en",
-      "title_ja": "製薬会社の利益が縮小する中、中国の発酵大手企業がマイコプロテインに注目 - Cultivated X"
+      "lang": "en"
     },
     {
       "sector_id": "biotech",
@@ -2115,8 +1989,7 @@
       "source": "environment coastal & offshore",
       "published": "2026-07-30T14:24:21+00:00",
       "summary": "Reichman University Researchers Develop Biological Shield to Protect Marine Infrastructure from Corrosion&nbsp;&nbsp;environment coastal & offshore",
-      "lang": "en",
-      "title_ja": "ライヒマン大学の研究者が海洋インフラを腐食から守る生物学的シールドを開発 - 沿岸および沖合の環境"
+      "lang": "en"
     },
     {
       "sector_id": "disaster_resilience",
@@ -2125,18 +1998,16 @@
       "source": "The Business Journals",
       "published": "2026-07-30T14:17:00+00:00",
       "summary": "Drugmakers plan $750M expansion in suburban Cincinnati, will create 400 jobs&nbsp;&nbsp;The Business Journals",
-      "lang": "en",
-      "title_ja": "製薬会社、シンシナティ郊外で7億5,000万ドルの拡張計画、400人の雇用創出に - ビジネスジャーナル"
+      "lang": "en"
     },
     {
       "sector_id": "telecom",
-      "title": "FirstNet, Built with AT&T Launches First-Ever 5G Standalone Core Dedicated to Public Safety - AT&T",
+      "title": "FirstNet, Built with AT&T Launches First-Ever 5G Standalone Core Dedicated to Public Safety - about.att.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0eVdlWFhzanh2d3h6SEZGb05MT0tHbHZHc1JkaEJSSjZWOXp1UEQ5WGRxSDZhUGtBS3VGQTlQMjNaRFVaalRXYWtsUW5lNFJrVTJOZlpBZ3lyUFp3TjRhaUdwblVPNkw3NTZfN29wdm1fZkk?oc=5",
-      "source": "AT&T",
+      "source": "about.att.com",
       "published": "2026-07-30T14:00:00+00:00",
-      "summary": "FirstNet, Built with AT&amp;T Launches First-Ever 5G Standalone Core Dedicated to Public Safety&nbsp;&nbsp;AT&amp;T",
-      "lang": "en",
-      "title_ja": "AT&T と構築された FirstNet が公共安全専用の史上初の 5G スタンドアロン コアを発表 - AT&T"
+      "summary": "FirstNet, Built with AT&amp;T Launches First-Ever 5G Standalone Core Dedicated to Public Safety&nbsp;&nbsp;about.att.com",
+      "lang": "en"
     },
     {
       "sector_id": "disaster_resilience",
@@ -2145,8 +2016,7 @@
       "source": "Fierce Pharma",
       "published": "2026-07-30T12:35:30+00:00",
       "summary": "Lilly, Resilience commit $750M to boost US diabetes, obesity med production&nbsp;&nbsp;Fierce Pharma",
-      "lang": "en",
-      "title_ja": "リリー、レジリエンス、米国の糖尿病・肥満治療薬の生産促進に7億5,000万ドルをコミット - Fierce Pharma"
+      "lang": "en"
     },
     {
       "sector_id": "ocean",
@@ -2155,8 +2025,7 @@
       "source": "Marine Insight",
       "published": "2026-07-30T12:09:02+00:00",
       "summary": "Nigerian Navy Seizes Tanker Carrying 650 Tonnes Of Allegedly Stolen Crude Oil Off Akwa Ibom&nbsp;&nbsp;Marine Insight",
-      "lang": "en",
-      "title_ja": "ナイジェリア海軍、アクワ・イボム沖で盗まれたとされる原油650トンを積んだタンカーを拿捕 - Marine Insight"
+      "lang": "en"
     },
     {
       "sector_id": "foodtech",
@@ -2165,8 +2034,7 @@
       "source": "Cultivated X",
       "published": "2026-07-30T11:48:03+00:00",
       "summary": "New Review Maps AI Use Across the Alternative Protein Value Chain&nbsp;&nbsp;Cultivated X",
-      "lang": "en",
-      "title_ja": "代替タンパク質のバリューチェーン全体で AI を使用する新しいレビュー マップ - Cultivated X"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -2175,8 +2043,7 @@
       "source": "CNBC (Markets)",
       "published": "2026-07-27T14:22:15+00:00",
       "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
-      "lang": "en",
-      "title_ja": "シンガポール、原油価格上昇でインフレリスクが再燃、予想外の措置で金融政策を引き締め"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -2185,8 +2052,7 @@
       "source": "CNBC (Markets)",
       "published": "2026-07-17T14:13:49+00:00",
       "summary": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
-      "lang": "en",
-      "title_ja": "中国からの商品コストが2008年以来最高値に達する中、輸入価格は予想外の上昇を記録"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -2195,8 +2061,7 @@
       "source": "CNBC (Markets)",
       "published": "2026-07-15T11:33:19+00:00",
       "summary": "Several consecutive days of strikes exchanged between the U.S. and Iran have cast uncertainty on the European Central Bank's interest rate decision next week.",
-      "lang": "en",
-      "title_ja": "ホルムズでの敵対行為再燃でECB金利再考、「極めて不安定な」見通しを背景に"
+      "lang": "en"
     },
     {
       "sector_id": "content",
@@ -2205,8 +2070,7 @@
       "source": "CNBC (Markets)",
       "published": "2026-07-13T15:20:06+00:00",
       "summary": "Following a wave of price hikes, at-home pastimes like streaming movies or playing video games are pinching pocketbooks.",
-      "lang": "en",
-      "title_ja": "「ファンフレーション」が心に刺さる: 住み続けることが以前のようなコスト削減ではない理由"
+      "lang": "en"
     },
     {
       "sector_id": "ai_semicon",
@@ -2215,8 +2079,7 @@
       "source": "CNBC (Markets)",
       "published": "2026-07-13T10:56:52+00:00",
       "summary": "Inflation has risen for the eighth straight month in India, as food and energy prices rise due to the Iran war and deficient rainfall.",
-      "lang": "en",
-      "title_ja": "インドのインフレ率は6月に予想を上回る4.38％に加速"
+      "lang": "en"
     }
   ]
 }
