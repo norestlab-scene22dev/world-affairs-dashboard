@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:35:38.245114+00:00",
+  "generated_at": "2026-08-08T23:30:30.130588+00:00",
   "sectors": [
     {
       "sector_id": "quantum",
@@ -457,7 +457,7 @@
           "ticker": "BYND",
           "name": "Beyond Meat, Inc.",
           "price": 0.54,
-          "change_pct": 1.84,
+          "change_pct": 1.89,
           "currency": "USD"
         },
         {
@@ -468,7 +468,7 @@
           "currency": "JPY"
         }
       ],
-      "avg_change_pct": 0.98
+      "avg_change_pct": 1.0
     },
     {
       "sector_id": "defense",
