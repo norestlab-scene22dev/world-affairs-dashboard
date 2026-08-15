@@ -1,111 +1,6 @@
 {
-  "generated_at": "2026-08-14T23:23:19.101630+00:00",
+  "generated_at": "2026-08-15T23:21:49.513886+00:00",
   "sectors": [
-    {
-      "sector_id": "defense",
-      "name_ja": "防衛産業",
-      "stocks": [
-        {
-          "ticker": "7011.T",
-          "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 4254.0,
-          "change_pct": -0.05,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7012.T",
-          "name": "KAWASAKI HEAVY INDUSTRIES",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "LMT",
-          "name": "Lockheed Martin Corporation",
-          "price": 608.68,
-          "change_pct": 1.78,
-          "currency": "USD"
-        },
-        {
-          "ticker": "RTX",
-          "name": "RTX Corporation",
-          "price": 222.97,
-          "change_pct": 1.13,
-          "currency": "USD"
-        },
-        {
-          "ticker": "NOC",
-          "name": "Northrop Grumman Corporation",
-          "price": 585.87,
-          "change_pct": 1.94,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "shipbuilding",
-      "name_ja": "造船",
-      "stocks": [
-        {
-          "ticker": "7003.T",
-          "name": "MITSUI E&S CO LTD",
-          "price": 4345.0,
-          "change_pct": 1.49,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7012.T",
-          "name": "KAWASAKI HEAVY INDUSTRIES",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7014.T",
-          "name": "NAMURA SHIPBUILDING CO",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "JPY"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "materials",
-      "name_ja": "マテリアル(重要鉱物・部素材)",
-      "stocks": [
-        {
-          "ticker": "5401.T",
-          "name": "NIPPON STEEL CORPORATION",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "5713.T",
-          "name": "SUMITOMO METAL MINING CO",
-          "price": 9585.0,
-          "change_pct": -2.42,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "MP",
-          "name": "MP Materials Corp.",
-          "price": 58.74,
-          "change_pct": 5.53,
-          "currency": "USD"
-        },
-        {
-          "ticker": "5406.T",
-          "name": "KOBE STEEL",
-          "price": 1986.0,
-          "change_pct": 0.3,
-          "currency": "JPY"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
     {
       "sector_id": "biotech",
       "name_ja": "合成生物学・バイオ",
@@ -147,34 +42,6 @@
         }
       ],
       "avg_change_pct": 3.04
-    },
-    {
-      "sector_id": "foodtech",
-      "name_ja": "フードテック",
-      "stocks": [
-        {
-          "ticker": "2802.T",
-          "name": "AJINOMOTO CO INC",
-          "price": 5566.0,
-          "change_pct": -1.24,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "BYND",
-          "name": "Beyond Meat, Inc.",
-          "price": 13.47,
-          "change_pct": 8.06,
-          "currency": "USD"
-        },
-        {
-          "ticker": "2914.T",
-          "name": "JAPAN TOBACCO INC",
-          "price": 7132.0,
-          "change_pct": 0.91,
-          "currency": "JPY"
-        }
-      ],
-      "avg_change_pct": 2.58
     },
     {
       "sector_id": "ai_semicon",
@@ -359,6 +226,76 @@
       "avg_change_pct": 1.29
     },
     {
+      "sector_id": "defense",
+      "name_ja": "防衛産業",
+      "stocks": [
+        {
+          "ticker": "7011.T",
+          "name": "MITSUBISHI HEAVY INDUSTRIES",
+          "price": 4254.0,
+          "change_pct": -0.05,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "7012.T",
+          "name": "KAWASAKI HEAVY INDUSTRIES",
+          "price": 2849.5,
+          "change_pct": 1.12,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "LMT",
+          "name": "Lockheed Martin Corporation",
+          "price": 608.68,
+          "change_pct": 1.78,
+          "currency": "USD"
+        },
+        {
+          "ticker": "RTX",
+          "name": "RTX Corporation",
+          "price": 222.97,
+          "change_pct": 1.47,
+          "currency": "USD"
+        },
+        {
+          "ticker": "NOC",
+          "name": "Northrop Grumman Corporation",
+          "price": 585.87,
+          "change_pct": 1.94,
+          "currency": "USD"
+        }
+      ],
+      "avg_change_pct": 1.25
+    },
+    {
+      "sector_id": "shipbuilding",
+      "name_ja": "造船",
+      "stocks": [
+        {
+          "ticker": "7003.T",
+          "name": "MITSUI E&S CO LTD",
+          "price": 4345.0,
+          "change_pct": 1.49,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "7012.T",
+          "name": "KAWASAKI HEAVY INDUSTRIES",
+          "price": 2849.5,
+          "change_pct": 1.12,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "7014.T",
+          "name": "NAMURA SHIPBUILDING CO",
+          "price": 4455.0,
+          "change_pct": 0.79,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": 1.13
+    },
+    {
       "sector_id": "disaster_resilience",
       "name_ja": "防災・国土強靱化",
       "stocks": [
@@ -385,6 +322,41 @@
         }
       ],
       "avg_change_pct": 0.99
+    },
+    {
+      "sector_id": "materials",
+      "name_ja": "マテリアル(重要鉱物・部素材)",
+      "stocks": [
+        {
+          "ticker": "5401.T",
+          "name": "NIPPON STEEL CORPORATION",
+          "price": 676.3,
+          "change_pct": -0.21,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "5713.T",
+          "name": "SUMITOMO METAL MINING CO",
+          "price": 9585.0,
+          "change_pct": -2.42,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "MP",
+          "name": "MP Materials Corp.",
+          "price": 58.74,
+          "change_pct": 5.53,
+          "currency": "USD"
+        },
+        {
+          "ticker": "5406.T",
+          "name": "KOBE STEEL",
+          "price": 1986.0,
+          "change_pct": 0.3,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": 0.8
     },
     {
       "sector_id": "pharma",
@@ -520,6 +492,34 @@
       "avg_change_pct": -0.03
     },
     {
+      "sector_id": "foodtech",
+      "name_ja": "フードテック",
+      "stocks": [
+        {
+          "ticker": "2802.T",
+          "name": "AJINOMOTO CO INC",
+          "price": 5566.0,
+          "change_pct": -1.24,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "BYND",
+          "name": "Beyond Meat, Inc.",
+          "price": NaN,
+          "change_pct": NaN,
+          "currency": "USD"
+        },
+        {
+          "ticker": "2914.T",
+          "name": "JAPAN TOBACCO INC",
+          "price": 7132.0,
+          "change_pct": 0.91,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": NaN
+    },
+    {
       "sector_id": "content",
       "name_ja": "コンテンツ",
       "stocks": [
@@ -540,8 +540,8 @@
         {
           "ticker": "7832.T",
           "name": "BANDAI NAMCO HOLDINGS INC",
-          "price": NaN,
-          "change_pct": NaN,
+          "price": 5435.0,
+          "change_pct": 3.48,
           "currency": "JPY"
         },
         {
@@ -559,7 +559,7 @@
           "currency": "USD"
         }
       ],
-      "avg_change_pct": NaN
+      "avg_change_pct": 2.53
     }
   ]
 }
