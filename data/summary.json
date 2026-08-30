@@ -1,316 +1,306 @@
 {
-  "generated_at": "2026-08-29T04:03:55.885763+00:00",
+  "generated_at": "2026-08-30T01:07:32.933121+00:00",
   "lookback_hours": 30,
-  "total_articles": 266,
-  "headline": "直近30時間で266件のニュースを検出。 報道量が多い分野はAI・半導体(44件)、デジタル・サイバーセキュリティ(23件)、航空・宇宙(19件)。 株価インパクトが大きい分野はAI・半導体(+nan%)、デジタル・サイバーセキュリティ(+nan%)、情報通信(+nan%)。",
+  "total_articles": 228,
+  "headline": "直近30時間で228件のニュースを検出。 報道量が多い分野はAI・半導体(34件)、デジタル・サイバーセキュリティ(21件)、コンテンツ(21件)。 株価インパクトが大きい分野は海洋(+2.6%)、量子(-2.5%)、フュージョンエネルギー(-2.5%)。",
   "top_count_sectors": [
     "ai_semicon",
     "digital_cyber",
-    "aerospace"
+    "content"
   ],
   "top_impact_sectors": [
-    "ai_semicon",
-    "digital_cyber",
-    "telecom"
+    "ocean",
+    "quantum",
+    "fusion"
   ],
   "sectors": [
     {
       "sector_id": "ai_semicon",
       "name_ja": "AI・半導体",
-      "article_count": 44,
-      "avg_change_pct": NaN,
+      "article_count": 34,
+      "avg_change_pct": -0.9,
       "top_keywords": [
         "AI",
         "chip",
+        "artificial intelligence",
         "半導体",
-        "Nvidia",
-        "artificial intelligence"
+        "Nvidia"
       ],
       "top_titles": [
-        "Sumitomo aims for world's largest leased fleet of 2,000-plus planes",
-        "Japan's diversified trading houses 'suited' for uncertain times: Itochu chief",
-        "'Dairyland' Wisconsin hopes to ride protein boom into Asia"
+        "AI robots and drones to assist in Fukushima nuclear plant cleanup",
+        "競馬 - 2026年日高ステークス AI予想 - スポーツナビ",
+        "35台のヒューマノイドがずらり フィジカルAIの学習データはどう作る？ J-HRTIが大規模データファクトリーを開設 - ロボスタ"
       ],
-      "headline": "直近30時間で44件のニュースを検出。 話題のキーワード: AI、chip、半導体、Nvidia、artificial intelligence。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で34件のニュースを検出。 話題のキーワード: AI、chip、artificial intelligence、半導体、Nvidia。 代表銘柄の平均株価は前日比-0.9%。"
     },
     {
       "sector_id": "digital_cyber",
       "name_ja": "デジタル・サイバーセキュリティ",
-      "article_count": 23,
-      "avg_change_pct": NaN,
+      "article_count": 21,
+      "avg_change_pct": -1.67,
       "top_keywords": [
         "data center",
+        "データセンター",
         "自動運転",
-        "クラウド",
-        "データセンター"
+        "クラウド"
       ],
       "top_titles": [
-        "Amazonが「自動車製造」部門を立ち上げ - 自動運転ラボ",
-        "Data Center impacts discussed at Harwood public forum - Valley News Live",
-        "大阪 遠隔監視の自動運転トラクター発売 農家の負担軽減へ - NHKニュース"
+        "Effingham Residents Press Commissioners Over OpenAI Data Center - Effingham Herald",
+        "Lawsuit challenges St. Louis data center permit over zoning concerns - FOX 2",
+        "OpenAI data center sparks intense debate at Effingham County meeting - thecurrentga.org"
       ],
-      "headline": "直近30時間で23件のニュースを検出。 話題のキーワード: data center、自動運転、クラウド、データセンター。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で21件のニュースを検出。 話題のキーワード: data center、データセンター、自動運転、クラウド。 代表銘柄の平均株価は前日比-1.7%。"
     },
     {
       "sector_id": "telecom",
       "name_ja": "情報通信",
-      "article_count": 14,
-      "avg_change_pct": NaN,
+      "article_count": 15,
+      "avg_change_pct": 0.69,
       "top_keywords": [
         "5G",
-        "光通信",
         "optical network"
       ],
       "top_titles": [
-        "Nokia Oyj (HLSE:NOKIA) Bets On 5G And AI As Valuation Debate Heats Up - simplywall.st",
-        "Apple Is Ripping Off 5G Tech Patents, Longhorn Affiliate Says - Law360",
-        "vivo T5 5Gの発売日が決定：Dimensity 7500 Turboチップ、7,050mAhバッテリー、144Hzディスプレイ搭載。 - Vietnam.vn"
+        "Japan defense forces to use NTT's optical network tech for communications",
+        "povo2.0で5G SAが利用可能に！iPhoneでの変更手順と注意点を解説⁠ - iPhone Mania - iPhone Mania",
+        "Redmi Note 17 5GとRedmi Note 15 5Gの詳細な比較 - Vietnam.vn"
       ],
-      "headline": "直近30時間で14件のニュースを検出。 話題のキーワード: 5G、光通信、optical network。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で15件のニュースを検出。 話題のキーワード: 5G、optical network。 代表銘柄の平均株価は前日比+0.7%。"
     },
     {
       "sector_id": "quantum",
       "name_ja": "量子",
-      "article_count": 13,
-      "avg_change_pct": NaN,
+      "article_count": 12,
+      "avg_change_pct": -2.54,
       "top_keywords": [
         "quantum computing",
-        "量子コンピュータ",
-        "量子暗号"
+        "量子コンピュータ"
       ],
       "top_titles": [
-        "Quantum Computing’s Insiders Have Sold Nearly $863 Million More Than They’ve Bought. Should Investors Worry? - Yahoo Finance",
-        "Quantum Computing Firm Pasqal Jumps 52% in Debut Via SPAC Merger - Bloomberg.com",
-        "Quantum Computing Is Closer Than Insurers Think - Insurance Innovation Reporter"
+        "Is Quantum Computing (QUBT) Quietly Redefining Its Edge With Chip Acquisition And Dirac-3 Deployments? - Yahoo Finance",
+        "Why I Wouldn't Touch IonQ, Even With Quantum Computing Stocks Soaring - The Motley Fool",
+        "リップル、量子コンピューターの脅威からXRP台帳を守る4段階の防衛計画を策定 - BigGo ファイナンス"
       ],
-      "headline": "直近30時間で13件のニュースを検出。 話題のキーワード: quantum computing、量子コンピュータ、量子暗号。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で12件のニュースを検出。 話題のキーワード: quantum computing、量子コンピュータ。 代表銘柄の平均株価は前日比-2.5%。"
     },
     {
       "sector_id": "defense",
       "name_ja": "防衛産業",
       "article_count": 14,
-      "avg_change_pct": NaN,
+      "avg_change_pct": 0.08,
       "top_keywords": [
         "無人機",
-        "warship",
-        "防衛装備",
-        "defense industry"
+        "defense industry",
+        "unmanned aircraft",
+        "dual-use technology",
+        "防衛装備"
       ],
       "top_titles": [
-        "ロシアに無人機１日千機投入へ ウクライナ、長距離攻撃 | | 全国のニュース - 佐賀新聞",
-        "ゼレンスキー氏、長距離攻撃で「無人機を毎日１０００機投入」指示…「侵略続ける代償」負わせる狙い - 読売新聞",
-        "試験を通過したのは一社のみ!? 防衛装備庁の「迎撃ドローン」量産にテラドローンが決定！ 38社の中から唯一選ばれた「Terra B1」とは!?（1/2 ページ） - 乗りものニュース"
+        "Preparing to fly a small unmanned aircraft system during Exercise Saber Junction - europeafrica.army.mil",
+        "ロシア軍の無人機攻撃で倉庫が爆発し37人死亡 ウクライナの首都キーウ近郊 現場では近くに弾薬保管か - TBS NEWS DIG",
+        "ロシア軍の無人機攻撃で倉庫が爆発し37人死亡 ウクライナの首都キーウ近郊 現場では近くに弾薬保管か - Yahoo!ニュース"
       ],
-      "headline": "直近30時間で14件のニュースを検出。 話題のキーワード: 無人機、warship、防衛装備、defense industry。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で14件のニュースを検出。 話題のキーワード: 無人機、defense industry、unmanned aircraft、dual-use technology、防衛装備。 代表銘柄の平均株価は前日比+0.1%。"
     },
     {
       "sector_id": "aerospace",
       "name_ja": "航空・宇宙",
-      "article_count": 19,
-      "avg_change_pct": NaN,
+      "article_count": 17,
+      "avg_change_pct": -0.63,
       "top_keywords": [
-        "ロケット",
         "satellite",
-        "宇宙産業",
+        "ロケット",
         "空飛ぶクルマ"
       ],
       "top_titles": [
-        "【ポケポケ】ロケット団のファイヤーexデッキのレシピと評価【ポケモンカードアプリ】 - GameWith",
-        "ロケット・ラブUSA【RKLB】：株価・株式情報 - Yahoo!ファイナンス",
-        "Satellite Titan SES, Pop Star Shakira Race To Aid Quake-Hit Colombians - Forbes"
+        "Ｈ３ロケット、１０日飛行再開 - 福井新聞社",
+        "Airbus Considers Sale of U.S. Satellite Manufacturing Facility in Strategic Shift Toward European Production - satnews.com",
+        "1966 Plymouth Satellite Looks Like a Rare Hemi Gem, but There's a Catch - autoevolution"
       ],
-      "headline": "直近30時間で19件のニュースを検出。 話題のキーワード: ロケット、satellite、宇宙産業、空飛ぶクルマ。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で17件のニュースを検出。 話題のキーワード: satellite、ロケット、空飛ぶクルマ。 代表銘柄の平均株価は前日比-0.6%。"
     },
     {
       "sector_id": "ocean",
       "name_ja": "海洋",
-      "article_count": 3,
-      "avg_change_pct": NaN,
+      "article_count": 5,
+      "avg_change_pct": 2.58,
       "top_keywords": [
-        "seabed mining",
-        "maritime domain awareness"
+        "seabed mining"
       ],
       "top_titles": [
-        "Marianas Voices Demand A Seat At The Table In U.S. Seabed Mining Proposal - Eurasia Review",
-        "相模運輸倉庫及び京浜ドックとの「海洋のDX」具現化に係る共同検討推進協力覚書締結 - ニコニコニュース",
-        "Maritime Domain Awareness Of Allies, Partners Seeks To Turn Detection Into Action - Eurasia Review"
+        "NOAA Seeking Comments For Deep Sea Mining Project - DeeperBlue.com",
+        "Asian energy security and the Suez Canal - Opinion - Opinion - Ahram Online",
+        "Indonesia Eyes Eight Japanese New FFM Frigates in Indo-Pacific Power Shift - Defence Security Asia"
       ],
-      "headline": "直近30時間で3件のニュースを検出。 話題のキーワード: seabed mining、maritime domain awareness。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で5件のニュースを検出。 話題のキーワード: seabed mining。 代表銘柄の平均株価は前日比+2.6%。"
     },
     {
       "sector_id": "shipbuilding",
       "name_ja": "造船",
-      "article_count": 15,
-      "avg_change_pct": NaN,
+      "article_count": 11,
+      "avg_change_pct": 1.9,
       "top_keywords": [
         "造船",
-        "shipbuilding",
-        "LNG carrier"
+        "shipbuilding"
       ],
       "top_titles": [
-        "伊万里港を造船拠点に 政府の地域未来戦略に計画、機能大幅強化へ（朝日新聞） - Yahoo!ニュース",
-        "Solano County opponents take Collinsville fight to Sacramento - The Vacaville Reporter",
-        "［佐賀県］造船、コスメ産業を選定 政府推進の地域未来戦略 県内分 - au Webポータル"
+        "山木工業建造船「あかつき」 ５日小名浜でお披露目 船内見学も - 福島民報デジタル",
+        "山木工業建造船「あかつき」 ５日小名浜でお披露目 船内見学も - 47NEWS",
+        "Maersk Line keen to invest in shipbuilding - New Age BD"
       ],
-      "headline": "直近30時間で15件のニュースを検出。 話題のキーワード: 造船、shipbuilding、LNG carrier。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で11件のニュースを検出。 話題のキーワード: 造船、shipbuilding。 代表銘柄の平均株価は前日比+1.9%。"
     },
     {
       "sector_id": "materials",
       "name_ja": "マテリアル(重要鉱物・部素材)",
       "article_count": 13,
-      "avg_change_pct": NaN,
+      "avg_change_pct": -0.66,
       "top_keywords": [
-        "レアアース",
         "rare earth",
-        "重要鉱物",
+        "レアアース",
         "critical minerals"
       ],
       "top_titles": [
-        "中国共産党、江西省長を調査 レアアース絡みの汚職か - 日本経済新聞",
-        "「都市鉱山」は宝の山 国富流出阻止へ東京都が本腰 狙いは金銀銅、レアアース… - 産経ニュース",
-        "Cyclic lands $75M for rare earth buildout - Metal Tech News"
+        "USA Rare Earth (USAR) Stock Dropped, So What Is Driving Attention Now? - simplywall.st",
+        "先端技術 一体支援強化 政府方針 レアアース開発加速 - 読売新聞",
+        "先端技術 一体支援強化…政府方針 レアアース開発加速 - 読売新聞"
       ],
-      "headline": "直近30時間で13件のニュースを検出。 話題のキーワード: レアアース、rare earth、重要鉱物、critical minerals。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で13件のニュースを検出。 話題のキーワード: rare earth、レアアース、critical minerals。 代表銘柄の平均株価は前日比-0.7%。"
     },
     {
       "sector_id": "pharma",
       "name_ja": "創薬・先端医療",
-      "article_count": 15,
-      "avg_change_pct": NaN,
+      "article_count": 12,
+      "avg_change_pct": -0.62,
       "top_keywords": [
         "medical device",
-        "創薬",
-        "バイオ医薬品",
         "drug discovery",
-        "再生医療"
+        "iPS細胞",
+        "再生医療",
+        "バイオ医薬品"
       ],
       "top_titles": [
-        "‘An act of God’: Owasco man’s life saved by medical device he donated to church 19 years ago - auburnpub.com",
-        "ピクテ･バイオ医薬品ファンド(毎月決算型)為替ヘッジなしコース【4231104A】：基準価格・投資信託情報 - Yahoo!ファイナンス",
-        "UFP Technologies Targets 12%-18% Growth as Medical Device M&A Pipeline Builds - MarketBeat"
+        "iPS細胞20年 - 毎日新聞",
+        "PARS 2026：形成外科・再建外科および再生医療に関するフォーラム - Vietnam.vn",
+        "Revealing cell-cell interactions in immuno-oncology - Drug Discovery News"
       ],
-      "headline": "直近30時間で15件のニュースを検出。 話題のキーワード: medical device、創薬、バイオ医薬品、drug discovery、再生医療。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で12件のニュースを検出。 話題のキーワード: medical device、drug discovery、iPS細胞、再生医療、バイオ医薬品。 代表銘柄の平均株価は前日比-0.6%。"
     },
     {
       "sector_id": "biotech",
       "name_ja": "合成生物学・バイオ",
-      "article_count": 7,
-      "avg_change_pct": NaN,
+      "article_count": 5,
+      "avg_change_pct": 1.24,
       "top_keywords": [
-        "biomanufacturing"
+        "biomanufacturing",
+        "synthetic biology"
       ],
       "top_titles": [
-        "Argentine firm Biosidus completes $12.9m biomanufacturing expansion - BioProcess International",
-        "U of L lab collaborates with Canadian Space Agency on extraterrestrial biomanufacturing project - Lethbridge News Now",
-        "Latta leads bill to bring more manufacturing back to America - Ripon Advance"
+        "Navigating regulatory fragmentation in the convergence of synthetic biology, artificial intelligence, and automation - Nature",
+        "byアモン (@baillamont0319) on X - t.co",
+        "Argentine firm Biosidus completes $12.9m biomanufacturing expansion - BioProcess International"
       ],
-      "headline": "直近30時間で7件のニュースを検出。 話題のキーワード: biomanufacturing。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で5件のニュースを検出。 話題のキーワード: biomanufacturing、synthetic biology。 代表銘柄の平均株価は前日比+1.2%。"
     },
     {
       "sector_id": "energy_gx",
       "name_ja": "資源・エネルギー安全保障・GX",
-      "article_count": 17,
-      "avg_change_pct": NaN,
+      "article_count": 15,
+      "avg_change_pct": -1.59,
       "top_keywords": [
-        "水素",
         "offshore wind",
+        "水素",
         "洋上風力"
       ],
       "top_titles": [
-        "政府、民間企業へ海洋情報を一元化 洋上風力やドローンの活用にらみ - 日本経済新聞",
-        "「水素社会実現へ成果積み上げ」福島県も賛同、公用車で貢献へ 推進協議会地域準備会:地域ニュース - 福島民友新聞社",
-        "California sues Trump administration to bring back an offshore wind project - San Diego Union-Tribune"
+        "レゴ・ロイコペだけじゃない…デンマークが輸出増に期待する医薬・オーガニックと洋上風力発電 - 東京新聞",
+        "Across the Mediterranean, offshore wind farms are quietly learning to do something they were never built for - Energies Media",
+        "北海道大学、大学院生がフッ化水素酸を被って死亡 声明発表「重く受け止めております」【全文】 - 山陽新聞"
       ],
-      "headline": "直近30時間で17件のニュースを検出。 話題のキーワード: 水素、offshore wind、洋上風力。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で15件のニュースを検出。 話題のキーワード: offshore wind、水素、洋上風力。 代表銘柄の平均株価は前日比-1.6%。"
     },
     {
       "sector_id": "fusion",
       "name_ja": "フュージョンエネルギー",
-      "article_count": 16,
-      "avg_change_pct": NaN,
+      "article_count": 10,
+      "avg_change_pct": -2.47,
       "top_keywords": [
-        "核融合",
         "ITER",
         "nuclear fusion",
-        "フュージョンエネルギー"
+        "核融合"
       ],
       "top_titles": [
-        "Before he was old enough to drive, a 14-year-old talked a university physics department into lending him a sub-basement — the machine he assembled there fused atoms in a plasma hotter than the sun's core and made him the youngest person ever to achiev - Space Daily",
-        "ITER vacuum vessel exempted from fission-based regulation - American Nuclear Society -- ANS",
-        "What Is Nuclear Fusion? | Fusion Power Explained | Nuclear Fusion Reaction In Sun | Dr. Binocs Show Salvador (irjlLRF5JJ) - Mshale"
+        "Nuclear fusion investments surge as US competes for energy dominance - Fox News",
+        "Nuclear Fusion: New US-China Race for Limitless Power - Newsweek",
+        "Massachusetts plans New England summit on advanced nuclear, fusion, and lower electric bills - Yahoo"
       ],
-      "headline": "直近30時間で16件のニュースを検出。 話題のキーワード: 核融合、ITER、nuclear fusion、フュージョンエネルギー。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で10件のニュースを検出。 話題のキーワード: ITER、nuclear fusion、核融合。 代表銘柄の平均株価は前日比-2.5%。"
     },
     {
       "sector_id": "disaster_resilience",
       "name_ja": "防災・国土強靱化",
-      "article_count": 14,
-      "avg_change_pct": NaN,
+      "article_count": 13,
+      "avg_change_pct": -0.46,
       "top_keywords": [
-        "防災",
-        "国土強靱化"
+        "防災"
       ],
       "top_titles": [
-        "防災の日、東京都内で大規模交通規制 首都直下地震に備え訓練 - 日本経済新聞",
-        "大分県地域防災計画を見直し、南海トラフ臨時情報「警戒」なら県立学校は1週間休校（大分合同新聞） - Yahoo!ニュース",
-        "【関東】9月1日は「防災の日」 地域の安全・安心を守りたい 貢献の汗光る創価の友 - seikyoonline.com"
+        "早め避難の大切さ学ぶ １３０人参加し防災訓練 能代市南部地域 - 北羽新報社",
+        "「在宅避難」に必須の防災用品をどう選ぶ？ 「ポータブル電源」と「ソーラーパネル」のチェックポイント【最新事情】 - Yahoo!ニュース",
+        "「在宅避難」に必須の防災用品をどう選ぶ？ 「ポータブル電源」と「ソーラーパネル」のチェックポイント【最新事情】 - AERA DIGITAL"
       ],
-      "headline": "直近30時間で14件のニュースを検出。 話題のキーワード: 防災、国土強靱化。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で13件のニュースを検出。 話題のキーワード: 防災。 代表銘柄の平均株価は前日比-0.5%。"
     },
     {
       "sector_id": "port_logistics",
       "name_ja": "港湾ロジスティクス",
-      "article_count": 13,
-      "avg_change_pct": NaN,
+      "article_count": 4,
+      "avg_change_pct": 1.02,
       "top_keywords": [
-        "港湾",
-        "cyberport",
-        "automated warehouse",
-        "物流DX"
+        "物流DX",
+        "港湾"
       ],
       "top_titles": [
-        "ロジザード25周年､金澤氏｢総合物流DXベンダーへ｣ - LOGISTICS TODAY",
-        "Cyberport Hosts Hong Kong's First eVTOL Test Flight, Accelerating Low-Altitude Economy and Smart Industry Development - 巴士的報",
-        "\"Digital Entertainment Leadership Forum 2026\" Opens Today - Malay Mail"
+        "物流DX「ロジポケ」、「巡回指導・Gマーク無料AI診断」を無料公開 - Infoseek",
+        "DELF 2026: How Hong Kong Is Turning AI Into an Entertainment Industry - DKNews.kz",
+        "港湾防災のもろさ露呈 八代、液状化で物流停止 - 山陽新聞"
       ],
-      "headline": "直近30時間で13件のニュースを検出。 話題のキーワード: 港湾、cyberport、automated warehouse、物流DX。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で4件のニュースを検出。 話題のキーワード: 物流DX、港湾。 代表銘柄の平均株価は前日比+1.0%。"
     },
     {
       "sector_id": "foodtech",
       "name_ja": "フードテック",
-      "article_count": 8,
-      "avg_change_pct": NaN,
+      "article_count": 6,
+      "avg_change_pct": -0.65,
       "top_keywords": [
         "陸上養殖",
-        "vertical farming",
-        "alternative protein",
-        "フードテック"
+        "植物工場",
+        "foodtech"
       ],
       "top_titles": [
-        "“サケのまち・村上” 世界初「シロザケ陸上完全養殖」に挑戦 5万5000匹から1400匹へ激減 『好適環境水』で村上の稚魚順調に成長 新潟（ＢＳＮ新潟放送） - Yahoo!ニュース",
-        "陸上養殖の未利用資源活用プロジェクトに取り組む 長房秀幸（ながふさひでゆき）さん（焼津市） - 静岡新聞DIGITAL",
-        "Fieldlab vertical farming continues with a focus on hybrid cultivation - Vertical Farm Daily"
+        "本県漁業の新たな星に ホシガレイ陸上養殖実証開始 腸内細菌使い生存率向上 梅田氏（いわき出身京大名誉教授）の企業担う - 福島民報デジタル",
+        "＜政治メモ＞鈴木氏「風力発電利用し、植物工場も」 - 北海道新聞デジタル",
+        "魚介類の陸上養殖用タンク開発 萩原工業、シート活用し安価軽量に - 山陽新聞"
       ],
-      "headline": "直近30時間で8件のニュースを検出。 話題のキーワード: 陸上養殖、vertical farming、alternative protein、フードテック。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で6件のニュースを検出。 話題のキーワード: 陸上養殖、植物工場、foodtech。 代表銘柄の平均株価は前日比-0.7%。"
     },
     {
       "sector_id": "content",
       "name_ja": "コンテンツ",
-      "article_count": 18,
-      "avg_change_pct": NaN,
+      "article_count": 21,
+      "avg_change_pct": 2.15,
       "top_keywords": [
-        "アニメ",
-        "video game",
         "ゲーム",
+        "video game",
         "anime",
-        "マンガ"
+        "アニメ"
       ],
       "top_titles": [
-        "Video game industry leaders accused of price-fixing conspiracy - Courthouse News",
-        "夏アニメ『プラノサウルス ガチコセイブツ部』第8話あらすじ＆先行カット - アニメイトタイムズ",
-        "ゲームは芸術だ 栃木県立美術館が「信長の野望」めぐる異色の企画展 [栃木県] - 朝日新聞"
+        "2026-27シーズン ホームゲーム演出に関するお知らせ - 熊本ヴォルターズ",
+        "Retro video game store destroyed in fire at Sacramento area flea market - CBS News",
+        "‘A Direct Response’: Global Anime Challenge Members on the Future of the Industry - anitrendz.net"
       ],
-      "headline": "直近30時間で18件のニュースを検出。 話題のキーワード: アニメ、video game、ゲーム、anime、マンガ。 代表銘柄の平均株価は前日比+nan%。"
+      "headline": "直近30時間で21件のニュースを検出。 話題のキーワード: ゲーム、video game、anime、アニメ。 代表銘柄の平均株価は前日比+2.1%。"
     }
   ]
 }
