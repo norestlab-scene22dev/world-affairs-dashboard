@@ -1,250 +1,40 @@
 {
-  "generated_at": "2026-09-12T00:58:09.606419+00:00",
+  "generated_at": "2026-09-13T00:39:27.038268+00:00",
   "sectors": [
     {
-      "sector_id": "ai_semicon",
-      "name_ja": "AI・半導体",
+      "sector_id": "materials",
+      "name_ja": "マテリアル(重要鉱物・部素材)",
       "stocks": [
         {
-          "ticker": "8035.T",
-          "name": "TOKYO ELECTRON",
-          "price": 51460.0,
-          "change_pct": -2.56,
+          "ticker": "5401.T",
+          "name": "NIPPON STEEL CORPORATION",
+          "price": 686.4,
+          "change_pct": -0.61,
           "currency": "JPY"
         },
         {
-          "ticker": "6857.T",
-          "name": "ADVANTEST CORP",
-          "price": 31720.0,
-          "change_pct": -6.49,
+          "ticker": "5713.T",
+          "name": "SUMITOMO METAL MINING CO",
+          "price": 9484.0,
+          "change_pct": -6.93,
           "currency": "JPY"
         },
         {
-          "ticker": "6758.T",
-          "name": "SONY GROUP CORPORATION",
-          "price": 3632.0,
-          "change_pct": -0.22,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "NVDA",
-          "name": "NVIDIA Corporation",
-          "price": NaN,
-          "change_pct": NaN,
+          "ticker": "MP",
+          "name": "MP Materials Corp.",
+          "price": 50.51,
+          "change_pct": -1.58,
           "currency": "USD"
         },
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor Manufactur",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "digital_cyber",
-      "name_ja": "デジタル・サイバーセキュリティ",
-      "stocks": [
-        {
-          "ticker": "4307.T",
-          "name": "NOMURA RESEARCH INSTITUTE",
-          "price": 4901.0,
-          "change_pct": -0.2,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "CRWD",
-          "name": "CrowdStrike Holdings, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "PANW",
-          "name": "Palo Alto Networks, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "FTNT",
-          "name": "Fortinet, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "telecom",
-      "name_ja": "情報通信",
-      "stocks": [
-        {
-          "ticker": "9432.T",
-          "name": "NTT INC",
-          "price": 175.7,
-          "change_pct": 0.29,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "9433.T",
-          "name": "KDDI CORPORATION",
-          "price": 3031.0,
-          "change_pct": 0.76,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "9434.T",
-          "name": "SOFTBANK CORP.",
-          "price": 246.9,
-          "change_pct": 1.52,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "6701.T",
-          "name": "NEC CORP",
-          "price": 4536.0,
-          "change_pct": -1.11,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "CSCO",
-          "name": "Cisco Systems, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "quantum",
-      "name_ja": "量子",
-      "stocks": [
-        {
-          "ticker": "6702.T",
-          "name": "FUJITSU",
-          "price": 3749.0,
-          "change_pct": -1.03,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "IBM",
-          "name": "International Business Machines",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "IONQ",
-          "name": "IonQ, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "RGTI",
-          "name": "Rigetti Computing, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "defense",
-      "name_ja": "防衛産業",
-      "stocks": [
-        {
-          "ticker": "7011.T",
-          "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 3705.0,
-          "change_pct": -0.48,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7012.T",
-          "name": "KAWASAKI HEAVY INDUSTRIES",
-          "price": 2319.0,
-          "change_pct": -1.28,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "LMT",
-          "name": "Lockheed Martin Corporation",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "RTX",
-          "name": "RTX Corporation",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "NOC",
-          "name": "Northrop Grumman Corporation",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "aerospace",
-      "name_ja": "航空・宇宙",
-      "stocks": [
-        {
-          "ticker": "7013.T",
-          "name": "IHI CORPORATION",
-          "price": 2665.0,
-          "change_pct": 0.06,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7011.T",
-          "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 3705.0,
-          "change_pct": -0.48,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "BA",
-          "name": "Boeing Company (The)",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "RKLB",
-          "name": "Rocket Lab Corporation",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        },
-        {
-          "ticker": "9348.T",
-          "name": "ISPACE INC",
-          "price": 411.0,
-          "change_pct": -0.72,
+          "ticker": "5406.T",
+          "name": "KOBE STEEL",
+          "price": 2021.0,
+          "change_pct": -0.42,
           "currency": "JPY"
         }
       ],
-      "avg_change_pct": NaN
+      "avg_change_pct": -2.39
     },
     {
       "sector_id": "shipbuilding",
@@ -296,39 +86,46 @@
       "avg_change_pct": -1.83
     },
     {
-      "sector_id": "materials",
-      "name_ja": "マテリアル(重要鉱物・部素材)",
+      "sector_id": "content",
+      "name_ja": "コンテンツ",
       "stocks": [
         {
-          "ticker": "5401.T",
-          "name": "NIPPON STEEL CORPORATION",
-          "price": 686.4,
-          "change_pct": -0.61,
+          "ticker": "9697.T",
+          "name": "CAPCOM CO LTD",
+          "price": 4240.0,
+          "change_pct": 1.05,
           "currency": "JPY"
         },
         {
-          "ticker": "5713.T",
-          "name": "SUMITOMO METAL MINING CO",
-          "price": 9484.0,
-          "change_pct": -6.93,
+          "ticker": "9766.T",
+          "name": "KONAMI GROUP CORPORATION",
+          "price": 20730.0,
+          "change_pct": 1.87,
           "currency": "JPY"
         },
         {
-          "ticker": "MP",
-          "name": "MP Materials Corp.",
-          "price": NaN,
-          "change_pct": NaN,
+          "ticker": "7832.T",
+          "name": "BANDAI NAMCO HOLDINGS INC",
+          "price": 5359.0,
+          "change_pct": 2.35,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "DIS",
+          "name": "Walt Disney Company (The)",
+          "price": 106.55,
+          "change_pct": 0.69,
           "currency": "USD"
         },
         {
-          "ticker": "5406.T",
-          "name": "KOBE STEEL",
-          "price": 2021.0,
-          "change_pct": -0.42,
-          "currency": "JPY"
+          "ticker": "NFLX",
+          "name": "Netflix, Inc.",
+          "price": 77.4,
+          "change_pct": 1.83,
+          "currency": "USD"
         }
       ],
-      "avg_change_pct": NaN
+      "avg_change_pct": 1.56
     },
     {
       "sector_id": "pharma",
@@ -351,89 +148,96 @@
         {
           "ticker": "PFE",
           "name": "Pfizer, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
+          "price": 27.72,
+          "change_pct": 0.25,
           "currency": "USD"
         },
         {
           "ticker": "MRNA",
           "name": "Moderna, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
+          "price": 143.97,
+          "change_pct": 5.38,
           "currency": "USD"
         }
       ],
-      "avg_change_pct": NaN
+      "avg_change_pct": 1.46
     },
     {
-      "sector_id": "biotech",
-      "name_ja": "合成生物学・バイオ",
+      "sector_id": "digital_cyber",
+      "name_ja": "デジタル・サイバーセキュリティ",
       "stocks": [
         {
-          "ticker": "4519.T",
-          "name": "CHUGAI PHARMACEUTICAL CO",
-          "price": 6422.0,
-          "change_pct": 0.06,
+          "ticker": "4307.T",
+          "name": "NOMURA RESEARCH INSTITUTE",
+          "price": 4901.0,
+          "change_pct": -0.2,
           "currency": "JPY"
+        },
+        {
+          "ticker": "CRWD",
+          "name": "CrowdStrike Holdings, Inc.",
+          "price": 206.74,
+          "change_pct": -1.02,
+          "currency": "USD"
+        },
+        {
+          "ticker": "PANW",
+          "name": "Palo Alto Networks, Inc.",
+          "price": 330.65,
+          "change_pct": -2.32,
+          "currency": "USD"
+        },
+        {
+          "ticker": "FTNT",
+          "name": "Fortinet, Inc.",
+          "price": 156.07,
+          "change_pct": -1.75,
+          "currency": "USD"
         }
       ],
-      "avg_change_pct": 0.06
+      "avg_change_pct": -1.32
     },
     {
-      "sector_id": "energy_gx",
-      "name_ja": "資源・エネルギー安全保障・GX",
+      "sector_id": "telecom",
+      "name_ja": "情報通信",
       "stocks": [
         {
-          "ticker": "5020.T",
-          "name": "ENEOS HOLDINGS INC",
-          "price": 1441.0,
-          "change_pct": -2.11,
+          "ticker": "9432.T",
+          "name": "NTT INC",
+          "price": 175.7,
+          "change_pct": 0.29,
           "currency": "JPY"
         },
         {
-          "ticker": "9502.T",
-          "name": "CHUBU ELECTRIC POWER CO INC",
-          "price": 2992.0,
-          "change_pct": -2.0,
+          "ticker": "9433.T",
+          "name": "KDDI CORPORATION",
+          "price": 3031.0,
+          "change_pct": 0.76,
           "currency": "JPY"
         },
         {
-          "ticker": "FSLR",
-          "name": "First Solar, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
+          "ticker": "9434.T",
+          "name": "SOFTBANK CORP.",
+          "price": 246.9,
+          "change_pct": 1.52,
+          "currency": "JPY"
         },
         {
-          "ticker": "NEE",
-          "name": "NextEra Energy, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
+          "ticker": "6701.T",
+          "name": "NEC CORP",
+          "price": 4536.0,
+          "change_pct": -1.11,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "price": 112.13,
+          "change_pct": 4.37,
           "currency": "USD"
         }
       ],
-      "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "fusion",
-      "name_ja": "フュージョンエネルギー",
-      "stocks": [
-        {
-          "ticker": "7011.T",
-          "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 3705.0,
-          "change_pct": -0.48,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "CCJ",
-          "name": "Cameco Corporation",
-          "price": NaN,
-          "change_pct": NaN,
-          "currency": "USD"
-        }
-      ],
-      "avg_change_pct": NaN
+      "avg_change_pct": 1.17
     },
     {
       "sector_id": "disaster_resilience",
@@ -464,6 +268,55 @@
       "avg_change_pct": -1.07
     },
     {
+      "sector_id": "ai_semicon",
+      "name_ja": "AI・半導体",
+      "stocks": [
+        {
+          "ticker": "8035.T",
+          "name": "TOKYO ELECTRON",
+          "price": 51460.0,
+          "change_pct": -2.56,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "6857.T",
+          "name": "ADVANTEST CORP",
+          "price": 31720.0,
+          "change_pct": -6.49,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "6758.T",
+          "name": "SONY GROUP CORPORATION",
+          "price": 3632.0,
+          "change_pct": -0.22,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA Corporation",
+          "price": 218.29,
+          "change_pct": -0.03,
+          "currency": "USD"
+        },
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor Manufactur",
+          "price": 433.24,
+          "change_pct": 1.22,
+          "currency": "USD"
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "price": 516.13,
+          "change_pct": 2.49,
+          "currency": "USD"
+        }
+      ],
+      "avg_change_pct": -0.93
+    },
+    {
       "sector_id": "port_logistics",
       "name_ja": "港湾ロジスティクス",
       "stocks": [
@@ -492,6 +345,76 @@
       "avg_change_pct": 0.88
     },
     {
+      "sector_id": "quantum",
+      "name_ja": "量子",
+      "stocks": [
+        {
+          "ticker": "6702.T",
+          "name": "FUJITSU",
+          "price": 3749.0,
+          "change_pct": -1.03,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "IBM",
+          "name": "International Business Machines",
+          "price": 243.29,
+          "change_pct": 3.96,
+          "currency": "USD"
+        },
+        {
+          "ticker": "IONQ",
+          "name": "IonQ, Inc.",
+          "price": 36.75,
+          "change_pct": -0.24,
+          "currency": "USD"
+        },
+        {
+          "ticker": "RGTI",
+          "name": "Rigetti Computing, Inc.",
+          "price": 15.27,
+          "change_pct": 0.73,
+          "currency": "USD"
+        }
+      ],
+      "avg_change_pct": 0.85
+    },
+    {
+      "sector_id": "energy_gx",
+      "name_ja": "資源・エネルギー安全保障・GX",
+      "stocks": [
+        {
+          "ticker": "5020.T",
+          "name": "ENEOS HOLDINGS INC",
+          "price": 1441.0,
+          "change_pct": -2.11,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "9502.T",
+          "name": "CHUBU ELECTRIC POWER CO INC",
+          "price": 2992.0,
+          "change_pct": -2.0,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "FSLR",
+          "name": "First Solar, Inc.",
+          "price": 209.03,
+          "change_pct": 0.9,
+          "currency": "USD"
+        },
+        {
+          "ticker": "NEE",
+          "name": "NextEra Energy, Inc.",
+          "price": 82.31,
+          "change_pct": -0.16,
+          "currency": "USD"
+        }
+      ],
+      "avg_change_pct": -0.84
+    },
+    {
       "sector_id": "foodtech",
       "name_ja": "フードテック",
       "stocks": [
@@ -505,8 +428,8 @@
         {
           "ticker": "BYND",
           "name": "Beyond Meat, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
+          "price": 10.21,
+          "change_pct": -2.3,
           "currency": "USD"
         },
         {
@@ -517,49 +440,126 @@
           "currency": "JPY"
         }
       ],
-      "avg_change_pct": NaN
+      "avg_change_pct": -0.77
     },
     {
-      "sector_id": "content",
-      "name_ja": "コンテンツ",
+      "sector_id": "aerospace",
+      "name_ja": "航空・宇宙",
       "stocks": [
         {
-          "ticker": "9697.T",
-          "name": "CAPCOM CO LTD",
-          "price": 4240.0,
-          "change_pct": 1.05,
+          "ticker": "7013.T",
+          "name": "IHI CORPORATION",
+          "price": 2665.0,
+          "change_pct": 0.06,
           "currency": "JPY"
         },
         {
-          "ticker": "9766.T",
-          "name": "KONAMI GROUP CORPORATION",
-          "price": 20730.0,
-          "change_pct": 1.87,
+          "ticker": "7011.T",
+          "name": "MITSUBISHI HEAVY INDUSTRIES",
+          "price": 3705.0,
+          "change_pct": -0.48,
           "currency": "JPY"
         },
         {
-          "ticker": "7832.T",
-          "name": "BANDAI NAMCO HOLDINGS INC",
-          "price": 5359.0,
-          "change_pct": 2.35,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "DIS",
-          "name": "Walt Disney Company (The)",
-          "price": NaN,
-          "change_pct": NaN,
+          "ticker": "BA",
+          "name": "Boeing Company (The)",
+          "price": 210.45,
+          "change_pct": 2.76,
           "currency": "USD"
         },
         {
-          "ticker": "NFLX",
-          "name": "Netflix, Inc.",
-          "price": NaN,
-          "change_pct": NaN,
+          "ticker": "RKLB",
+          "name": "Rocket Lab Corporation",
+          "price": 62.95,
+          "change_pct": 1.6,
+          "currency": "USD"
+        },
+        {
+          "ticker": "9348.T",
+          "name": "ISPACE INC",
+          "price": 411.0,
+          "change_pct": -0.72,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": 0.64
+    },
+    {
+      "sector_id": "defense",
+      "name_ja": "防衛産業",
+      "stocks": [
+        {
+          "ticker": "7011.T",
+          "name": "MITSUBISHI HEAVY INDUSTRIES",
+          "price": 3705.0,
+          "change_pct": -0.48,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "7012.T",
+          "name": "KAWASAKI HEAVY INDUSTRIES",
+          "price": 2319.0,
+          "change_pct": -1.28,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "LMT",
+          "name": "Lockheed Martin Corporation",
+          "price": 524.19,
+          "change_pct": -1.12,
+          "currency": "USD"
+        },
+        {
+          "ticker": "RTX",
+          "name": "RTX Corporation",
+          "price": 197.68,
+          "change_pct": -0.22,
+          "currency": "USD"
+        },
+        {
+          "ticker": "NOC",
+          "name": "Northrop Grumman Corporation",
+          "price": 518.97,
+          "change_pct": 0.0,
           "currency": "USD"
         }
       ],
-      "avg_change_pct": NaN
+      "avg_change_pct": -0.62
+    },
+    {
+      "sector_id": "fusion",
+      "name_ja": "フュージョンエネルギー",
+      "stocks": [
+        {
+          "ticker": "7011.T",
+          "name": "MITSUBISHI HEAVY INDUSTRIES",
+          "price": 3705.0,
+          "change_pct": -0.48,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "CCJ",
+          "name": "Cameco Corporation",
+          "price": 96.68,
+          "change_pct": -0.76,
+          "currency": "USD"
+        }
+      ],
+      "avg_change_pct": -0.62
+    },
+    {
+      "sector_id": "biotech",
+      "name_ja": "合成生物学・バイオ",
+      "stocks": [
+        {
+          "ticker": "4519.T",
+          "name": "CHUGAI PHARMACEUTICAL CO",
+          "price": 6422.0,
+          "change_pct": 0.06,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": 0.06
     }
   ]
 }
