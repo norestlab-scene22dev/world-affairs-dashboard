@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T01:17:13.208835+00:00",
+  "generated_at": "2026-10-23T01:16:20.064486+00:00",
   "sectors": [
     {
       "sector_id": "ai_semicon",
@@ -8,22 +8,22 @@
         {
           "ticker": "8035.T",
           "name": "TOKYO ELECTRON",
-          "price": 9795.0,
-          "change_pct": -3.59,
+          "price": 9141.0,
+          "change_pct": -3.27,
           "currency": "JPY"
         },
         {
           "ticker": "6857.T",
           "name": "ADVANTEST CORP",
-          "price": 34330.0,
-          "change_pct": -0.32,
+          "price": 31620.0,
+          "change_pct": -2.32,
           "currency": "JPY"
         },
         {
           "ticker": "6758.T",
           "name": "SONY GROUP CORPORATION",
-          "price": 4132.0,
-          "change_pct": 2.99,
+          "price": 4113.0,
+          "change_pct": 0.78,
           "currency": "JPY"
         },
         {
@@ -57,8 +57,8 @@
         {
           "ticker": "4307.T",
           "name": "NOMURA RESEARCH INSTITUTE",
-          "price": 6269.0,
-          "change_pct": 4.64,
+          "price": 6163.0,
+          "change_pct": -0.52,
           "currency": "JPY"
         },
         {
@@ -92,29 +92,29 @@
         {
           "ticker": "9432.T",
           "name": "NTT INC",
-          "price": 177.3,
-          "change_pct": 0.62,
+          "price": 178.4,
+          "change_pct": 0.17,
           "currency": "JPY"
         },
         {
           "ticker": "9433.T",
           "name": "KDDI CORPORATION",
-          "price": 2915.0,
-          "change_pct": 0.17,
+          "price": 2918.5,
+          "change_pct": 0.41,
           "currency": "JPY"
         },
         {
           "ticker": "9434.T",
           "name": "SOFTBANK CORP.",
-          "price": 247.2,
-          "change_pct": 0.24,
+          "price": 243.5,
+          "change_pct": -1.26,
           "currency": "JPY"
         },
         {
           "ticker": "6701.T",
           "name": "NEC CORP",
-          "price": 5625.0,
-          "change_pct": 4.48,
+          "price": 5469.0,
+          "change_pct": -1.51,
           "currency": "JPY"
         },
         {
@@ -134,8 +134,8 @@
         {
           "ticker": "6702.T",
           "name": "FUJITSU",
-          "price": 4605.0,
-          "change_pct": 3.86,
+          "price": 4511.0,
+          "change_pct": -1.36,
           "currency": "JPY"
         },
         {
@@ -169,15 +169,15 @@
         {
           "ticker": "7011.T",
           "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 3749.0,
-          "change_pct": 0.75,
+          "price": 3591.0,
+          "change_pct": -2.63,
           "currency": "JPY"
         },
         {
           "ticker": "7012.T",
           "name": "KAWASAKI HEAVY INDUSTRIES",
-          "price": 2235.0,
-          "change_pct": -0.31,
+          "price": 2153.0,
+          "change_pct": -1.33,
           "currency": "JPY"
         },
         {
@@ -211,15 +211,15 @@
         {
           "ticker": "7013.T",
           "name": "IHI CORPORATION",
-          "price": 2513.0,
-          "change_pct": 0.32,
+          "price": 2440.5,
+          "change_pct": -0.45,
           "currency": "JPY"
         },
         {
           "ticker": "7011.T",
           "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 3749.0,
-          "change_pct": 0.75,
+          "price": 3591.0,
+          "change_pct": -2.63,
           "currency": "JPY"
         },
         {
@@ -239,40 +239,12 @@
         {
           "ticker": "9348.T",
           "name": "ISPACE INC",
-          "price": 387.0,
-          "change_pct": 0.52,
+          "price": 374.0,
+          "change_pct": -1.32,
           "currency": "JPY"
         }
       ],
       "avg_change_pct": NaN
-    },
-    {
-      "sector_id": "shipbuilding",
-      "name_ja": "造船",
-      "stocks": [
-        {
-          "ticker": "7003.T",
-          "name": "MITSUI E&S CO LTD",
-          "price": 3665.0,
-          "change_pct": -0.79,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7012.T",
-          "name": "KAWASAKI HEAVY INDUSTRIES",
-          "price": 2235.0,
-          "change_pct": -0.31,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "7014.T",
-          "name": "NAMURA SHIPBUILDING CO",
-          "price": 4275.0,
-          "change_pct": -1.04,
-          "currency": "JPY"
-        }
-      ],
-      "avg_change_pct": -0.71
     },
     {
       "sector_id": "ocean",
@@ -281,19 +253,47 @@
         {
           "ticker": "7003.T",
           "name": "MITSUI E&S CO LTD",
-          "price": 3665.0,
-          "change_pct": -0.79,
+          "price": 3451.0,
+          "change_pct": -3.01,
           "currency": "JPY"
         },
         {
           "ticker": "6503.T",
           "name": "MITSUBISHI ELECTRIC CORP",
-          "price": 4934.0,
-          "change_pct": -0.26,
+          "price": 4667.0,
+          "change_pct": -4.38,
           "currency": "JPY"
         }
       ],
-      "avg_change_pct": -0.53
+      "avg_change_pct": -3.69
+    },
+    {
+      "sector_id": "shipbuilding",
+      "name_ja": "造船",
+      "stocks": [
+        {
+          "ticker": "7003.T",
+          "name": "MITSUI E&S CO LTD",
+          "price": 3451.0,
+          "change_pct": -3.01,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "7012.T",
+          "name": "KAWASAKI HEAVY INDUSTRIES",
+          "price": 2153.0,
+          "change_pct": -1.33,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "7014.T",
+          "name": "NAMURA SHIPBUILDING CO",
+          "price": 4085.0,
+          "change_pct": -2.04,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": -2.13
     },
     {
       "sector_id": "materials",
@@ -302,15 +302,15 @@
         {
           "ticker": "5401.T",
           "name": "NIPPON STEEL CORPORATION",
-          "price": 665.6,
-          "change_pct": 0.38,
+          "price": 657.8,
+          "change_pct": -1.5,
           "currency": "JPY"
         },
         {
           "ticker": "5713.T",
           "name": "SUMITOMO METAL MINING CO",
-          "price": 8252.0,
-          "change_pct": -1.37,
+          "price": 7728.0,
+          "change_pct": -4.52,
           "currency": "JPY"
         },
         {
@@ -323,8 +323,8 @@
         {
           "ticker": "5406.T",
           "name": "KOBE STEEL",
-          "price": 2018.5,
-          "change_pct": 0.17,
+          "price": 2008.5,
+          "change_pct": -0.72,
           "currency": "JPY"
         }
       ],
@@ -337,15 +337,15 @@
         {
           "ticker": "4502.T",
           "name": "TAKEDA PHARMACEUTICAL CO LTD",
-          "price": 6360.0,
-          "change_pct": 0.71,
+          "price": 6392.0,
+          "change_pct": 0.69,
           "currency": "JPY"
         },
         {
           "ticker": "4519.T",
           "name": "CHUGAI PHARMACEUTICAL CO",
-          "price": 6552.0,
-          "change_pct": 0.63,
+          "price": 6835.0,
+          "change_pct": 3.34,
           "currency": "JPY"
         },
         {
@@ -372,12 +372,12 @@
         {
           "ticker": "4519.T",
           "name": "CHUGAI PHARMACEUTICAL CO",
-          "price": 6552.0,
-          "change_pct": 0.63,
+          "price": 6835.0,
+          "change_pct": 3.34,
           "currency": "JPY"
         }
       ],
-      "avg_change_pct": 0.63
+      "avg_change_pct": 3.34
     },
     {
       "sector_id": "energy_gx",
@@ -386,15 +386,15 @@
         {
           "ticker": "5020.T",
           "name": "ENEOS HOLDINGS INC",
-          "price": 1412.5,
-          "change_pct": -0.39,
+          "price": 1398.5,
+          "change_pct": -2.07,
           "currency": "JPY"
         },
         {
           "ticker": "9502.T",
           "name": "CHUBU ELECTRIC POWER CO INC",
-          "price": 2617.5,
-          "change_pct": 0.1,
+          "price": 2598.5,
+          "change_pct": -0.48,
           "currency": "JPY"
         },
         {
@@ -421,8 +421,8 @@
         {
           "ticker": "7011.T",
           "name": "MITSUBISHI HEAVY INDUSTRIES",
-          "price": 3749.0,
-          "change_pct": 0.75,
+          "price": 3591.0,
+          "change_pct": -2.63,
           "currency": "JPY"
         },
         {
@@ -436,60 +436,60 @@
       "avg_change_pct": NaN
     },
     {
-      "sector_id": "disaster_resilience",
-      "name_ja": "防災・国土強靱化",
-      "stocks": [
-        {
-          "ticker": "1801.T",
-          "name": "TAISEI CORP",
-          "price": 11430.0,
-          "change_pct": 0.0,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "1802.T",
-          "name": "OBAYASHI CORP",
-          "price": 2930.5,
-          "change_pct": 0.96,
-          "currency": "JPY"
-        },
-        {
-          "ticker": "1812.T",
-          "name": "KAJIMA CORP",
-          "price": 4792.0,
-          "change_pct": 0.55,
-          "currency": "JPY"
-        }
-      ],
-      "avg_change_pct": 0.5
-    },
-    {
       "sector_id": "port_logistics",
       "name_ja": "港湾ロジスティクス",
       "stocks": [
         {
           "ticker": "9101.T",
           "name": "NIPPON YUSEN KABUSHIKI KAISHA",
-          "price": 7336.0,
-          "change_pct": 0.15,
+          "price": 7112.0,
+          "change_pct": -2.13,
           "currency": "JPY"
         },
         {
           "ticker": "9104.T",
           "name": "MITSUI O.S.K. LINES LTD",
-          "price": 7456.0,
-          "change_pct": -0.17,
+          "price": 7101.0,
+          "change_pct": -3.72,
           "currency": "JPY"
         },
         {
           "ticker": "9143.T",
           "name": "SG HOLDINGS CO LTD",
-          "price": 1497.5,
-          "change_pct": 0.74,
+          "price": 1499.5,
+          "change_pct": 0.13,
           "currency": "JPY"
         }
       ],
-      "avg_change_pct": 0.24
+      "avg_change_pct": -1.91
+    },
+    {
+      "sector_id": "disaster_resilience",
+      "name_ja": "防災・国土強靱化",
+      "stocks": [
+        {
+          "ticker": "1801.T",
+          "name": "TAISEI CORP",
+          "price": 11055.0,
+          "change_pct": -1.03,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "1802.T",
+          "name": "OBAYASHI CORP",
+          "price": 2889.0,
+          "change_pct": -0.62,
+          "currency": "JPY"
+        },
+        {
+          "ticker": "1812.T",
+          "name": "KAJIMA CORP",
+          "price": 4736.0,
+          "change_pct": -0.82,
+          "currency": "JPY"
+        }
+      ],
+      "avg_change_pct": -0.82
     },
     {
       "sector_id": "foodtech",
@@ -498,8 +498,8 @@
         {
           "ticker": "2802.T",
           "name": "AJINOMOTO CO INC",
-          "price": 5174.0,
-          "change_pct": -1.97,
+          "price": 5024.0,
+          "change_pct": -0.44,
           "currency": "JPY"
         },
         {
@@ -512,8 +512,8 @@
         {
           "ticker": "2914.T",
           "name": "JAPAN TOBACCO INC",
-          "price": 7535.0,
-          "change_pct": 0.44,
+          "price": 7630.0,
+          "change_pct": 1.99,
           "currency": "JPY"
         }
       ],
@@ -526,22 +526,22 @@
         {
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
-          "price": 4494.0,
-          "change_pct": -0.38,
+          "price": 4416.0,
+          "change_pct": 0.07,
           "currency": "JPY"
         },
         {
           "ticker": "9766.T",
           "name": "KONAMI GROUP CORPORATION",
-          "price": 25780.0,
-          "change_pct": 1.76,
+          "price": 25205.0,
+          "change_pct": 0.12,
           "currency": "JPY"
         },
         {
           "ticker": "7832.T",
           "name": "BANDAI NAMCO HOLDINGS INC",
-          "price": 6440.0,
-          "change_pct": 0.2,
+          "price": 6347.0,
+          "change_pct": -0.06,
           "currency": "JPY"
         },
         {
